@@ -86,7 +86,7 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
   </div>
 </div>
 
-## Prior to the Workshop
+### Prior to the Workshop
 
 Please ensure you have a laptop with administrative privileges for software installation.
 
@@ -104,15 +104,15 @@ The central goals of the workshop are fourfold:
 4. to learn ways that we can disseminate and share that data.
 
 
-### Recommended Background Reading
+### Background Reading
 
  While no prior experience with GIS or mapping is required, participants are encouraged to explore existing spatial humanities projects to understand the field's scope and possibilities. For each module below, we will provide some pre-reading and some follow up materials. A Zotero library of supplementary readings is available [here](https://www.zotero.org/groups/2352275/hdme_esu).
 
-## Workshop Agenda
+### Workshop Agenda
 
 In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research. We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis.
 
-## Week 1: Foundations and Data Creation
+### Week 1: Foundations and Data Creation
 
 Critical review of spatial humanities projects and data creation fundamentals
 
