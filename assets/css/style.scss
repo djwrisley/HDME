@@ -218,6 +218,81 @@ h3[id*="Hands"] {
   }
 }
 
+/* Mobile Navigation Bar */
+.session-nav-mobile {
+  display: none !important;
+  margin: 20px 0 !important;
+  padding: 15px !important;
+  background: rgba(156, 39, 176, 0.05) !important;
+  border-radius: 12px !important;
+  border: 1px solid rgba(0, 188, 212, 0.2) !important;
+}
+
+.session-nav-mobile h4 {
+  margin: 0 0 10px 0 !important;
+  color: #7B1FA2 !important;
+  border: none !important;
+  padding: 0 !important;
+  font-size: 0.9em !important;
+  text-align: center !important;
+  font-weight: 700 !important;
+}
+
+.session-nav-mobile-week {
+  margin-bottom: 15px !important;
+}
+
+.session-nav-mobile-week:last-child {
+  margin-bottom: 0 !important;
+}
+
+.session-nav-mobile-buttons {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 6px !important;
+  justify-content: center !important;
+}
+
+.session-nav-mobile-button {
+  display: inline-block !important;
+  padding: 8px 12px !important;
+  background: linear-gradient(135deg, #7B1FA2 0%, #9C27B0 100%) !important;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 16px !important;
+  font-size: 0.8em !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 2px 6px rgba(123, 31, 162, 0.2) !important;
+  border: none !important;
+  text-align: center !important;
+  min-width: 40px !important;
+}
+
+.session-nav-mobile-button:hover {
+  background: linear-gradient(135deg, #9C27B0 0%, #BA68C8 100%) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 3px 8px rgba(123, 31, 162, 0.3) !important;
+  color: white !important;
+}
+
+.session-nav-mobile-button.hands-on {
+  background: linear-gradient(135deg, #00BCD4 0%, #26C6DA 100%) !important;
+  box-shadow: 0 2px 6px rgba(0, 188, 212, 0.2) !important;
+  font-size: 0.7em !important;
+}
+
+.session-nav-mobile-button.hands-on:hover {
+  background: linear-gradient(135deg, #26C6DA 0%, #4DD0E1 100%) !important;
+  box-shadow: 0 3px 8px rgba(0, 188, 212, 0.3) !important;
+}
+
+@media (max-width: 1024px) {
+  .session-nav-mobile {
+    display: block !important;
+  }
+}
+
 /* Animations */
 @keyframes gradient-shift {
   0% {
