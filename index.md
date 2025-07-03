@@ -117,15 +117,16 @@ Critical review of spatial humanities projects. Fundamentals of spatial data cre
 
 #### Overview
 * Introduction to spatial thinking in humanities research
-* Project examples across the disciplines
+* Two terms: "Humanities" Data and "Mapping Environments"
 * Introduction to the course and the platforms we will use
+* Project examples across the disciplines
 
 #### Pre-reading
 * 
 * 
 
 #### Slides
-* 
+* [ESUDH HDME 2025 overview](https://docs.google.com/presentation/d/1xr1rH-2SMc8dKwtzjYaXWDcYHrDgWWvV7C05g8XNROs/edit?usp=sharing)
 * 
 
 #### Exercises
