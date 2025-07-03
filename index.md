@@ -8,6 +8,7 @@ title: "HDME ESUDH 2025"
 ### [European Summer University in Digital Humanities](https://esudh.github.io/)
 #### Université Marie et Louis Pasteur, Besançon, France 
 #### 21.7-2.8.2025
+#### 36 contact hours total (18 per week)
 
 ### Workshop Overview
 
@@ -90,11 +91,9 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
 
 Details for accounts to make and pre-workshop downloads can be found [here](workshop-prep.md)
 
-**Duration:** 36 hours total (two weeks of 18 contact hours each)
-
 ### Workshop Goals
 
-The central goals of the workshop are fourfold:
+The main goals of the workshop are fourfold:
 
 1. to learn where we might obtain spatial data relevant to our research interests, or capture data from analog sources through digitization,
 2. to explore modeling data for a research project having a spatial dimension,
@@ -102,9 +101,9 @@ The central goals of the workshop are fourfold:
 4. to learn ways that we can disseminate and share that data.
 
 
-### Background Reading
+### Background
 
- While no prior experience with GIS or mapping is required, participants are encouraged to explore existing spatial humanities projects to understand the field's scope and possibilities. For each module below, we will provide some pre-reading and some follow up materials. A Zotero library of supplementary readings is available [here](https://www.zotero.org/groups/2352275/hdme_esu).
+Participants are encouraged to explore existing spatial humanities scholarship to understand the full scope and possibilities of the field. For each module below, we will provide some pre-reading and some follow up materials. A Zotero library of supplementary readings is available [here](https://www.zotero.org/groups/2352275/hdme_esu). No prior experience with GIS or mapping is expected.
 
 ### Workshop Agenda
 
