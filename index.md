@@ -3,6 +3,8 @@ layout: default
 title: "HDME ESUDH 2025"
 ---
 
+<a name="top"></a>
+
 ### [European Summer University in Digital Humanities](https://esudh.github.io/)
 #### Université Marie et Louis Pasteur, Besançon, France 
 #### 21.7-2.8.2025
@@ -70,6 +72,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 2a. Monday: Critical Review of Projects (Afternoon)
 
 #### Overview
@@ -92,6 +96,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 3a. Tuesday: Location-Based Research Methods (Morning)
 
 #### Overview
@@ -113,6 +119,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
 
 ### 4a. Tuesday: Data Sources and Acquisition (Afternoon)
 
@@ -138,28 +146,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 * 
 * 
 
-### 5a. Wednesday: Gazetteers and Mobile Collection (Morning)
->>>>>>> Stashed changes
+<a href="#top" class="back-to-top">Back to Top</a>
 
-#### Overview
-* Using gazetteers and mobile tools for spatial data collection
-* Hands-on practice with data collection tools
-
-#### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
-
-#### Exercises
-* 
-* 
-
-#### Additional References
-* 
-* 
 
 ### 6a. Wednesday: Data Creation Workflows (Afternoon)
 
@@ -183,6 +171,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 7a. Thursday: Basic Querying Techniques (Morning)
 
 #### Overview
@@ -204,6 +194,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
 
 ### Hands on. Thursday: Practical Application (Afternoon)
 
@@ -227,6 +219,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 8a. Friday: Data Normalization (Morning)
 
 #### Overview
@@ -249,6 +243,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 9a. Friday: Manual vs. Automated Analysis (Afternoon)
 
 #### Overview
@@ -270,6 +266,8 @@ Critical review of spatial humanities projects and data creation fundamentals
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
 
 ---
 
@@ -301,6 +299,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 2b. Monday: Automated Workflows (Afternoon)
 
 #### Overview
@@ -322,6 +322,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
 
 ### 3b. Tuesday: Advanced Visualization (Morning)
 
@@ -345,6 +347,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 4b. Tuesday: Open-Source GIS Introduction (Afternoon)
 
 #### Overview
@@ -366,6 +370,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
 
 ### 5b. Wednesday: Georeferencing and Warping (Morning)
 
@@ -389,6 +395,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 6b. Wednesday: Historical Vector Data (Afternoon)
 
 #### Overview
@@ -410,6 +418,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
 
 ### 7b. Thursday: Specialized Tools and Gazetteers (Morning)
 
@@ -433,6 +443,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### Hands on. Thursday: Advanced Practical Application (Afternoon)
 
 #### Overview
@@ -455,6 +467,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
+
 ### 8b. Friday: OpenStreetMap and Wikidata (Morning)
 
 #### Overview
@@ -476,6 +490,8 @@ Static site development, advanced visualization, and storytelling with spatial d
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
 
 ### 9b. Friday: Machine Learning Applications and Project Presentation (Afternoon)
 
@@ -500,4 +516,5 @@ Static site development, advanced visualization, and storytelling with spatial d
 * 
 * 
 
+<a href="#top" class="back-to-top">Back to Top</a>
 
