@@ -145,29 +145,29 @@ h3[id*="Hands"] {
   position: fixed !important;
   top: 120px !important;
   right: 20px !important;
-  width: 180px !important;
+  width: 120px !important;
   max-height: calc(100vh - 140px) !important;
   overflow-y: auto !important;
   background: rgba(255, 255, 255, 0.95) !important;
   border: 1px solid rgba(0, 188, 212, 0.3) !important;
   border-radius: 12px !important;
-  padding: 15px !important;
+  padding: 12px !important;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1) !important;
   backdrop-filter: blur(10px) !important;
   z-index: 1000 !important;
 }
 
 .session-nav-sidebar h4 {
-  margin: 0 0 10px 0 !important;
+  margin: 0 0 8px 0 !important;
   color: #7B1FA2 !important;
   border: none !important;
   padding: 0 !important;
-  font-size: 0.9em !important;
+  font-size: 0.85em !important;
   text-align: center !important;
 }
 
 .session-nav-week {
-  margin-bottom: 15px !important;
+  margin-bottom: 12px !important;
 }
 
 .session-nav-week:last-child {
@@ -177,13 +177,13 @@ h3[id*="Hands"] {
 .session-nav-button {
   display: block !important;
   width: 100% !important;
-  margin-bottom: 4px !important;
-  padding: 6px 8px !important;
+  margin-bottom: 3px !important;
+  padding: 5px 6px !important;
   background: linear-gradient(135deg, #7B1FA2 0%, #9C27B0 100%) !important;
   color: white !important;
   text-decoration: none !important;
-  border-radius: 15px !important;
-  font-size: 0.75em !important;
+  border-radius: 12px !important;
+  font-size: 0.7em !important;
   font-weight: 600 !important;
   transition: all 0.3s ease !important;
   box-shadow: 0 2px 6px rgba(123, 31, 162, 0.2) !important;
