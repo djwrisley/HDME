@@ -4,7 +4,7 @@
 #### Université Marie et Louis Pasteur, Besançon, France 
 #### 21.7-2.8.2025
 
-### 1. Devices
+### 1. Requisite Devices
 
 We assume for the workshop that participants will be able to bring their own **laptop** with relatively new updates to operating systems. We will work with some web-based resources as well as a download of the long-term release (LTR) version of [QGIS](https://www.qgis.org/en/site/forusers/download.html) Specs for computers are described for all systems in the above link. Generally speaking, a tablet may be sufficient for some lessons, but is not sufficient for QGIS.
 
@@ -12,17 +12,17 @@ As we will be doing some data collection in the city, it will also be beneficial
 
 > _In the case that a student does not have a smartphone or a laptop that can run QGIS, we may be able to devise a work around, e.g. working in pairs or manually geocoding. There will only be a few sessions featuring these devices._
 
-### 2. Accounts to make
+### 2. Make accounts at the following
 
 | service | usage | notes |
-| Google | for access to drive for some file sharing | perhaps can do without | 
+| Google | for access to drive for some file sharing | perhaps can forego, with reduced functionality | 
 | [Posit.cloud](https://posit.cloud/plans) | sharing of R Markdown files and running code | Choose the free account |
 | [OSM](https://www.openstreetmap.org/user/new) | edit access to OSM editing and login for UMap | |  
 | [WikiData](https://www.wikidata.org/w/index.php?title=Special:CreateAccount) | edit access | it needs to be a different account from Wikimedia Commons, if you have one there | 
 | [GitHub](https://github.com/signup) | for Github pages, hosting web maps | If you already have a GitHub account, there is no need to make another one. If you have your own web hosting, you can use that | 
 | [Recogito](https://recogito.pelagios.org/) | for group annotation | |
-| [Zotero](https://www.zotero.org/user/register) | for HDME citation library | optional | 
-| [openai.com](https://openai.com/) | for debugging and some code generation | optional, other genAI interfaces are possible, if you prefer | 
+| [Zotero](https://www.zotero.org/user/register) | for HDME bibliography | optional, unless you want to join the group | 
+| [openai.com](https://openai.com/) | for debugging and some code generation | optional, other genAI interfaces are possible | 
 
 ### 3. Downloads
 
