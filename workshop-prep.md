@@ -12,25 +12,24 @@ As we will be doing some data collection in the city, it will also be beneficial
 
 > _In the case that a student does not have a smartphone or a laptop that can run QGIS, we may be able to devise a work around, e.g. working in pairs or manually geocoding. There will only be a few sessions featuring these devices._
 
-
-### Free accounts to make
+### Accounts to make
 
 | service | usage | notes |
 | Google | for access to drive for some file sharing | perhaps can do without | 
-| [Posit.cloud](https://posit.cloud/plans) | sharing of R Markdown files and running code | |
+| [Posit.cloud](https://posit.cloud/plans) | sharing of R Markdown files and running code | Choose the free account |
 | [OSM](https://www.openstreetmap.org/user/new) | edit access to OSM editing and login for UMap | |  
 | [WikiData](https://www.wikidata.org/w/index.php?title=Special:CreateAccount) | edit access | | 
 | [GitHub](https://github.com/signup) | for Github pages, hosting web maps | If you already have a GitHub account, there is no need to make another one. If you have your own web hosting, you can use that | 
 | [Recogito](https://recogito.pelagios.org/) | for group annotation | |
 | [Zotero](https://www.zotero.org/user/register) | for HDME citation library | optional | 
-| [openai.com](https://openai.com/) | for debugging and some code generation | optional, can chose another genAI, if you prefer | 
+| [openai.com](https://openai.com/) | for debugging and some code generation | optional, other genAI interfaces are possible, if you prefer | 
 
 ### Downloads
 
-- [Github Desktop](https://desktop.github.com/) 
-- [Sublime Text](https://www.sublimetext.com/) - If you already use another text editor such as Visual Studio Code, you do not need Sublime. The examples we will use in the workshop will be done in Sublime.
-- [QGIS](https://qgis.org/download/) - Don't download the regular version, but instead the Long Term Version 3.40.8 'Bratislava.' Mac users will need to heed the "tips for first launch." 
-- [Tropy](https://tropy.org/)
+| [Github Desktop](https://desktop.github.com/) | for management of files on GitHub | if fluent in git in terminal, not necessary | 
+| [Sublime Text](https://www.sublimetext.com/) | an easy to use text editor for editing files locally | if you already use another text editor such as Visual Studio Code, you do not need Sublime. The examples we will use in the workshop will be done in Sublime. |
+| [QGIS](https://qgis.org/download/) | Open source GIS standalone software | Don't download the regular version, but instead the Long Term Version 3.40.8 'Bratislava.' Mac users will need to heed the "tips for first launch." | 
+| [Tropy](https://tropy.org/) | a CMS for photos | | 
 
  
 NB: When making the accounts above, choose the free plans below and feel free to make a burner email account for these if you prefer for privacy reasons. 
