@@ -107,27 +107,29 @@ Participants are encouraged to explore existing spatial humanities scholarship t
 
 ### Workshop Agenda
 
-In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research. We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis.
+In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research. 
+
+We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis.
 
 ### Week 1: Foundations and Data Creation
 
-Critical review of spatial humanities projects. Fundamentals of spatial data creation and visualization. 
+* Fundamentals of spatial data creation and visualization. 
+* Introduction to spatial thinking in humanities research
 
 ### 1a. Monday: Introduction to Spatial Humanities 
 
 #### Overview
-* Introduction to spatial thinking in humanities research
 * Two terms: "Humanities" Data and "Mapping Environments"
 * Introduction to the course and the platforms we will use
-* Project examples across the disciplines
+* Critical review of project examples across the disciplines
 
 #### Pre-reading
-* 
+* Wilson, Matthew W. 2019. Mapping. In _Digital Geographies._ James Ash, Rob Kitchin, and
+Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Slides
 * [ESUDH HDME 2025 overview](https://docs.google.com/presentation/d/1xr1rH-2SMc8dKwtzjYaXWDcYHrDgWWvV7C05g8XNROs/edit?usp=sharing)
-* 
 
 #### Exercises
 * 
