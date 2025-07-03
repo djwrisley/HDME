@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HDME ESUDH 2025</title>
+    <link rel="stylesheet" href="https://pages-themes.github.io/slate/assets/css/style.css">
+    <style>
+        /* HDME Workshop Custom Styles */
+        :root {
+          --hdme-teal: #057676;
+          --hdme-coral: #FF7F50;
+          --hdme-mustard: #E4B363;
+          --hdme-navy: #1E3D59;
+          --hdme-sage: #8DAA9D;
+          --hdme-cream: #FFF8E8;
+          --hdme-dark-gray: #333333;
+        }
+
+        body {
+          background: var(--hdme-cream) !important;
+          color: var(--hdme-dark-gray) !important;
+        }
+
+        #main_content_wrap {
+          background: var(--hdme-cream) !important;
+        }
+
+        #header_wrap {
+          background: linear-gradient(135deg, var(--hdme-navy) 0%, var(--hdme-teal) 100%) !important;
+          position: relative;
+        }
+
+        #header_wrap .inner {
+          text-align: center;
+          position: relative;
+        }
+
+        #header_wrap .inner::before {
+          content: '';
+          display: block;
+          width: 100px;
+          height: 100px;
+          margin: 0 auto 20px auto;
+          background-image: url('./assets/LogoESU2025.jpg');
+          background-size: contain;
+          background-repeat: no-repeat;
+          background-position: center;
+          border-radius: 12px;
+          box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+          border: 3px solid rgba(255,255,255,0.2);
+        }
+
+        #project_title {
+          color: var(--hdme-cream) !important;
+          text-shadow: 2px 2px 4px rgba(0,0,0,0.7) !important;
+          font-weight: 700 !important;
+          margin-bottom: 10px !important;
+        }
+
+        #project_tagline {
+          color: var(--hdme-cream) !important;
+          text-shadow: 1px 1px 2px rgba(0,0,0,0.5) !important;
+          opacity: 0.95;
+        }
+
+        h1 {
+          color: var(--hdme-navy) !important;
+          border-bottom: 4px solid var(--hdme-coral) !important;
+          padding-bottom: 8px !important;
+          margin-top: 30px !important;
+          margin-bottom: 20px !important;
+        }
+
+        h2 {
+          color: var(--hdme-navy) !important;
+          border-bottom: 3px solid var(--hdme-coral) !important;
+          padding-bottom: 6px !important;
+          margin-top: 25px !important;
+          background: none !important;
+        }
+
+        h3 {
+          color: var(--hdme-navy) !important;
+          border-bottom: 2px solid var(--hdme-coral) !important;
+          padding-bottom: 4px !important;
+          margin-top: 20px !important;
+        }
+
+        h4 {
+          color: var(--hdme-teal) !important;
+          font-weight: 600 !important;
+          margin-top: 15px !important;
+        }
+
+        a {
+          color: var(--hdme-teal) !important;
+          transition: all 0.3s ease !important;
+        }
+
+        a:hover {
+          color: var(--hdme-coral) !important;
+          text-decoration: none !important;
+        }
+
+        /* Session styling */
+        h3[id*="a."], 
+        h3[id*="b."], 
+        h3[id*="Hands"] {
+          background: linear-gradient(90deg, rgba(228, 179, 99, 0.1), rgba(228, 179, 99, 0.05)) !important;
+          padding: 15px 20px !important;
+          border-radius: 8px !important;
+          border-left: 6px solid var(--hdme-mustard) !important;
+          margin: 25px 0 20px 0 !important;
+          box-shadow: 0 2px 10px rgba(0,0,0,0.1) !important;
+        }
+
+        ul li {
+          margin-bottom: 8px;
+          line-height: 1.7;
+        }
+
+        #footer_wrap {
+          background: linear-gradient(135deg, var(--hdme-navy) 0%, var(--hdme-teal) 100%) !important;
+        }
+
+        #forkme_banner {
+          display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+            <h1 id="project_title">Humanities Data and Mapping Environments</h1>
+            <h2 id="project_tagline">European Summer University in Digital Humanities, Besançon 2025</h2>
+        </header>
+    </div>
+
+    <div id="main_content_wrap" class="outer">
+        <section id="main_content" class="inner">
+            <h1>Humanities Data and Mapping Environments</h1>
+
+            <h2>Co-Instructors: <a href="https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/david-wrisley.html">David Joseph Wrisley</a> (NYU Abu Dhabi) and <a href="https://hiphi.ubbcluj.ro/personal/voica_puscasiu.html">Voica Pușcașiu</a> (Babeș-Bolyai University)</h2>
+
+            <h3><a href="https://esudh.github.io/">European Summer University in Digital Humanities "Technology and Culture"</a></h3>
+            <h3>Université Marie et Louis Pasteur, Besançon, France</h3>
+            <h3>21.7-2.8.2025</h3>
+
+            <h2>Workshop Overview</h2>
+            <p>This spatial humanities workshop will introduce participants to different ways of thinking about humanities data, their curation within projects, and their use in digital mapping environments. The workshop will not be a traditional course in Geographic Information Systems (GIS), although we will use open source GIS and web mapping along the way.</p>
+
+            <p>The workshop is designed for the total beginner who would like:</p>
+            <ul>
+                <li>to explore how a spatial dimension can enrich humanities and interdisciplinary research projects and</li>
+                <li>to learn some fundamental skills for collecting and organizing data in order to be able to integrate such methods into their research workflows.</li>
+            </ul>
+
+            <p>Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research.</p>
+
+            <h2>Workshop Agenda</h2>
+
+            <h3>Week 1: Foundations and Data Creation</h3>
+            <p>Critical review of spatial humanities projects and data creation fundamentals</p>
+
+            <h3 id="1a">1a. Monday: Introduction to Spatial Humanities (Morning)</h3>
+            <h4>Overview</h4>
+            <ul>
+                <li>Overview of spatial thinking in humanities research and project examples across disciplines</li>
+                <li>Introduction to the field and its applications</li>
+            </ul>
+
+            <h4>Pre-reading</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Slides</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Exercises</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Additional References</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h3 id="2a">2a. Monday: Critical Review of Projects (Afternoon)</h3>
+            <h4>Overview</h4>
+            <ul>
+                <li>Analyzing scope and rhetorical strategies in existing spatial humanities projects</li>
+                <li>Understanding different approaches to spatial storytelling</li>
+            </ul>
+
+            <h4>Pre-reading</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Slides</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Exercises</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Additional References</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h3 id="hands-on-1">Hands on. Thursday: Practical Application (Afternoon)</h3>
+            <h4>Overview</h4>
+            <ul>
+                <li>Hands-on application of learned techniques and tools</li>
+                <li>Individual and group practice sessions</li>
+            </ul>
+
+            <h4>Pre-reading</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Slides</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Exercises</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Additional References</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <hr>
+
+            <h3>Week 2: Visualization and Advanced Techniques</h3>
+            <p>Static site development, advanced visualization, and storytelling with spatial data</p>
+
+            <h3 id="1b">1b. Monday: Static Site Development (Morning)</h3>
+            <h4>Overview</h4>
+            <ul>
+                <li>Learning basic skills for hosting web maps on static sites</li>
+                <li>Introduction to web-based mapping platforms</li>
+            </ul>
+
+            <h4>Pre-reading</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Slides</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Exercises</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+            <h4>Additional References</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+
+        </section>
+    </div>
+
+    <div id="footer_wrap" class="outer">
+        <footer class="inner">
+            <p>© 2025 European Summer University in Digital Humanities</p>
+        </footer>
+    </div>
+</body>
+</html>

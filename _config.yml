@@ -1,0 +1,22 @@
+remote_theme: pages-themes/slate@v0.2.0
+title: "Humanities Data and Mapping Environments"
+description: "ESUDH 2025 Workshop with David Wrisley and Voica Pușcașiu"
+show_downloads: false
+baseurl: "/HDME"
+url: "https://djwrisley.github.io"
+
+# Ensure this is treated as a Jekyll site
+plugins:
+  - jekyll-remote-theme
+
+# Force GitHub Pages to recognize this as a separate site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Theme configuration
+sass:
+  sass_dir: assets/css
+  style: compressed

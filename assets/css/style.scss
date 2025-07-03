@@ -1,0 +1,75 @@
+---
+---
+
+/* HDME Workshop Custom Styles */
+
+/* Import Slate base styles */
+@import url("https://pages-themes.github.io/slate/assets/css/style.css");
+
+/* Override with custom styles */
+body {
+  background: #FFF8E8 !important;
+  color: #333333 !important;
+  border: 5px solid red !important; /* DEBUG BORDER */
+}
+
+#header_wrap {
+  background: linear-gradient(135deg, #1E3D59 0%, #057676 100%) !important;
+}
+
+#project_title {
+  color: #FFF8E8 !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.7) !important;
+}
+
+#project_tagline {
+  color: #FFF8E8 !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5) !important;
+}
+
+h1 {
+  color: #1E3D59 !important;
+  border-bottom: 4px solid #FF7F50 !important;
+  padding-bottom: 8px !important;
+}
+
+h2 {
+  color: #1E3D59 !important;
+  border-bottom: 3px solid #FF7F50 !important;
+  padding-bottom: 6px !important;
+  background: none !important;
+}
+
+h3 {
+  color: #1E3D59 !important;
+  border-bottom: 2px solid #FF7F50 !important;
+  padding-bottom: 4px !important;
+}
+
+h4 {
+  color: #057676 !important;
+  font-weight: 600 !important;
+}
+
+a {
+  color: #057676 !important;
+}
+
+a:hover {
+  color: #FF7F50 !important;
+}
+
+/* Session styling */
+h3[id*="a."], 
+h3[id*="b."], 
+h3[id*="Hands"] {
+  background: rgba(228, 179, 99, 0.15) !important;
+  padding: 15px 20px !important;
+  border-radius: 8px !important;
+  border-left: 6px solid #E4B363 !important;
+  margin: 25px 0 !important;
+}
+
+#footer_wrap {
+  background: linear-gradient(135deg, #1E3D59 0%, #057676 100%) !important;
+}

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Test HDME Styling</title>
+    <link rel="stylesheet" href="https://pages-themes.github.io/slate/assets/css/style.css">
+    <style>
+        /* HDME Workshop Custom Styles */
+        :root {
+          --hdme-teal: #057676;
+          --hdme-coral: #FF7F50;
+          --hdme-mustard: #E4B363;
+          --hdme-navy: #1E3D59;
+          --hdme-sage: #8DAA9D;
+          --hdme-cream: #FFF8E8;
+          --hdme-dark-gray: #333333;
+        }
+
+        body {
+          background: var(--hdme-cream) !important;
+          color: var(--hdme-dark-gray) !important;
+        }
+
+        #main_content_wrap {
+          background: var(--hdme-cream) !important;
+        }
+
+        #header_wrap {
+          background: linear-gradient(135deg, var(--hdme-navy) 0%, var(--hdme-teal) 100%) !important;
+          position: relative;
+        }
+
+        #header_wrap .inner {
+          text-align: center;
+          position: relative;
+        }
+
+        #header_wrap .inner::before {
+          content: '';
+          display: block;
+          width: 100px;
+          height: 100px;
+          margin: 0 auto 20px auto;
+          background-image: url('/assets/LogoESU2025.jpg');
+          background-size: contain;
+          background-repeat: no-repeat;
+          background-position: center;
+          border-radius: 12px;
+          box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+          border: 3px solid rgba(255,255,255,0.2);
+        }
+
+        #project_title {
+          color: var(--hdme-cream) !important;
+          text-shadow: 2px 2px 4px rgba(0,0,0,0.7) !important;
+          font-weight: 700 !important;
+          margin-bottom: 10px !important;
+        }
+
+        #project_tagline {
+          color: var(--hdme-cream) !important;
+          text-shadow: 1px 1px 2px rgba(0,0,0,0.5) !important;
+          opacity: 0.95;
+        }
+
+        h1 {
+          color: var(--hdme-navy) !important;
+          border-bottom: 4px solid var(--hdme-coral) !important;
+          padding-bottom: 8px !important;
+          margin-top: 30px !important;
+          margin-bottom: 20px !important;
+        }
+
+        h2 {
+          color: var(--hdme-navy) !important;
+          border-bottom: 3px solid var(--hdme-coral) !important;
+          padding-bottom: 6px !important;
+          margin-top: 25px !important;
+          background: none !important;
+        }
+
+        h3 {
+          color: var(--hdme-navy) !important;
+          border-bottom: 2px solid var(--hdme-coral) !important;
+          padding-bottom: 4px !important;
+          margin-top: 20px !important;
+        }
+
+        h4 {
+          color: var(--hdme-teal) !important;
+          font-weight: 600 !important;
+          margin-top: 15px !important;
+        }
+
+        a {
+          color: var(--hdme-teal) !important;
+          transition: all 0.3s ease !important;
+        }
+
+        a:hover {
+          color: var(--hdme-coral) !important;
+          text-decoration: none !important;
+        }
+
+        #footer_wrap {
+          background: linear-gradient(135deg, var(--hdme-navy) 0%, var(--hdme-teal) 100%) !important;
+        }
+
+        #forkme_banner {
+          display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+            <h1 id="project_title">Humanities Data and Mapping Environments</h1>
+            <h2 id="project_tagline">European Summer University in Digital Humanities, Besançon 2025</h2>
+        </header>
+    </div>
+
+    <div id="main_content_wrap" class="outer">
+        <section id="main_content" class="inner">
+            <h1>Workshop Overview</h1>
+            <p>This spatial humanities workshop will introduce participants to different ways of thinking about humanities data.</p>
+            
+            <h2>Week 1: Foundations and Data Creation</h2>
+            
+            <h3 id="1a">1a. Monday: Introduction to Spatial Humanities (Morning)</h3>
+            <h4>Overview</h4>
+            <ul>
+                <li>Overview of spatial thinking in humanities research</li>
+                <li>Introduction to the field and its applications</li>
+            </ul>
+            
+            <h4>Pre-reading</h4>
+            <ul>
+                <li></li>
+                <li></li>
+            </ul>
+            
+            <p>This is a test paragraph with a <a href="#">test link that changes color on hover</a>.</p>
+        </section>
+    </div>
+
+    <div id="footer_wrap" class="outer">
+        <footer class="inner">
+            <p>Footer content</p>
+        </footer>
+    </div>
+</body>
+</html>
