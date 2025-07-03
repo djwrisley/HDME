@@ -13,7 +13,9 @@ body {
 }
 
 #header_wrap {
-  background: linear-gradient(135deg, #5E2C80 0%, #8B3FB0 100%) !important;
+  background: linear-gradient(135deg, #5E2C80 0%, #8B3FB0 50%, #7B4BAF 100%) !important;
+  background-size: 400% 400% !important;
+  animation: gradient-shift 8s ease infinite !important;
 }
 
 /* Header layout with logo */
@@ -28,6 +30,19 @@ body {
   max-height: 80px !important;
   width: auto !important;
   flex-shrink: 0 !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+.header-logo::after {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent) !important;
+  animation: shimmer 3s infinite !important;
 }
 
 .header-text {
@@ -94,6 +109,33 @@ h3[id*="Hands"] {
 
 #footer_wrap {
   background: linear-gradient(135deg, #5E2C80 0%, #8B3FB0 100%) !important;
+}
+
+/* Animations */
+@keyframes gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  20%, 100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Hide the "view on GitHub" button */
+#forkme_banner {
+  display: none !important;
 }
 
 /* Responsive design for mobile */
