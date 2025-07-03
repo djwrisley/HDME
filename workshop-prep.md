@@ -18,7 +18,7 @@ As we will be doing some data collection in the city, it will also be beneficial
 | Google | for access to drive for some file sharing | perhaps can do without | 
 | [Posit.cloud](https://posit.cloud/plans) | sharing of R Markdown files and running code | Choose the free account |
 | [OSM](https://www.openstreetmap.org/user/new) | edit access to OSM editing and login for UMap | |  
-| [WikiData](https://www.wikidata.org/w/index.php?title=Special:CreateAccount) | edit access | | 
+| [WikiData](https://www.wikidata.org/w/index.php?title=Special:CreateAccount) | edit access | it needs to be a different account from Wikimedia Commons, if you have one there | 
 | [GitHub](https://github.com/signup) | for Github pages, hosting web maps | If you already have a GitHub account, there is no need to make another one. If you have your own web hosting, you can use that | 
 | [Recogito](https://recogito.pelagios.org/) | for group annotation | |
 | [Zotero](https://www.zotero.org/user/register) | for HDME citation library | optional | 
