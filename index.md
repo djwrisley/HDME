@@ -21,6 +21,8 @@ The workshop is designed for the total beginner who would like:
 Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research.
 
 <div class="session-nav-sidebar">
+  <a href="#top" class="session-nav-home">Home</a>
+  
   <div class="session-nav-week">
     <h4>Week 1</h4>
     <a href="#1a-monday-introduction-to-spatial-humanities-morning" class="session-nav-button">1a</a>
