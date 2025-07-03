@@ -88,9 +88,7 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
 
 ### Prior to the Workshop
 
-Please ensure you have a laptop with administrative privileges for software installation.
-
-Details for accounts to make and pre-workshop downloads [here](workshop-prep.md)
+Details for accounts to make and pre-workshop downloads can be found [here](workshop-prep.md)
 
 **Duration:** 36 hours total (two weeks of 18 contact hours each)
 

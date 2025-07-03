@@ -72,7 +72,9 @@
 
 ### 1. Requisite Devices
 
-We assume for the workshop that participants will be able to bring their own **laptop** with relatively new updates to operating systems. We will work with some web-based resources as well as a download of the long-term release (LTR) version of [QGIS](https://www.qgis.org/en/site/forusers/download.html) Specs for computers are described for all systems in the above link. Generally speaking, a tablet may be sufficient for some lessons, but is not sufficient for QGIS.
+We assume for the workshop that participants will be able to bring their a **laptop** with relatively new updates to operating systems and on which they have administrative privileges for software installation. If you have a managed laptop, you may want to try to download the software mentioned below in part 3.
+
+We will work with some web-based resources as well as a download of the long-term release (LTR) version of [QGIS](https://www.qgis.org/en/site/forusers/download.html) Specs for computers are described for all systems in the above link. Generally speaking, a tablet may be sufficient for some lessons, but is not sufficient for QGIS.
 
 As we will be doing some data collection in the city, it will also be beneficial to have a **smartphone with a camera**. We will leverage location services in order to geotag our images. It is usually under Settings > Location or Privacy > Location. Information about activating location services can be found [here](https://www.youtube.com/watch?v=epM12HxNx2g) for iOS and [here](https://www.youtube.com/watch?v=B8p1SftNGTE) for Android. If you have a Chinese phone (Xiaomi, Huawei, Vivo, etc) it may be called "location information," "positioning," or "GPS settings."
 
