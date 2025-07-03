@@ -13,7 +13,7 @@ body {
 }
 
 #header_wrap {
-  background: linear-gradient(135deg, #5E2C80 0%, #8B3FB0 50%, #7B4BAF 100%) !important;
+  background: linear-gradient(135deg, #4A148C 0%, #7B1FA2 25%, #9C27B0 50%, #BA68C8 75%, #E1BEE7 100%) !important;
   background-size: 400% 400% !important;
   animation: gradient-shift 8s ease infinite !important;
 }
@@ -65,50 +65,52 @@ body {
 }
 
 h1 {
-  color: #5E2C80 !important;
-  border-bottom: 4px solid #7B4BAF !important;
+  color: #4A148C !important;
+  border-bottom: 4px solid #00BCD4 !important;
   padding-bottom: 8px !important;
 }
 
 h2 {
-  color: #5E2C80 !important;
-  border-bottom: 3px solid #7B4BAF !important;
+  color: #4A148C !important;
+  border-bottom: 3px solid #00BCD4 !important;
   padding-bottom: 6px !important;
   background: none !important;
 }
 
 h3 {
-  color: #5E2C80 !important;
-  border-bottom: 2px solid #7B4BAF !important;
+  color: #7B1FA2 !important;
+  border-bottom: 2px solid #26C6DA !important;
   padding-bottom: 4px !important;
 }
 
 h4 {
-  color: #8B3FB0 !important;
+  color: #9C27B0 !important;
   font-weight: 600 !important;
 }
 
 a {
-  color: #8B3FB0 !important;
+  color: #7B1FA2 !important;
 }
 
 a:hover {
-  color: #7B4BAF !important;
+  color: #00BCD4 !important;
 }
 
 /* Session styling */
 h3[id*="a."], 
 h3[id*="b."], 
 h3[id*="Hands"] {
-  background: rgba(139, 63, 176, 0.1) !important;
+  background: rgba(156, 39, 176, 0.08) !important;
   padding: 15px 20px !important;
   border-radius: 8px !important;
-  border-left: 6px solid #7B4BAF !important;
+  border-left: 6px solid #00BCD4 !important;
   margin: 25px 0 !important;
 }
 
 #footer_wrap {
-  background: linear-gradient(135deg, #5E2C80 0%, #8B3FB0 100%) !important;
+  background: linear-gradient(135deg, #4A148C 0%, #7B1FA2 25%, #9C27B0 50%, #BA68C8 75%, #E1BEE7 100%) !important;
+  background-size: 400% 400% !important;
+  animation: gradient-shift 12s ease infinite reverse !important;
 }
 
 /* Animations */

@@ -3,7 +3,7 @@ layout: default
 title: "HDME ESUDH 2025"
 ---
 
-### [European Summer University in Digital Humanities "Technology and Culture"](https://esudh.github.io/)
+### [European Summer University in Digital Humanities](https://esudh.github.io/)
 #### Université Marie et Louis Pasteur, Besançon, France 
 #### 21.7-2.8.2025
 
@@ -44,7 +44,7 @@ The central goals of the workshop are fourfold:
 
 In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research. We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis.
 
-### Week 1: Foundations and Data Creation
+## Week 1: Foundations and Data Creation
 
 Critical review of spatial humanities projects and data creation fundamentals
 
