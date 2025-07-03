@@ -111,13 +111,14 @@ In the first part of the course we conduct a critical review of a range of spati
 
 ### Week 1: Foundations and Data Creation
 
-Critical review of spatial humanities projects and data creation fundamentals
+Critical review of spatial humanities projects. Fundamentals of spatial data creation and visualization. 
 
-### 1a. Monday: Introduction to Spatial Humanities (Morning)
+### 1a. Monday: Introduction to Spatial Humanities 
 
 #### Overview
-* Overview of spatial thinking in humanities research and project examples across disciplines
-* Introduction to the field and its applications
+* Introduction to spatial thinking in humanities research
+* Project examples across the disciplines
+* Introduction to the course and the platforms we will use
 
 #### Pre-reading
 * 
