@@ -154,13 +154,14 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Slides
+* Collective projects of the past 
 * 
-* Workflows for data creation, visualization and enrichment
 
 
 #### Exercises
 * 
-* Brainstorming for Mappable Architectural Features (discussion) 
+* Brainstorming for Mappable Architectural Features (discussion)
+* take 10 pictures and upload to drive  
 
 #### Additional References
 * 
@@ -202,7 +203,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Exercises
 * [project review list](spatial-projects.md)
-* 
+* EXIF data and collective data sheet 
 
 #### Additional References
 * 
@@ -295,6 +296,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Exercises
 * Visualizing Recogito Dataset or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
+* Initial visualization of class dataset 
 * Exporting map with QGIS2Web
 
 
@@ -328,7 +330,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9a. Manual vs. Automated Analysis 
+### 9a. Wrap up, general discussion  
 
 #### Overview
 * Contrasting manual data creation with automated forms of analysis
@@ -339,7 +341,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Slides
-* 
+* Workflows for data creation, visualization and enrichment
 * 
 
 #### Exercises
