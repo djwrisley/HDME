@@ -117,7 +117,7 @@ We will learn about the creation of data in formats relevant to spatial humaniti
 * Fundamentals of spatial data creation and visualization. 
 * Introduction to spatial thinking in humanities research
 
-### 1a. Monday: Introduction to Spatial Humanities 
+### 1a. Introduction to Spatial Humanities 
 
 #### Overview
 * Two terms: "Humanities" Data and "Mapping Environments"
@@ -127,7 +127,7 @@ We will learn about the creation of data in formats relevant to spatial humaniti
 #### Pre-reading
 * Wilson, Matthew W. 2019. Mapping. In _Digital Geographies._ James Ash, Rob Kitchin, and
 Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
-* 
+* Brunn, Stanley D. and Martin Dodge. 2017. What is Where? The Role of Map Representations and Mapping Practices in Advancing Scholarship. In _Mapping Across Academia._ Springer. pp. 
 
 #### Slides
 * [ESUDH HDME 2025 overview](https://docs.google.com/presentation/d/1xr1rH-2SMc8dKwtzjYaXWDcYHrDgWWvV7C05g8XNROs/edit?usp=sharing)
@@ -142,7 +142,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 2a. Monday: Critical Review of Projects (Afternoon)
+### 2a. Critical Review of Projects 
 
 #### Overview
 * Analyzing scope and rhetorical strategies in existing spatial humanities projects
@@ -166,7 +166,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3a. Tuesday: Location-Based Research Methods (Morning)
+### 3a. Location-Based Research Methods 
 
 #### Overview
 * Incorporating spatial dimensions across disciplines: cinema, art history, anthropology, history, literature
@@ -190,7 +190,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 4a. Tuesday: Data Sources and Acquisition (Afternoon)
+### 4a. Data Sources and Acquisition 
 
 #### Overview
 * Finding and accessing spatial data relevant to humanities research
@@ -235,7 +235,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 <a href="#top" class="back-to-top">Back to Top</a>
 
 
-### 6a. Wednesday: Data Creation Workflows (Afternoon)
+### 6a. Data Creation Workflows 
 
 #### Overview
 * Creating data formats for spatial humanities projects using off-the-shelf software
@@ -259,7 +259,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 7a. Thursday: Basic Querying Techniques (Morning)
+### 7a. Basic Querying Techniques 
 
 #### Overview
 * Learning basic querying for repetitive tasks in spatial dataset building
@@ -283,7 +283,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### Hands on. Thursday: Practical Application (Afternoon)
+### Hands on. Practical Application 
 
 #### Overview
 * Hands-on application of learned techniques and tools
@@ -307,7 +307,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 8a. Friday: Data Normalization (Morning)
+### 8a. Data Normalization 
 
 #### Overview
 * Introduction to normalization and data wrangling techniques
@@ -331,7 +331,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9a. Friday: Manual vs. Automated Analysis (Afternoon)
+### 9a. Manual vs. Automated Analysis 
 
 #### Overview
 * Contrasting manual data creation with automated forms of analysis
@@ -363,7 +363,7 @@ In the second part of the course, we will learn some skills in static site devel
 
 Static site development, advanced visualization, and storytelling with spatial data
 
-### 1b. Monday: Static Site Development (Morning)
+### 1b. Static Site Development
 
 #### Overview
 * Learning basic skills for hosting web maps on static sites
@@ -387,7 +387,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 2b. Monday: Automated Workflows (Afternoon)
+### 2b. Automated Workflows
 
 #### Overview
 * Experimenting with automated workflows for spatial data processing
@@ -411,7 +411,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3b. Tuesday: Advanced Visualization (Morning)
+### 3b. Advanced Visualization
 
 #### Overview
 * Complex forms of visualization and spatial storytelling techniques
@@ -435,7 +435,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 4b. Tuesday: Open-Source GIS Introduction (Afternoon)
+### 4b. Open-Source GIS Introduction
 
 #### Overview
 * Introduction to open-source GIS software and basic operations
@@ -459,7 +459,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 5b. Wednesday: Georeferencing and Warping (Morning)
+### 5b. Georeferencing and Warping
 
 #### Overview
 * Learning georeferencing and warping techniques for historical maps
@@ -483,7 +483,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 6b. Wednesday: Historical Vector Data (Afternoon)
+### 6b. Historical Vector Data
 
 #### Overview
 * Creating historical vector and polygon data from digitized historical maps
@@ -507,7 +507,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 7b. Thursday: Specialized Tools and Gazetteers (Morning)
+### 7b. Specialized Tools and Gazetteers
 
 #### Overview
 * Exploring discipline-specific gazetteers and mapping packages in R
@@ -531,7 +531,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### Hands on. Thursday: Advanced Practical Application (Afternoon)
+### Hands on. Advanced Practical Application
 
 #### Overview
 * Hands-on application of advanced mapping and visualization techniques
@@ -555,7 +555,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 8b. Friday: OpenStreetMap and Wikidata (Morning)
+### 8b. OpenStreetMap and Wikidata
 
 #### Overview
 * Working with OpenStreetMap, Wikidata, and IIIF for spatial humanities
@@ -579,7 +579,7 @@ Static site development, advanced visualization, and storytelling with spatial d
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9b. Friday: Machine Learning Applications and Project Presentation (Afternoon)
+### 9b. Machine Learning Applications and Project Presentation
 
 #### Overview
 * Machine classification of features in historical maps and AI applications
