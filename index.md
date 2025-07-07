@@ -288,8 +288,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Individual and group practice sessions
 
 #### Pre-reading
-* 
-* 
+* [QGIS Documentation Team. «Print Layouts – User Manual».](https://docs.qgis.org/3.40/en/docs/user_manual/print_composer/)
 
 #### Slides
 * SLIDES : Exporting as Image for Publication 
@@ -302,8 +301,9 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 
 #### Additional References
-* 
-* 
+* [Kretzschmar Jr., William A. «GIS for Language and Literary Study». *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
+* [QGIS Tutorials and Tips. «QGIS Tutorials and Tips».](https://www.qgistutorials.com/en/)
+* [Stevens, Linda. «What Does the Future Hold for Geographic Imagination?». *Reimagining Geospatial*.](https://reimagininggeospatial.substack.com/p/what-does-the-future-hold-for-geographic)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
