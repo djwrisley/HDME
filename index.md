@@ -23,6 +23,7 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
 
 <div class="session-nav-sidebar">
   <a href="#top" class="session-nav-home">Home</a>
+  <a href="https://djwrisley.github.io/HDME/workshop-prep.html" class="session-nav-prep">Preparation</a>
   
   <div class="session-nav-week">
     <h4>Week 1</h4>
@@ -87,7 +88,7 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
   </div>
 </div>
 
-### Prior to the Workshop
+### Preparation for the Workshop
 
 Details for accounts to make and pre-workshop downloads can be found [here](workshop-prep.md)
 

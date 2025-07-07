@@ -1,11 +1,14 @@
 ## Preparation for Humanities Data and Mapping Environments
 
+<a name="top"></a>
+
 #### [European Summer University in Digital Humanities](https://esudh.github.io/)
 #### Université Marie et Louis Pasteur, Besançon, France 
 #### 21.7-2.8.2025
 
 <div class="session-nav-sidebar">
   <a href="./index.md" class="session-nav-home">Home</a>
+  <a href="#top" class="session-nav-prep">Preparation</a>
   
   <div class="session-nav-week">
     <h4>Week 1</h4>
