@@ -142,11 +142,11 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 2a. Critical Review of Projects 
+### 2a.  Modeling Spatial Data for the Humanities
 
 #### Overview
-* Analyzing scope and rhetorical strategies in existing spatial humanities projects
-* Understanding different approaches to spatial storytelling
+* 
+* 
 
 #### Pre-reading
 * 
@@ -154,11 +154,12 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Slides
 * 
-* 
+* Workflows for data creation, visualization and enrichment
+
 
 #### Exercises
 * 
-* 
+* Brainstorming for Mappable Architectural Features (discussion) 
 
 #### Additional References
 * 
@@ -190,9 +191,12 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 4a. Data Sources and Acquisition 
+### 4a. Critical Review of Projects
 
 #### Overview
+* Analyzing scope and rhetorical strategies in existing spatial humanities projects
+* Understanding different approaches to spatial storytelling
+
 * Finding and accessing spatial data relevant to humanities research
 * Understanding different data formats and sources
 
