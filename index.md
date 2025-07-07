@@ -145,7 +145,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 ### 2a.  Modeling Spatial Data for the Humanities
 
 #### Overview
-* 
+* Incorporating spatial dimensions across disciplines: cinema, art history, anthropology, history, literature
+* Challenges and opportunities in spatial research
 * 
 
 #### Pre-reading
@@ -167,27 +168,19 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3a. Location-Based Research Methods 
+### 3a. Visit to [Bibliothèque d'étude et de conservation]() 
 
 #### Overview
-* Incorporating spatial dimensions across disciplines: cinema, art history, anthropology, history, literature
-* Challenges and opportunities in spatial research
+* 
 
 #### Pre-reading
 * 
 * 
 
-#### Slides
-* 
-* 
-
 #### Exercises
-* 
+* Source discovery 
 * 
 
-#### Additional References
-* 
-* 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -196,20 +189,19 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 #### Overview
 * Analyzing scope and rhetorical strategies in existing spatial humanities projects
 * Understanding different approaches to spatial storytelling
-
 * Finding and accessing spatial data relevant to humanities research
 * Understanding different data formats and sources
 
 #### Pre-reading
-* 
+* Do Maps Lie? 
 * 
 
 #### Slides
-* 
+* List of Projects
 * 
 
 #### Exercises
-* 
+* [project review list](spatial-projects.md)
 * 
 
 #### Additional References
@@ -239,22 +231,22 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 <a href="#top" class="back-to-top">Back to Top</a>
 
 
-### 6a. Data Creation Workflows 
+### 6a. GitHub, GitHub Desktop, Markdown and GitHub Pages
 
 #### Overview
-* Creating data formats for spatial humanities projects using off-the-shelf software
-* Best practices for data organization
+* 
+* 
 
 #### Pre-reading
-* 
-* 
+* static sites and minimal computing
+* GitHub pages & DH 
 
 #### Slides
 * 
 * 
 
 #### Exercises
-* 
+* NEW PAGE
 * 
 
 #### Additional References
@@ -263,23 +255,23 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 7a. Basic Querying Techniques 
+### 7a. Map Visualization  
 
 #### Overview
-* Learning basic querying for repetitive tasks in spatial dataset building
-* Introduction to data manipulation
+* 
+* 
 
 #### Pre-reading
-* 
+* youtube videos
 * 
 
 #### Slides
-* 
+* SLIDES 
 * 
 
 #### Exercises
-* 
-* 
+* Creating Point-to-Point Map with Kepler or Palladio 
+* Export html from Kepler & visualizing in GitHub
 
 #### Additional References
 * 
@@ -287,7 +279,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### Hands on. Practical Application 
+### Hands on. Intro to QGIS
 
 #### Overview
 * Hands-on application of learned techniques and tools
@@ -298,12 +290,13 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Slides
-* 
+* SLIDES : Exporting as Image for Publication 
 * 
 
 #### Exercises
-* 
-* 
+* Visualizing Recogito Dataset or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
+* Exporting map with QGIS2Web
+
 
 #### Additional References
 * 
@@ -311,14 +304,14 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 8a. Data Normalization 
+### 8a. Agent-based coding of maps  
 
 #### Overview
-* Introduction to normalization and data wrangling techniques
-* Preparing data for analysis
+* 
+* 
 
 #### Pre-reading
-* 
+* Vibe coding 
 * 
 
 #### Slides
@@ -326,8 +319,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Exercises
-* 
-* 
+* Manipulate a kepler-created html file
+* Create a new page and style a map gallery
 
 #### Additional References
 * 
