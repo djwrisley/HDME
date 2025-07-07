@@ -196,7 +196,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Understanding different data formats and sources
 
 #### Pre-reading
-* Do Maps Lie? 
+* [Joyeux-Prunel, Béatrice. 2013. «Introduction: Do Maps Lie?». *Artl@s Bulletin* 2 (2): Article 1.](https://docs.lib.purdue.edu/artlas/vol2/iss2/1/)
 * 
 
 #### Slides
@@ -208,8 +208,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * EXIF data and collective data sheet 
 
 #### Additional References
-* 
-* 
+* [«ArcGIS Story Maps Tutorial». *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
+* [«How to Create a Story Map». YouTube.](https://www.youtube.com/watch?v=4P-NYyw2qzM)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
