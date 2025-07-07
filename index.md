@@ -263,7 +263,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Pre-reading
-* [«Data Visualization». *YouTube*.](https://www.youtube.com/watch?v=m-OVVAm0utE)
+* [«Palladio 3 - Data Visualization». *YouTube*.](https://www.youtube.com/watch?v=m-OVVAm0utE)
 * [«React Geospatial Visualization with kepler.gl». *YouTube*.](https://www.youtube.com/watch?v=BEZjt08Myxs)
 
 #### Slides
