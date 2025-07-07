@@ -267,8 +267,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * [«React Geospatial Visualization with kepler.gl». *YouTube*.](https://www.youtube.com/watch?v=BEZjt08Myxs)
 
 #### Slides
-* SLIDES 
-* 
+* [Point to Point Maps](https://docs.google.com/presentation/d/1nQLR47yg_gyqPJdntG68Lsg2zg5q9clpDEVlOWknYsE/edit?usp=sharing)
 
 #### Exercises
 * Creating Point-to-Point Map with Kepler or Palladio 
