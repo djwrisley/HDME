@@ -277,7 +277,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * [Alves, Daniel. «Spatial Humanities in History and Literature». *YouTube*.](https://www.youtube.com/watch?v=7dfNAqsnoQs)
 * [Humanities + Design Lab. «Palladio». Stanford University.](https://hdlab.stanford.edu/palladio/)
 * [Kepler.gl Documentation Team. «User Guides».](https://docs.kepler.gl/docs/user-guides)
-* [Muggah, Robert. «Why Maps Are Important in Our Response to the Covid-19 Pandemic». *The Print*.](https://theprint.in/health/why-maps-are-important-in-our-response-to-the-covid-19-pandemic/486971/)
+* [Muggah, Robert. 2020 «Why Maps Are Important in Our Response to the Covid-19 Pandemic». *The Print*.](https://theprint.in/health/why-maps-are-important-in-our-response-to-the-covid-19-pandemic/486971/)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -301,9 +301,9 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 
 #### Additional References
-* [Kretzschmar Jr., William A. «GIS for Language and Literary Study». *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
+* [Kretzschmar Jr., William A. 2013. «GIS for Language and Literary Study». *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
 * [QGIS Tutorials and Tips. «QGIS Tutorials and Tips».](https://www.qgistutorials.com/en/)
-* [Stevens, Linda. «What Does the Future Hold for Geographic Imagination?». *Reimagining Geospatial*.](https://reimagininggeospatial.substack.com/p/what-does-the-future-hold-for-geographic)
+* [Stevens, Linda. 2023. «What Does the Future Hold for Geographic Imagination?». *Reimagining Geospatial*.](https://reimagininggeospatial.substack.com/p/what-does-the-future-hold-for-geographic)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
