@@ -216,7 +216,6 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Pre-reading
 * [Simon, Rainer, Elton Barker, Leif Isaksen et Pau de Soto Cañamares. 2015. «Linking Early Geospatial Documents, One Place at a Time : Annotation of Geographic Documents with Recogito ». *e-Perimetron* 10 (2): 49–59.](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
-* 
 
 #### Slides
 * 
@@ -227,8 +226,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Additional References
-* 
-* 
+* [«Semantic Annotation without the Pointy Brackets – An Introduction to Recogito». *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts)
+* [Wrisley, David Joseph. 2017. «Locating Medieval French, or Why We Collect and Visualize the Geographic Information from Texts?». *Speculum* 92 (S1): S145–S169.](https://www.journals.uchicago.edu/doi/full/10.1086/694300)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
