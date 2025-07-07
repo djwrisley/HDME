@@ -263,8 +263,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Pre-reading
-* youtube videos
-* 
+* [«Data Visualization». *YouTube*.](https://www.youtube.com/watch?v=m-OVVAm0utE)
+* [«React Geospatial Visualization with kepler.gl». *YouTube*.](https://www.youtube.com/watch?v=BEZjt08Myxs)
 
 #### Slides
 * SLIDES 
@@ -275,8 +275,10 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Export html from Kepler & visualizing in GitHub
 
 #### Additional References
-* 
-* 
+* [Alves, Daniel. «Spatial Humanities in History and Literature». *YouTube*.](https://www.youtube.com/watch?v=7dfNAqsnoQs)
+* [Humanities + Design Lab. «Palladio». Stanford University.](https://hdlab.stanford.edu/palladio/)
+* [Kepler.gl Documentation Team. «User Guides».](https://docs.kepler.gl/docs/user-guides)
+* [Muggah, Robert. «Why Maps Are Important in Our Response to the Covid-19 Pandemic». *The Print*.](https://theprint.in/health/why-maps-are-important-in-our-response-to-the-covid-19-pandemic/486971/)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
