@@ -150,8 +150,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Pre-reading
-* 
-* 
+* [Brooks, Mackenzie K. «Data». *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
+* [White, Richard. «What is Spatial History?». *Stanford Spatial History Project*.](https://web.stanford.edu/group/spatialhistory/static/publications/pub29.html)
 
 #### Slides
 * Collective projects of the past 
@@ -164,8 +164,10 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * take 10 pictures and upload to drive  
 
 #### Additional References
-* 
-* 
+* [Dunn, Stuart. «Corpse-paths and Chorographers: Can Deep Maps Be Digital?». *YouTube*.](https://www.youtube.com/watch?v=YQk3MbDsWKA)
+* [Guldi, Jo. «What is the Spatial Turn?». *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+* [Lincoln, Matthew. 2020. «Tidy Data for the Humanities».](https://matthewlincoln.net/2020/05/26/tidy-data-for-humanities.html)
+* [Sinton, Diana S. «Mapping». *Digital Pedagogy in the Humanities*.](https://digitalpedagogy.hcommons.org/keyword/Mapping/)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
