@@ -203,7 +203,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Exercises
-* [project review list](spatial-projects.md)
+* [Spatial Projects Review List](spatial-projects.md)
 * EXIF data and collective data sheet 
 
 #### Additional References
