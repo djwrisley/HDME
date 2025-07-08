@@ -291,7 +291,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * [QGIS Documentation Team. «Print Layouts – User Manual».](https://docs.qgis.org/3.40/en/docs/user_manual/print_composer/)
 
 #### Slides
-* SLIDES : Exporting as Image for Publication 
+* [Exporting as Image for Publication](https://docs.google.com/presentation/d/1KofzjXDVZNBUg3T6vTlJ1mguhbayLFuUJuy7kE_u0rU/edit?usp=sharing)
 * 
 
 #### Exercises
