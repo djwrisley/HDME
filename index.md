@@ -182,21 +182,22 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Exploring interdisciplinary project examples
 * Analyzing scope and rhetorical strategies in existing spatial humanities projects
 * Understanding different approaches to spatial storytelling
-* Finding and accessing spatial data relevant to humanities research
 
 #### Pre-reading
 * [Joyeux-Prunel, Béatrice. 2013. "Introduction: Do Maps Lie?". *Artl@s Bulletin* 2 (2): Article 1.](https://docs.lib.purdue.edu/artlas/vol2/iss2/1/)
+* [Mullen, Lincoln, "Map Literacy"](https://lincolnmullen.com/projects/spatial-workshop/literacy.html)
 
 #### Slides
-* Projects of Past ESU workshops and Exemplary Projects
+* Projects of Past ESU workshops
 
 #### Exercises
 * [Spatial Projects Review List](spatial-projects.md)
-* EXIF data and collective data sheet 
+* [EXIF data and collective data sheet]() 
 
 #### Additional References
 * ["ArcGIS Story Maps Tutorial". *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
 * ["How to Create a Story Map". *YouTube*.](https://www.youtube.com/watch?v=4P-NYyw2qzM)
+* Knight Lab storymap.js 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 

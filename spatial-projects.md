@@ -73,10 +73,16 @@ layout: default
 
 ## Spatial Projects Review List
 
-Pick a couple projects from the list below (feel free to work in pairs!) and consider the following prompts:
+Let's take a look at a few maps and explore what they do: 
 
 - 
-- https://hh2025w.amason.sites.carleton.edu/labs/spatial-humanities-gis-mapping-101/
+- Madrid
+- Milan 
+
+
+Pick a couple projects from the list below (feel free to work in pairs!) and consider the following prompts (inspired by [Lincoln Mullen](https://lincolnmullen.com/projects/spatial-workshop/literacy.html)):
+
+- 
 
 <!-- Project review content will be added here -->
 **Interactive Maps**
