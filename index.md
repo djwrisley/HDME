@@ -299,7 +299,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 #### Overview
 * Examining the Component Parts of a webmap
 * Transforming a Leaflet.js map with GitHub Co-Pilot and Claude Sonnet 4.
-* 
+* Contrasting manual data creation with automated forms of analysis
 
 #### Pre-reading 
 * [Introducing VS Code Copilot Chat Agent Mode](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode)
@@ -320,15 +320,16 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9a. Wrap up, general discussion  
+### 9a. Wrap up.  
 
 #### Overview
-* Contrasting manual data creation with automated forms of analysis
-* Understanding when to use different approaches
+* General discussion
+* Wrap up of key concepts and review of learning objectives
 
 #### Pre-reading
-* 
-* 
+* Dariah Campus Sharing the Workflows
+* Mixed Methods
+* DH & AI 
 
 #### Slides
 * Workflows for data creation, visualization and enrichment
@@ -339,6 +340,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Additional References
+*  
 *  Awesome Digital Humanities https://github.com/dh-tech/awesome-digital-humanities 
 * A package to draw maps for the web https://github.com/riatelab/bertin 
 * Khartis : Create Thematic Maps in 3 steps https://www.sciencespo.fr/cartographie/khartis/en/ 
