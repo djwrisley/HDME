@@ -137,7 +137,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Class Introductions
 
 #### Additional References
-* [Murrieta-Flores, Patricia and Bruno Martins. 2019. "The Geospatial Humanities: Past, Present and Future". IJGIS 33(12).](https://doi.org/10.1080/13658816.2019.1645336).
+* [Murrieta-Flores, Patricia and Bruno Martins. 2019. "The Geospatial Humanities: Past, Present and Future". IJGIS 33(12)](https://doi.org/10.1080/13658816.2019.1645336).
 * Brunn, Stanley D. and Martin Dodge. 2017. What is Where? The Role of Map Representations and Mapping Practices in Advancing Scholarship. In _Mapping Across Academia._ Springer.
 
 <a href="#top" class="back-to-top">Back to Top</a>
@@ -153,15 +153,12 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
 * [White, Richard. "What is Spatial History?". *Stanford Spatial History Project*.](https://web.stanford.edu/group/spatialhistory/static/publications/pub29.html)
 
-#### Slides
-* Collective projects of Past ESU workshops 
-
 #### Exercises
+* [Modeling Spatial Data](modeling.md)
 * Brainstorming for Mappable Architectural Features (discussion)
 * Take at least 5 digital photos in Besançon. Upload to drive  
 
 #### Additional References
-* [Dunn, Stuart. "Corpse-paths and Chorographers: Can Deep Maps Be Digital?". *YouTube*.](https://www.youtube.com/watch?v=YQk3MbDsWKA)
 * [Guldi, Jo. "What is the Spatial Turn?". *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [Lincoln, Matthew. 2020. "Tidy Data for the Humanities".](https://matthewlincoln.net/2020/05/26/tidy-data-for-humanities.html)
 * [Sinton, Diana S. "Mapping". *Digital Pedagogy in the Humanities*.](https://digitalpedagogy.hcommons.org/keyword/Mapping/)
@@ -189,7 +186,9 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Pre-reading
 * [Joyeux-Prunel, Béatrice. 2013. "Introduction: Do Maps Lie?". *Artl@s Bulletin* 2 (2): Article 1.](https://docs.lib.purdue.edu/artlas/vol2/iss2/1/)
-* 
+
+#### Slides
+* Projects of Past ESU workshops and Exemplary Projects
 
 #### Exercises
 * [Spatial Projects Review List](spatial-projects.md)
@@ -353,7 +352,6 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps. We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling. Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps. Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.
 
-Static site development, advanced visualization, and storytelling with spatial data
 
 ### 1b. Static Site Development
 
