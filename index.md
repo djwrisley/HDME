@@ -8,7 +8,7 @@ title: "HDME ESUDH 2025"
 ### [European Summer University in Digital Humanities](https://esudh.github.io/)
 #### Université Marie et Louis Pasteur, Besançon, France 
 #### 21.7-2.8.2025
-#### 36 contact hours total (18 per week)
+#### 36 contact hours total
 
 ### Workshop Overview
 

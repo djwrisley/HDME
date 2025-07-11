@@ -90,7 +90,7 @@ As we will be doing some data collection in the city, it will also be beneficial
 | [Posit.cloud](https://posit.cloud/plans) | sharing of R Markdown files and running code | Choose the free account |
 | [OSM](https://www.openstreetmap.org/user/new) | edit access to OSM editing and login for UMap | |  
 | [WikiData](https://www.wikidata.org/w/index.php?title=Special:CreateAccount) | edit access | it needs to be a different account from Wikimedia Commons, if you have one there | 
-| [GitHub](https://github.com/signup) | for Github pages, hosting web maps | If you already have a GitHub account, there is no need to make another one. If you have your own web hosting, you can use that | 
+| [GitHub](https://github.com/signup) | for Github pages, hosting web maps | If you already have a GitHub account, there is no need to make another one. If you have your own web hosting, you can use that. If you want to be able to try the agent-coding (see 9a), use your university .edu email and apply for [Github Education](https://github.com/education) from a campus location using Settings > Billing and licensing > Education benefits. | 
 | [Recogito](https://recogito.pelagios.org/) | for group annotation | |
 | [Zotero](https://www.zotero.org/user/register) | for HDME bibliography | optional, unless you want to join the group | 
 | [openai.com](https://openai.com/) | for debugging and some code generation | optional, other genAI interfaces are possible | 
