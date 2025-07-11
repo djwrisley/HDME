@@ -601,7 +601,7 @@ In the second part of the course, we will learn some skills in static site devel
 
 ### About this course :
 
-This course is published with GitHub Pages using a theme customized by Claude Sonnet 4. 
+This course is published with GitHub Pages using the [Slate theme](https://pages-themes.github.io/slate/) customized by Claude Sonnet 4 with Co-Pilot. 
 
 The course content has been inspired by previous years of spatial humanities teaching and other DH workshops. 
 
