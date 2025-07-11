@@ -201,7 +201,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 5a. Semantic annotation with [Recogito](https://recogito.pelagios.org/) and visualizing spatial data with [Kepler](https://kepler.gl/)
+### 5a. Semantic annotation with [Recogito](https://recogito.pelagios.org/) and Visualizing Spatial Data With [Kepler](https://kepler.gl/)
 
 #### Pre-reading
 * [Simon, Rainer, Elton Barker, Leif Isaksen and Pau de Soto Cañamares. 2015. "Linking Early Geospatial Documents, One Place at a Time : Annotation of Geographic Documents with Recogito". *e-Perimetron* 10 (2): 49–59.](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
@@ -212,8 +212,9 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Collective Annotation and Mapping of Text
 
 #### Additional References
-* ["Semantic Annotation without the Pointy Brackets – An Introduction to Recogito". *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts).
-*  Frontini, Francesca, Amaury Roth-Boll and Maria Susana Seguin. 2024. "Cartographie d'une aventure: approche numérique du Journal d'un voyage fait aux Indes orientales de Robert Challe". In Robert Challe et l'aventure. Paris: Classiques Garnier. 247-275. 
+* ["Semantic Annotation without the Pointy Brackets – An Introduction to Recogito". *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts)
+*  Frontini, Francesca, Amaury Roth-Boll and Maria Susana Seguin. 2024. "Cartographie d'une aventure: approche numérique du _Journal d'un voyage fait aux Indes orientales de Robert Challe_". In Robert Challe et l'aventure. Paris: Classiques Garnier. 247-275.
+*  OpenGulf workflows 
 
 
 <a href="#top" class="back-to-top">Back to Top</a>
@@ -279,16 +280,15 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Slides
 * [Exporting as Image for Publication](https://docs.google.com/presentation/d/1KofzjXDVZNBUg3T6vTlJ1mguhbayLFuUJuy7kE_u0rU/edit?usp=sharing)
-* 
 
 #### Exercises
-* Visualizing Recogito Dataset or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
+* Visualizing workshop datasets (Recogito, Besançon photos) or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
 * Initial visualization of class dataset 
 * Exporting map with QGIS2Web
 
 #### Additional References
 * [Kretzschmar Jr., William A. 2013. "GIS for Language and Literary Study". *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
-* [Harvard Center for Geographic Analysis, Creating Maps with QGIS](https://gis.harvard.edu/faq/how-do-i-create-maps-qgis)
+* [Harvard Center for Geographic Analysis, Creating Maps with QGIS. 2023](https://gis.harvard.edu/faq/how-do-i-create-maps-qgis)
 * [QGIS Tutorials and Tips. "QGIS Tutorials and Tips".](https://www.qgistutorials.com/en/)
 * [Stevens, Linda. 2023. "What Does the Future Hold for Geographic Imagination?". *Reimagining Geospatial*.](https://reimagininggeospatial.substack.com/p/what-does-the-future-hold-for-geographic)
 
