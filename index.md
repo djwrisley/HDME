@@ -151,6 +151,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Pre-reading
 * [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
+* [Guldi, Jo. "What is the Spatial Turn?". *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [White, Richard. "What is Spatial History?". *Stanford Spatial History Project*.](https://web.stanford.edu/group/spatialhistory/static/publications/pub29.html)
 
 #### Exercises
@@ -159,7 +160,6 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Take at least 5 digital photos in Besançon. Upload to drive  
 
 #### Additional References
-* [Guldi, Jo. "What is the Spatial Turn?". *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [Lincoln, Matthew. 2020. "Tidy Data for the Humanities".](https://matthewlincoln.net/2020/05/26/tidy-data-for-humanities.html)
 * [Sinton, Diana S. "Mapping". *Digital Pedagogy in the Humanities*.](https://digitalpedagogy.hcommons.org/keyword/Mapping/)
 
