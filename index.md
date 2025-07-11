@@ -283,14 +283,14 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Exercises
 * Visualizing workshop datasets (Recogito, Besançon photos) or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
-* Initial visualization of class dataset 
 * Exporting map with QGIS2Web
 
 #### Additional References
+* [GIS Curriculum (with localizations)](https://school-of-data.github.io/GIS-curriculum/)
 * [Kretzschmar Jr., William A. 2013. "GIS for Language and Literary Study". *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
 * [Harvard Center for Geographic Analysis, Creating Maps with QGIS. 2023](https://gis.harvard.edu/faq/how-do-i-create-maps-qgis)
 * [QGIS Tutorials and Tips. "QGIS Tutorials and Tips".](https://www.qgistutorials.com/en/)
-* [Stevens, Linda. 2023. "What Does the Future Hold for Geographic Imagination?". *Reimagining Geospatial*.](https://reimagininggeospatial.substack.com/p/what-does-the-future-hold-for-geographic)
+* [QGIS is the Mapping Software You Didn't Know You Needed](https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
