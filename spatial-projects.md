@@ -73,6 +73,11 @@ layout: default
 
 ## Spatial Projects Review List
 
+Pick a couple projects from the list below (feel free to work in pairs!) and consider the following prompts:
+
+- 
+- https://hh2025w.amason.sites.carleton.edu/labs/spatial-humanities-gis-mapping-101/
+
 <!-- Project review content will be added here -->
 **Interactive Maps**
 

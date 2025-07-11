@@ -121,14 +121,15 @@ We will learn about the creation of data in formats relevant to spatial humaniti
 
 #### Overview
 * Two terms: "Humanities" Data and "Mapping Environments"
-* Introduction to the course and the platforms we will use
-* Critical review of project examples across the disciplines
+* Introduction to the course and course infrastructure
+* Challenges and opportunities in spatial research
+* Getting to know the workshop participants 
+* 
 
 #### Pre-reading
 * Wilson, Matthew W. 2019. Mapping. In _Digital Geographies._ James Ash, Rob Kitchin, and
 Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
-* Brunn, Stanley D. and Martin Dodge. 2017. What is Where? The Role of Map Representations and Mapping Practices in Advancing Scholarship. In _Mapping Across Academia._ Springer. pp. 
-
+  
 #### Slides
 * [ESUDH HDME 2025 overview](https://docs.google.com/presentation/d/1xr1rH-2SMc8dKwtzjYaXWDcYHrDgWWvV7C05g8XNROs/edit?usp=sharing)
 
@@ -136,8 +137,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Class Introductions
 
 #### Additional References
-* [Murrieta-Flores, Patricia and Bruno Martins. 2019. «The geospatial humanities: past, present and future». IJGIS 33(12).](https://doi.org/10.1080/13658816.2019.1645336)
-* 
+* [Murrieta-Flores, Patricia and Bruno Martins. 2019. "The Geospatial Humanities: Past, Present and Future". IJGIS 33(12).](https://doi.org/10.1080/13658816.2019.1645336).
+* Brunn, Stanley D. and Martin Dodge. 2017. What is Where? The Role of Map Representations and Mapping Practices in Advancing Scholarship. In _Mapping Across Academia._ Springer.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -145,59 +146,49 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 #### Overview
 * Incorporating spatial dimensions across disciplines: cinema, art history, anthropology, history, literature
-* Challenges and opportunities in spatial research
+* Understanding different data formats and sources
 * 
 
 #### Pre-reading
-* [Brooks, Mackenzie K. «Data». *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
-* [White, Richard. «What is Spatial History?». *Stanford Spatial History Project*.](https://web.stanford.edu/group/spatialhistory/static/publications/pub29.html)
+* [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
+* [White, Richard. "What is Spatial History?". *Stanford Spatial History Project*.](https://web.stanford.edu/group/spatialhistory/static/publications/pub29.html)
 
 #### Slides
-* Collective projects of the past 
-* 
-
+* Collective projects of Past ESU workshops 
 
 #### Exercises
-* 
 * Brainstorming for Mappable Architectural Features (discussion)
-* take 10 pictures and upload to drive  
+* Take at least 5 digital photos in Besançon. Upload to drive  
 
 #### Additional References
-* [Dunn, Stuart. «Corpse-paths and Chorographers: Can Deep Maps Be Digital?». *YouTube*.](https://www.youtube.com/watch?v=YQk3MbDsWKA)
-* [Guldi, Jo. «What is the Spatial Turn?». *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
-* [Lincoln, Matthew. 2020. «Tidy Data for the Humanities».](https://matthewlincoln.net/2020/05/26/tidy-data-for-humanities.html)
-* [Sinton, Diana S. «Mapping». *Digital Pedagogy in the Humanities*.](https://digitalpedagogy.hcommons.org/keyword/Mapping/)
+* [Dunn, Stuart. "Corpse-paths and Chorographers: Can Deep Maps Be Digital?". *YouTube*.](https://www.youtube.com/watch?v=YQk3MbDsWKA)
+* [Guldi, Jo. "What is the Spatial Turn?". *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
+* [Lincoln, Matthew. 2020. "Tidy Data for the Humanities".](https://matthewlincoln.net/2020/05/26/tidy-data-for-humanities.html)
+* [Sinton, Diana S. "Mapping". *Digital Pedagogy in the Humanities*.](https://digitalpedagogy.hcommons.org/keyword/Mapping/)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3a. Visit to [Bibliothèque d'étude et de conservation]() 
+### 3a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
 
 #### Overview
 *  In this session we will meet at the Bibliothèque d'étude et de conservation, meet with some of the conservators and view some distinctive collections. 
 
-#### Pre-reading
-* 
-* 
-
 #### Additional References
-* [Mémoire vive : Patrimoine numérisé de Besançon](https://memoirevive.besancon.fr/page/archives-numerisees)
 * Bibliothèque municipale de Besançon [EN](https://en.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on) [FR](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on)
+*  [Mémoire vive : Patrimoine numérisé de Besançon](https://memoirevive.besancon.fr/page/archives-numerisees)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
 ### 4a. Critical Review of Projects
 
 #### Overview
+* Exploring interdisciplinary project examples
 * Analyzing scope and rhetorical strategies in existing spatial humanities projects
 * Understanding different approaches to spatial storytelling
 * Finding and accessing spatial data relevant to humanities research
-* Understanding different data formats and sources
 
 #### Pre-reading
-* [Joyeux-Prunel, Béatrice. 2013. «Introduction: Do Maps Lie?». *Artl@s Bulletin* 2 (2): Article 1.](https://docs.lib.purdue.edu/artlas/vol2/iss2/1/)
-
-#### Slides
-* List of Projects
+* [Joyeux-Prunel, Béatrice. 2013. "Introduction: Do Maps Lie?". *Artl@s Bulletin* 2 (2): Article 1.](https://docs.lib.purdue.edu/artlas/vol2/iss2/1/)
 * 
 
 #### Exercises
@@ -205,27 +196,25 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * EXIF data and collective data sheet 
 
 #### Additional References
-* [«ArcGIS Story Maps Tutorial». *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
-* [«How to Create a Story Map». *YouTube*.](https://www.youtube.com/watch?v=4P-NYyw2qzM)
+* ["ArcGIS Story Maps Tutorial". *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
+* ["How to Create a Story Map". *YouTube*.](https://www.youtube.com/watch?v=4P-NYyw2qzM)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
 ### 5a. Semantic annotation with [Recogito](https://recogito.pelagios.org/) and visualizing spatial data with [Kepler](https://kepler.gl/)
 
 #### Pre-reading
-* [Simon, Rainer, Elton Barker, Leif Isaksen et Pau de Soto Cañamares. 2015. «Linking Early Geospatial Documents, One Place at a Time : Annotation of Geographic Documents with Recogito ». *e-Perimetron* 10 (2): 49–59.](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
-
-#### Slides
-* 
-* 
+* [Simon, Rainer, Elton Barker, Leif Isaksen and Pau de Soto Cañamares. 2015. "Linking Early Geospatial Documents, One Place at a Time : Annotation of Geographic Documents with Recogito". *e-Perimetron* 10 (2): 49–59.](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
+* [10 Minute Tutorial: A Quick Introduction to Recogito. Pelagios Commons](https://recogito.pelagios.org/help/tutorial) Also in DE, ES, FA, IT, NL and TK.
 
 #### Exercises
 * [Recogito Overview](recogito.md)
-* 
+* Collective Annotation and Mapping of Text
 
 #### Additional References
-* [«Semantic Annotation without the Pointy Brackets – An Introduction to Recogito». *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts)
-* [Wrisley, David Joseph. 2017. «Locating Medieval French, or Why We Collect and Visualize the Geographic Information from Texts?». *Speculum* 92 (S1): S145–S169.](https://www.journals.uchicago.edu/doi/full/10.1086/694300)
+* ["Semantic Annotation without the Pointy Brackets – An Introduction to Recogito". *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts).
+*  Frontini, Francesca, Amaury Roth-Boll and Maria Susana Seguin. 2024. "Cartographie d'une aventure: approche numérique du Journal d'un voyage fait aux Indes orientales de Robert Challe". In Robert Challe et l'aventure. Paris: Classiques Garnier. 247-275. 
+
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -233,36 +222,34 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 ### 6a. GitHub, GitHub Desktop, Markdown and GitHub Pages
 
 #### Overview
-* 
-* 
+* Gentle Introduction to GitHub and Versioning
+* Authoring in Markdown 
+* Hosting In GitHub Pages 
 
 #### Pre-reading
-* static sites and minimal computing
-* GitHub pages & DH 
-
-#### Slides
-* 
-* 
+* [Wikle, Olivia, Evan Williamson and Devin Becker. 2020. "What is Static Web and What's it Doing in the Digital Humanities Classroom?" DH + Lib.](https://dhandlib.org/what-is-static-web-and-whats-it-doing-in-the-digital-humanities-classroom/)
 
 #### Exercises
-* NEW PAGE
-* 
+* [Authoring in Markdown and GitHub Pages](markdown-ghp.md)
+* Inserting an iframe (a map) into GitHub Pages
 
 #### Additional References
-* 
-* 
+* [Minimal Computing and Static Sites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html)
+* NYU Libraries. [Web Design and Minimal Computing](https://guides.nyu.edu/digital-humanities/tools-and-software/web-design-minimal-computing)
+* [Sayers, Jentery. 2016. "Minimal Definitions" GO::DH](https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/)
+* [Risam, Roopika and Alex Gil. 2022. "The Questions of Minimal Computing". DHQ 16.](https://dhq-static.digitalhumanities.org/pdf/000646.pdf)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
 ### 7a. Map Visualization  
 
 #### Overview
-* 
-* 
+* An introduction to two ways of visualizing data using web-based tools
+* Exporting a webmap made with kepler to GitHub pages
 
 #### Pre-reading
-* [«Palladio 3 - Data Visualization». *YouTube*.](https://www.youtube.com/watch?v=m-OVVAm0utE)
-* [«React Geospatial Visualization with kepler.gl». *YouTube*.](https://www.youtube.com/watch?v=BEZjt08Myxs)
+* ["Palladio 3 - Data Visualization". *YouTube*.](https://www.youtube.com/watch?v=m-OVVAm0utE)
+* ["React Geospatial Visualization with kepler.gl". *YouTube*.](https://www.youtube.com/watch?v=BEZjt08Myxs)
 
 #### Slides
 * [Point to Point Maps](https://docs.google.com/presentation/d/1nQLR47yg_gyqPJdntG68Lsg2zg5q9clpDEVlOWknYsE/edit?usp=sharing)
@@ -272,21 +259,23 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Export html from Kepler & visualizing in GitHub
 
 #### Additional References
-* [Alves, Daniel. «Spatial Humanities in History and Literature». *YouTube*.](https://www.youtube.com/watch?v=7dfNAqsnoQs)
-* [Humanities + Design Lab. «Palladio». Stanford University.](https://hdlab.stanford.edu/palladio/)
-* [Kepler.gl Documentation Team. «User Guides».](https://docs.kepler.gl/docs/user-guides)
-* [Muggah, Robert. 2020. «Why Maps Are Important in Our Response to the Covid-19 Pandemic». *The Print*.](https://theprint.in/health/why-maps-are-important-in-our-response-to-the-covid-19-pandemic/486971/)
+* [Alves, Daniel. "Spatial Humanities in History and Literature". *YouTube*.](https://www.youtube.com/watch?v=7dfNAqsnoQs)
+* [Humanities + Design Lab. "Palladio". Stanford University.](https://hdlab.stanford.edu/palladio/)
+* [Kepler.gl Documentation Team. "User Guides".](https://docs.kepler.gl/docs/user-guides)
+* [Muggah, Robert. 2020. "Why Maps Are Important in Our Response to the Covid-19 Pandemic". *The Print*.](https://theprint.in/health/why-maps-are-important-in-our-response-to-the-covid-19-pandemic/486971/)
+* [Wrisley, David Joseph. 2017. "Locating Medieval French, or Why We Collect and Visualize the Geographic Information from Texts?". *Speculum* 92 (S1): S145–S169.](https://www.journals.uchicago.edu/doi/full/10.1086/694300)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
 ### Hands on. Intro to QGIS
 
 #### Overview
-* Hands-on application of learned techniques and tools
-* Individual and group practice sessions
+* Using an free and open-source standalone GIS software 
+* Creating Maps for Print Publications
+* Transforming a standalone map into a webmap with leaflet.js
 
 #### Pre-reading
-* [QGIS Documentation Team. «Print Layouts – User Manual».](https://docs.qgis.org/3.40/en/docs/user_manual/print_composer/)
+* [QGIS Documentation Team. "Print Layouts – User Manual".](https://docs.qgis.org/3.40/en/docs/user_manual/print_composer/)
 
 #### Slides
 * [Exporting as Image for Publication](https://docs.google.com/presentation/d/1KofzjXDVZNBUg3T6vTlJ1mguhbayLFuUJuy7kE_u0rU/edit?usp=sharing)
@@ -297,35 +286,37 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * Initial visualization of class dataset 
 * Exporting map with QGIS2Web
 
-
 #### Additional References
-* [Kretzschmar Jr., William A. 2013. «GIS for Language and Literary Study». *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
-* [QGIS Tutorials and Tips. «QGIS Tutorials and Tips».](https://www.qgistutorials.com/en/)
-* [Stevens, Linda. 2023. «What Does the Future Hold for Geographic Imagination?». *Reimagining Geospatial*.](https://reimagininggeospatial.substack.com/p/what-does-the-future-hold-for-geographic)
+* [Kretzschmar Jr., William A. 2013. "GIS for Language and Literary Study". *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
+* [Harvard Center for Geographic Analysis, Creating Maps with QGIS](https://gis.harvard.edu/faq/how-do-i-create-maps-qgis)
+* [QGIS Tutorials and Tips. "QGIS Tutorials and Tips".](https://www.qgistutorials.com/en/)
+* [Stevens, Linda. 2023. "What Does the Future Hold for Geographic Imagination?". *Reimagining Geospatial*.](https://reimagininggeospatial.substack.com/p/what-does-the-future-hold-for-geographic)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 8a. Agent-based coding of maps  
+### 8a. Agent-based (re)coding of maps  
 
 #### Overview
-* 
+* Examining the Component Parts of a webmap
+* Transforming a Leaflet.js map with GitHub Co-Pilot and Claude Sonnet 4.
 * 
 
-#### Pre-reading
-* Vibe coding 
-* 
+#### Pre-reading 
+* [Introducing VS Code Copilot Chat Agent Mode](https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode)
+* Vibe Coding: AI-Assisted Coding for Non-Developers, Niall McNulty 
+* Vibe Coding - MIT Technology Review https://www.technologyreview.com/2025/04/16/1115135/what-is-vibe-coding-exactly/
 
 #### Slides
 * 
 * 
 
 #### Exercises
-* Manipulate a kepler-created html file
-* Create a new page and style a map gallery
+* Examining the parts of a kepler-created html map and a QGIS2Web-created leaflet.js map 
+* Create a new page and style a map gallery in GitHub pages
 
 #### Additional References
-* 
-* 
+* Intro, Critical Making in the Age of AI, Emily Johnson and Anastasia Salter
+* “The Limits of Computation,” David M. Berry
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -348,8 +339,11 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * 
 
 #### Additional References
-* 
-* 
+*  Awesome Digital Humanities https://github.com/dh-tech/awesome-digital-humanities 
+* A package to draw maps for the web https://github.com/riatelab/bertin 
+* Khartis : Create Thematic Maps in 3 steps https://www.sciencespo.fr/cartographie/khartis/en/ 
+* StorymapJS - Maps that tell stories.
+
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
