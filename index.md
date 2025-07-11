@@ -147,7 +147,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 #### Overview
 * Incorporating spatial dimensions across disciplines: cinema, art history, anthropology, history, literature
 * Understanding different data formats and sources
-* 
+* Creating spatial data for humanities projects
 
 #### Pre-reading
 * [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
