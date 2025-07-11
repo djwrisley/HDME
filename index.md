@@ -112,12 +112,14 @@ In the first part of the course we conduct a critical review of a range of spati
 
 We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis.
 
-### Week 1: Foundations and Data Creation
+### Week 1: Data Creation to Map Visualization
 
 * Fundamentals of spatial data creation and visualization. 
 * Introduction to spatial thinking in humanities research
 
 ### 1a. Introduction to Spatial Humanities 
+
+Tuesday 22 July 2025, morning XXXX-XXXX 
 
 #### Overview
 * Two terms: "Humanities" Data and "Mapping Environments"
@@ -594,6 +596,16 @@ In the second part of the course, we will learn some skills in static site devel
 #### Additional References
 * 
 * 
+
+<a href="#top" class="back-to-top">Back to Top</a>
+
+### About this course :
+
+This course is published with GitHub Pages using a theme customized by Claude Sonnet 4. 
+
+The course content has been inspired by previous years of spatial humanities teaching and other DH workshops. 
+
+Other syllabus of interest include 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
