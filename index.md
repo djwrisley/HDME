@@ -133,11 +133,10 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 * [ESUDH HDME 2025 overview](https://docs.google.com/presentation/d/1xr1rH-2SMc8dKwtzjYaXWDcYHrDgWWvV7C05g8XNROs/edit?usp=sharing)
 
 #### Exercises
-* 
-* 
+* Class Introductions
 
 #### Additional References
-* 
+* [Murrieta-Flores, Patricia and Bruno Martins. 2019. «The geospatial humanities: past, present and future». IJGIS 33(12).](https://doi.org/10.1080/13658816.2019.1645336)
 * 
 
 <a href="#top" class="back-to-top">Back to Top</a>
@@ -174,16 +173,15 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 ### 3a. Visit to [Bibliothèque d'étude et de conservation]() 
 
 #### Overview
-* 
+*  In this session we will meet at the Bibliothèque d'étude et de conservation, meet with some of the conservators and view some distinctive collections. 
 
 #### Pre-reading
 * 
 * 
 
-#### Exercises
-* Source discovery 
-* 
-
+#### Additional References
+* [Mémoire vive : Patrimoine numérisé de Besançon](https://memoirevive.besancon.fr/page/archives-numerisees)
+* Bibliothèque municipale de Besançon [EN](https://en.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on) [FR](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
