@@ -152,7 +152,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 2a.  Modeling Spatial Data for the Humanities
+### 2a. Modeling Spatial Data for the Humanities
 
 Tuesday 22 July 2025, 1430-1600
 

@@ -94,6 +94,7 @@ As we will be doing some data collection in the city, it will also be beneficial
 ### 2. Make accounts at the following
 
 | service | usage | notes |
+|---------|-------|-------|
 | Google | for access to drive for some file sharing | perhaps can forego, with reduced functionality | 
 | [Posit.cloud](https://posit.cloud/plans) | sharing of R Markdown files and running code | Choose the free account |
 | [OSM](https://www.openstreetmap.org/user/new) | edit access to OSM editing and login for UMap | |  
@@ -106,6 +107,7 @@ As we will be doing some data collection in the city, it will also be beneficial
 ### 3. Downloads
 
 | software | usage | notes |
+|----------|-------|-------|
 | [Github Desktop](https://desktop.github.com/) | for management of files on GitHub | if fluent in git in terminal, not necessary | 
 | [Sublime Text](https://www.sublimetext.com/) | an easy to use text editor for editing files locally | if you already use another text editor such as Visual Studio Code, you do not need Sublime. The examples we will use in the workshop will be done in Sublime. |
 | [QGIS](https://qgis.org/download/) | Open source GIS standalone software | Don't download the regular version, but instead the Long Term Version 3.40.8 'Bratislava.' Mac users will need to heed the "tips for first launch." | 
