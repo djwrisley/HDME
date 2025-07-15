@@ -211,6 +211,8 @@ Wednesday 23 July 2025, 1100-1230
 
 ### 5a. Semantic annotation with [Recogito](https://recogito.pelagios.org/) and Visualizing Spatial Data With [Kepler](https://kepler.gl/)
 
+Wednesday 23 July 2025, 1430-1600 
+
 #### Pre-reading
 * [Simon, Rainer, Elton Barker, Leif Isaksen and Pau de Soto Cañamares. 2015. "Linking Early Geospatial Documents, One Place at a Time : Annotation of Geographic Documents with Recogito". *e-Perimetron* 10 (2): 49–59.](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
 * [10 Minute Tutorial: A Quick Introduction to Recogito. Pelagios Commons](https://recogito.pelagios.org/help/tutorial) Also in DE, ES, FA, IT, NL and TK.
@@ -229,6 +231,8 @@ Wednesday 23 July 2025, 1100-1230
 
 
 ### 6a. GitHub, GitHub Desktop, Markdown and GitHub Pages
+
+Wednesday 23 July 2025, 1630-1800 
 
 #### Overview
 * Gentle Introduction to GitHub and Versioning
@@ -250,7 +254,13 @@ Wednesday 23 July 2025, 1100-1230
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 7a. Map Visualization  
+### 7a. GitHub, GitHub Desktop, Markdown and GitHub Pages (continued)
+
+Thursday 24 July 2025, 1100-1230
+
+### 8a. Map Visualization  
+
+Thursday 24 July 2025, 1430-1600
 
 #### Overview
 * An introduction to two ways of visualizing data using web-based tools
@@ -276,7 +286,9 @@ Wednesday 23 July 2025, 1100-1230
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### Hands on. Intro to QGIS
+### 9a. Intro to QGIS
+
+Friday 25 July 2025, 0900-1030
 
 #### Overview
 * Using an free and open-source standalone GIS software 
@@ -302,7 +314,13 @@ Wednesday 23 July 2025, 1100-1230
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 8a. Agent-based (re)coding of maps  
+### 10a. Intro to QGIS (continued)
+
+Friday 25 July 2025, 1100-1230
+
+### 11a. Agent-based (re)coding of maps  
+
+Friday 25 July 2025, 1430-1600
 
 #### Overview
 * Examining the Component Parts of a webmap
@@ -328,7 +346,9 @@ Wednesday 23 July 2025, 1100-1230
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9a. Wrap up.  
+### 12a. Wrap up.
+
+Friday 25 July 2025, 1630-1800
 
 #### Overview
 * General discussion
@@ -347,8 +367,7 @@ Wednesday 23 July 2025, 1100-1230
 * 
 * 
 
-#### Additional References
-*  
+#### Additional References for Week 1
 *  Awesome Digital Humanities https://github.com/dh-tech/awesome-digital-humanities 
 * A package to draw maps for the web https://github.com/riatelab/bertin 
 * Khartis : Create Thematic Maps in 3 steps https://www.sciencespo.fr/cartographie/khartis/en/ 
@@ -364,11 +383,13 @@ Wednesday 23 July 2025, 1100-1230
 In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps. We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling. Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps. Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.
 
 
-### 1b. Static Site Development
+### 1b. XXXX
+
+Monday 28 July 2025, 0900-1030
 
 #### Overview
-* Learning basic skills for hosting web maps on static sites
-* Introduction to web-based mapping platforms
+* 
+* 
 
 #### Pre-reading
 * 
@@ -388,11 +409,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 2b. Automated Workflows
+### 2b. XXXX
+
+Monday 28 July 2025, 1100-1230
 
 #### Overview
-* Experimenting with automated workflows for spatial data processing
-* Efficiency techniques for large datasets
+* 
+* 
 
 #### Pre-reading
 * 
@@ -412,11 +435,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3b. Advanced Visualization
+### 3b. XXXX
+
+Monday 28 July 2025, 1430-1600
 
 #### Overview
-* Complex forms of visualization and spatial storytelling techniques
-* Creating compelling narratives with spatial data
+* 
+* 
 
 #### Pre-reading
 * 
@@ -436,11 +461,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 4b. Open-Source GIS Introduction
+### 4b. XXX
+
+Tuesday 29 July 2025, 0900-1030
 
 #### Overview
-* Introduction to open-source GIS software and basic operations
-* Hands-on practice with GIS tools
+* 
+* 
 
 #### Pre-reading
 * 
@@ -460,11 +487,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 5b. Georeferencing and Warping
+### 5b. XXXX
+
+Tuesday 29 July 2025, 1100-1230
 
 #### Overview
-* Learning georeferencing and warping techniques for historical maps
-* Working with historical spatial data
+* 
+* 
 
 #### Pre-reading
 * 
@@ -484,11 +513,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 6b. Historical Vector Data
+### 6b. XXXX
+
+Tuesday 29 July 2025, 1430-1600
 
 #### Overview
-* Creating historical vector and polygon data from digitized historical maps
-* Advanced mapping techniques
+* 
+* 
 
 #### Pre-reading
 * 
@@ -508,11 +539,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 7b. Specialized Tools and Gazetteers
+### 7b. XXXX
+
+Wednesday 30 July 2025, 1100-1230
 
 #### Overview
-* Exploring discipline-specific gazetteers and mapping packages in R
-* Advanced tools for specific research needs
+* 
+* 
 
 #### Pre-reading
 * 
@@ -532,11 +565,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### Hands on. Advanced Practical Application
+### 8b.
+
+Thursday 31 July 2025, 0900-1030
 
 #### Overview
-* Hands-on application of advanced mapping and visualization techniques
-* Project development and troubleshooting
+* 
+* 
 
 #### Pre-reading
 * 
@@ -556,11 +591,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 8b. OpenStreetMap and Wikidata
+### 9b. XXXX
+
+Thursday 31 July 2025, 1100-1230
 
 #### Overview
-* Working with OpenStreetMap, Wikidata, and IIIF for spatial humanities
-* Leveraging open data sources
+* 
+* 
 
 #### Pre-reading
 * 
@@ -580,12 +617,13 @@ In the second part of the course, we will learn some skills in static site devel
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9b. Machine Learning Applications and Project Presentation
+### 10b. XXXX
+
+Thursday 31 July 2025, 1430-1600
 
 #### Overview
-* Machine classification of features in historical maps and AI applications
-* Final project presentations and strategies for data sharing and dissemination
-* Workshop wrap-up and next steps
+* 
+* 
 
 #### Pre-reading
 * 
@@ -604,6 +642,59 @@ In the second part of the course, we will learn some skills in static site devel
 * 
 
 <a href="#top" class="back-to-top">Back to Top</a>
+
+### 11b. XXXX
+
+Friday 1 August 2025, 0900-1030
+
+#### Overview
+* 
+* 
+
+#### Pre-reading
+* 
+* 
+
+#### Slides
+* 
+* 
+
+#### Exercises
+* 
+* 
+
+#### Additional References
+* 
+* 
+
+<a href="#top" class="back-to-top">Back to Top</a>
+
+### 12b. XXXX
+
+Friday 1 August 2025, 1100-1230
+
+#### Overview
+* 
+* 
+
+#### Pre-reading
+* 
+* 
+
+#### Slides
+* 
+* 
+
+#### Exercises
+* 
+* 
+
+#### Additional References
+* 
+* 
+
+<a href="#top" class="back-to-top">Back to Top</a>
+
 
 ### About this course :
 
