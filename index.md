@@ -19,7 +19,7 @@ The workshop is designed for the total beginner who would like:
 * to explore how a spatial dimension can enrich humanities and interdisciplinary research projects and
 * to learn some fundamental skills for collecting and organizing data in order to be able to integrate such methods into their research workflows.
 
-Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which artificial intelligence and machine learning are opening up new horizons for spatial humanities research.
+Drawing inspiration from the location of the ESU in the historical center of Besançon, participants will gather data from within the city and will work with data from local cultural institutions. The workshop will also introduce students to ways in which machine learning and generative artificial intelligence are opening up new horizons for spatial humanities research.
 
 <div class="session-nav-sidebar">
   <a href="#top" class="session-nav-home">Home</a>
@@ -603,7 +603,7 @@ In the second part of the course, we will learn some skills in static site devel
 
 This course is published with GitHub Pages using the [Slate theme](https://pages-themes.github.io/slate/) customized by Claude Sonnet 4 with Co-Pilot. 
 
-The course content has been inspired by previous years of spatial humanities teaching at [ESUDH](https://esudh.github.io/esuarchive/), [DHSI](https://dhsi.org) and NYU Abu Dhabi. Session 8a was particularly inspired by [DH Programming Pedagogy in the Age of AI, DHSI 2025](https://anastasiasalter.net/DHProgramming/).
+The course content has been inspired by previous years of spatial humanities teaching at [ESUDH](https://esudh.github.io/esuarchive/) in Leipzig and Cluj-Napoca, [DHSI](https://dhsi.org) in Victoria and Montréal as well as NYU Abu Dhabi. Session 8a was particularly inspired by [DH Programming Pedagogy in the Age of AI, DHSI 2025](https://anastasiasalter.net/DHProgramming/).
 
 Other syllabus of interest include
 - NYU Abu Dhabi, Data and Human Space, [F22](https://sites.google.com/nyu.edu/dhs-f22), [F21], [S21], [F20], [F19].
