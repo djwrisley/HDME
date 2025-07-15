@@ -119,7 +119,7 @@ We will learn about the creation of data in formats relevant to spatial humaniti
 
 ### 1a. Introduction to Spatial Humanities 
 
-Tuesday 22 July 2025, morning XXXX-XXXX 
+Tuesday 22 July 2025, 1100-1230 
 
 #### Overview
 * Two terms: "Humanities" Data and "Mapping Environments"
@@ -146,6 +146,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 ### 2a.  Modeling Spatial Data for the Humanities
 
+Tuesday 22 July 2025, 1430-1600
+
 #### Overview
 * Incorporating spatial dimensions across disciplines: cinema, art history, anthropology, history, literature
 * Understanding different data formats and sources
@@ -169,6 +171,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 
 ### 3a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
 
+Wednesday 23 July 2025, 0900-1030
+
 #### Overview
 *  In this session we will meet at the Bibliothèque d'étude et de conservation, meet with some of the conservators and view some distinctive collections. 
 
@@ -179,6 +183,8 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 <a href="#top" class="back-to-top">Back to Top</a>
 
 ### 4a. Critical Review of Projects
+
+Wednesday 23 July 2025, 1100-1230
 
 #### Overview
 * Exploring interdisciplinary project examples
