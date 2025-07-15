@@ -12,30 +12,34 @@
   
   <div class="session-nav-week">
     <h4>Week 1</h4>
-    <a href="./index.md#1a-monday-introduction-to-spatial-humanities-morning" class="session-nav-button">1a</a>
-    <a href="./index.md#2a-monday-critical-review-of-projects-afternoon" class="session-nav-button">2a</a>
-    <a href="./index.md#3a-tuesday-location-based-research-methods-morning" class="session-nav-button">3a</a>
-    <a href="./index.md#4a-tuesday-data-sources-and-acquisition-afternoon" class="session-nav-button">4a</a>
+    <a href="./index.md#1a-introduction-to-spatial-humanities" class="session-nav-button">1a</a>
+    <a href="./index.md#2a-modeling-spatial-data-for-the-humanities" class="session-nav-button">2a</a>
+    <a href="./index.md#3a-visit-to-bibliothèque-détude-et-de-conservation" class="session-nav-button">3a</a>
+    <a href="./index.md#4a-critical-review-of-projects" class="session-nav-button">4a</a>
     <a href="./index.md#5a-semantic-annotation-with-recogito-and-visualizing-spatial-data-with-kepler" class="session-nav-button">5a</a>
-    <a href="./index.md#6a-wednesday-data-creation-workflows-afternoon" class="session-nav-button">6a</a>
-    <a href="./index.md#7a-thursday-basic-querying-techniques-morning" class="session-nav-button">7a</a>
-    <a href="./index.md#hands-on-thursday-practical-application-afternoon" class="session-nav-button hands-on">Hands-on</a>
-    <a href="./index.md#8a-friday-data-normalization-morning" class="session-nav-button">8a</a>
-    <a href="./index.md#9a-friday-manual-vs-automated-analysis-afternoon" class="session-nav-button">9a</a>
+    <a href="./index.md#6a-github-github-desktop-markdown-and-github-pages" class="session-nav-button">6a</a>
+    <a href="./index.md#7a-github-github-desktop-markdown-and-github-pages-continued" class="session-nav-button">7a</a>
+    <a href="./index.md#8a-map-visualization" class="session-nav-button">8a</a>
+    <a href="./index.md#9a-intro-to-qgis" class="session-nav-button">9a</a>
+    <a href="./index.md#10a-intro-to-qgis-continued" class="session-nav-button">10a</a>
+    <a href="./index.md#11a-agent-based-recoding-of-maps" class="session-nav-button">11a</a>
+    <a href="./index.md#12a-wrap-up" class="session-nav-button">12a</a>
   </div>
   
   <div class="session-nav-week">
     <h4>Week 2</h4>
-    <a href="./index.md#1b-monday-static-site-development-morning" class="session-nav-button">1b</a>
-    <a href="./index.md#2b-monday-automated-workflows-afternoon" class="session-nav-button">2b</a>
-    <a href="./index.md#3b-tuesday-advanced-visualization-morning" class="session-nav-button">3b</a>
-    <a href="./index.md#4b-tuesday-open-source-gis-introduction-afternoon" class="session-nav-button">4b</a>
-    <a href="./index.md#5b-wednesday-georeferencing-and-warping-morning" class="session-nav-button">5b</a>
-    <a href="./index.md#6b-wednesday-historical-vector-data-afternoon" class="session-nav-button">6b</a>
-    <a href="./index.md#7b-thursday-specialized-tools-and-gazetteers-morning" class="session-nav-button">7b</a>
-    <a href="./index.md#hands-on-thursday-advanced-practical-application-afternoon" class="session-nav-button hands-on">Hands-on</a>
-    <a href="./index.md#8b-friday-openstreetmap-and-wikidata-morning" class="session-nav-button">8b</a>
-    <a href="./index.md#9b-friday-machine-learning-applications-and-project-presentation-afternoon" class="session-nav-button">9b</a>
+    <a href="./index.md#1b-xxxx" class="session-nav-button">1b</a>
+    <a href="./index.md#2b-xxxx" class="session-nav-button">2b</a>
+    <a href="./index.md#3b-xxxx" class="session-nav-button">3b</a>
+    <a href="./index.md#4b-xxx" class="session-nav-button">4b</a>
+    <a href="./index.md#5b-xxxx" class="session-nav-button">5b</a>
+    <a href="./index.md#6b-xxxx" class="session-nav-button">6b</a>
+    <a href="./index.md#7b-xxxx" class="session-nav-button">7b</a>
+    <a href="./index.md#8b" class="session-nav-button">8b</a>
+    <a href="./index.md#9b-xxxx" class="session-nav-button">9b</a>
+    <a href="./index.md#10b-xxxx" class="session-nav-button">10b</a>
+    <a href="./index.md#11b-xxxx" class="session-nav-button">11b</a>
+    <a href="./index.md#12b-xxxx" class="session-nav-button">12b</a>
   </div>
 </div>
 
@@ -43,32 +47,36 @@
   <div class="session-nav-mobile-week">
     <h4>Week 1 Sessions</h4>
     <div class="session-nav-mobile-buttons">
-      <a href="./index.md#1a-monday-introduction-to-spatial-humanities-morning" class="session-nav-mobile-button">1a</a>
-      <a href="./index.md#2a-monday-critical-review-of-projects-afternoon" class="session-nav-mobile-button">2a</a>
-      <a href="./index.md#3a-tuesday-location-based-research-methods-morning" class="session-nav-mobile-button">3a</a>
-      <a href="./index.md#4a-tuesday-data-sources-and-acquisition-afternoon" class="session-nav-mobile-button">4a</a>
+      <a href="./index.md#1a-introduction-to-spatial-humanities" class="session-nav-mobile-button">1a</a>
+      <a href="./index.md#2a-modeling-spatial-data-for-the-humanities" class="session-nav-mobile-button">2a</a>
+      <a href="./index.md#3a-visit-to-bibliothèque-détude-et-de-conservation" class="session-nav-mobile-button">3a</a>
+      <a href="./index.md#4a-critical-review-of-projects" class="session-nav-mobile-button">4a</a>
       <a href="./index.md#5a-semantic-annotation-with-recogito-and-visualizing-spatial-data-with-kepler" class="session-nav-mobile-button">5a</a>
-      <a href="./index.md#6a-wednesday-data-creation-workflows-afternoon" class="session-nav-mobile-button">6a</a>
-      <a href="./index.md#7a-thursday-basic-querying-techniques-morning" class="session-nav-mobile-button">7a</a>
-      <a href="./index.md#hands-on-thursday-practical-application-afternoon" class="session-nav-mobile-button hands-on">Hands-on</a>
-      <a href="./index.md#8a-friday-data-normalization-morning" class="session-nav-mobile-button">8a</a>
-      <a href="./index.md#9a-friday-manual-vs-automated-analysis-afternoon" class="session-nav-mobile-button">9a</a>
+      <a href="./index.md#6a-github-github-desktop-markdown-and-github-pages" class="session-nav-mobile-button">6a</a>
+      <a href="./index.md#7a-github-github-desktop-markdown-and-github-pages-continued" class="session-nav-mobile-button">7a</a>
+      <a href="./index.md#8a-map-visualization" class="session-nav-mobile-button">8a</a>
+      <a href="./index.md#9a-intro-to-qgis" class="session-nav-mobile-button">9a</a>
+      <a href="./index.md#10a-intro-to-qgis-continued" class="session-nav-mobile-button">10a</a>
+      <a href="./index.md#11a-agent-based-recoding-of-maps" class="session-nav-mobile-button">11a</a>
+      <a href="./index.md#12a-wrap-up" class="session-nav-mobile-button">12a</a>
     </div>
   </div>
   
   <div class="session-nav-mobile-week">
     <h4>Week 2 Sessions</h4>
     <div class="session-nav-mobile-buttons">
-      <a href="./index.md#1b-monday-static-site-development-morning" class="session-nav-mobile-button">1b</a>
-      <a href="./index.md#2b-monday-automated-workflows-afternoon" class="session-nav-mobile-button">2b</a>
-      <a href="./index.md#3b-tuesday-advanced-visualization-morning" class="session-nav-mobile-button">3b</a>
-      <a href="./index.md#4b-tuesday-open-source-gis-introduction-afternoon" class="session-nav-mobile-button">4b</a>
-      <a href="./index.md#5b-wednesday-georeferencing-and-warping-morning" class="session-nav-mobile-button">5b</a>
-      <a href="./index.md#6b-wednesday-historical-vector-data-afternoon" class="session-nav-mobile-button">6b</a>
-      <a href="./index.md#7b-thursday-specialized-tools-and-gazetteers-morning" class="session-nav-mobile-button">7b</a>
-      <a href="./index.md#hands-on-thursday-advanced-practical-application-afternoon" class="session-nav-mobile-button">hands-on</a>
-      <a href="./index.md#8b-friday-openstreetmap-and-wikidata-morning" class="session-nav-mobile-button">8b</a>
-      <a href="./index.md#9b-friday-machine-learning-applications-and-project-presentation-afternoon" class="session-nav-mobile-button">9b</a>
+      <a href="./index.md#1b-xxxx" class="session-nav-mobile-button">1b</a>
+      <a href="./index.md#2b-xxxx" class="session-nav-mobile-button">2b</a>
+      <a href="./index.md#3b-xxxx" class="session-nav-mobile-button">3b</a>
+      <a href="./index.md#4b-xxx" class="session-nav-mobile-button">4b</a>
+      <a href="./index.md#5b-xxxx" class="session-nav-mobile-button">5b</a>
+      <a href="./index.md#6b-xxxx" class="session-nav-mobile-button">6b</a>
+      <a href="./index.md#7b-xxxx" class="session-nav-mobile-button">7b</a>
+      <a href="./index.md#8b" class="session-nav-mobile-button">8b</a>
+      <a href="./index.md#9b-xxxx" class="session-nav-mobile-button">9b</a>
+      <a href="./index.md#10b-xxxx" class="session-nav-mobile-button">10b</a>
+      <a href="./index.md#11b-xxxx" class="session-nav-mobile-button">11b</a>
+      <a href="./index.md#12b-xxxx" class="session-nav-mobile-button">12b</a>
     </div>
   </div>
 </div>

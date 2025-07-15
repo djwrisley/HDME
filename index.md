@@ -708,10 +708,10 @@ Friday 1 August 2025, 1100-1230
 
 This course is published with GitHub Pages using the [Slate theme](https://pages-themes.github.io/slate/) customized by Claude Sonnet 4 with Co-Pilot. 
 
-The course content has been inspired by previous years of spatial humanities teaching at [ESUDH](https://esudh.github.io/esuarchive/) in Leipzig and Cluj-Napoca, [DHSI](https://dhsi.org) in Victoria and Montréal as well as NYU Abu Dhabi. Session 8a was particularly inspired by [DH Programming Pedagogy in the Age of AI, DHSI 2025](https://anastasiasalter.net/DHProgramming/).
+The course content has been inspired by previous years of spatial humanities teaching at [ESUDH](https://esudh.github.io/esuarchive/) in Leipzig and Cluj-Napoca, [DHSI](https://dhsi.org) in Victoria and Montréal as well as NYU Abu Dhabi. Session 11a was particularly inspired by [DH Programming Pedagogy in the Age of AI, DHSI 2025](https://anastasiasalter.net/DHProgramming/).
 
-Other syllabus of interest include
-- NYU Abu Dhabi, Data and Human Space, [F22](https://sites.google.com/nyu.edu/dhs-f22), [F21], [S21], [F20], [F19].
+Other syllabi of interest include
+- NYU Abu Dhabi, Data and Human Space, [F22](https://sites.google.com/nyu.edu/dhs-f22), [F21](https://sites.google.com/nyu.edu/dhs-f2021), [S21](https://sites.google.com/nyu.edu/dhs-s2021/), [F20](https://sites.google.com/nyu.edu/dhs-f2020), [F19](https://wp.nyu.edu/dhs).
 - NYU Abu Dhabi, Introduction to Digital Arts and Humanities (especially [unit 3](https://daahnyuad.github.io/schedule/#unit-3-spatial-data)), [S25](https://daahnyuad.github.io/), [archive](https://daahnyuad.github.io/archive/)
 
 
