@@ -199,7 +199,7 @@ Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
 #### Additional References
 * ["ArcGIS Story Maps Tutorial". *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
 * ["How to Create a Story Map". *YouTube*.](https://www.youtube.com/watch?v=4P-NYyw2qzM)
-* Knight Lab storymap.js 
+* ["Introduction to Knight Lab's StoryMap". *YouTube*](https://www.youtube.com/watch?v=X33ud7RYZFg)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
