@@ -23,7 +23,7 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
 
 <div class="session-nav-sidebar">
   <a href="#top" class="session-nav-home">Home</a>
-  <a href="https://djwrisley.github.io/HDME/workshop-prep.html" class="session-nav-prep">Preparation</a>
+  <a href="./workshop-prep.html" class="session-nav-prep">Preparation</a>
   
   <div class="session-nav-week">
     <h4>Week 1</h4>
