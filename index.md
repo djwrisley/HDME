@@ -102,7 +102,7 @@ Details for accounts to make and pre-workshop downloads can be found [here](work
 
 ### Workshop Goals
 
-The main goals of the workshop are fourfold:
+There are four main goals of the workshop:
 
 1. to learn where we might obtain spatial data relevant to our research interests, or capture data from analog sources through digitization,
 2. to explore modeling data for a research project having a spatial dimension,
@@ -112,11 +112,11 @@ The main goals of the workshop are fourfold:
 
 ### Background
 
-Participants are encouraged to explore existing spatial humanities scholarship to understand the full scope and possibilities of the field. For each module below, we will provide some pre-reading and some follow up materials. A Zotero library of supplementary readings is available [here](https://www.zotero.org/groups/2352275/hdme_esu). No prior experience with GIS or mapping is expected.
+Participants are encouraged to explore existing spatial humanities scholarship to understand the full scope and possibilities of the field. For each module below, we will provide some pre-reading and some follow up materials. A Zotero library of supplementary readings is available [here](https://www.zotero.org/groups/2352275/hdme_esu). No prior experience with GIS or mapping is expected. Please request access for editing rights. 
 
 ### Workshop Agenda
 
-In the first part of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research. 
+In the first part of the workshop we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into participants' research. 
 
 We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. Students will be introduced to normalization and wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis.
 
@@ -134,11 +134,9 @@ Tuesday 22 July 2025, 1100-1230
 * Introduction to the course and course infrastructure
 * Challenges and opportunities in spatial research
 * Getting to know the workshop participants 
-* 
 
 #### Pre-reading
-* Wilson, Matthew W. 2019. Mapping. In _Digital Geographies._ James Ash, Rob Kitchin, and
-Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
+* Wilson, Matthew W. 2019. Mapping. In _Digital Geographies._ James Ash, Rob Kitchin, and Agnieszka Leszczynski, eds. Sage Publications. pp. 49-59.
   
 #### Slides
 * [ESUDH HDME 2025 overview](https://docs.google.com/presentation/d/1xr1rH-2SMc8dKwtzjYaXWDcYHrDgWWvV7C05g8XNROs/edit?usp=sharing)
@@ -162,14 +160,14 @@ Tuesday 22 July 2025, 1430-1600
 * Creating spatial data for humanities projects
 
 #### Pre-reading
-* [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
+* [Broman, Karl W. and Kara H. Woo. 2018. Data Organization in Spreadsheets. In _The American Statistician_, 72(1), 2–10.](https://doi.org/10.1080/00031305.2017.1375989)
 * [Guldi, Jo. "What is the Spatial Turn?". *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [White, Richard. "What is Spatial History?". *Stanford Spatial History Project*.](https://web.stanford.edu/group/spatialhistory/static/publications/pub29.html)
 
 #### Exercises
 * [Modeling Spatial Data](modeling.md)
 * Brainstorming for Mappable Architectural Features (discussion)
-* Take at least 5 digital photos in Besançon. Upload to drive  
+* Take at least 5 digital photos in Besançon. Upload to the specified folder in drive.  
 
 #### Additional References
 * [Lincoln, Matthew. 2020. "Tidy Data for the Humanities".](https://matthewlincoln.net/2020/05/26/tidy-data-for-humanities.html)
@@ -204,7 +202,7 @@ Wednesday 23 July 2025, 1100-1230
 * [Mullen, Lincoln, "Map Literacy"](https://lincolnmullen.com/projects/spatial-workshop/literacy.html)
 
 #### Slides
-* Projects of Past ESU workshops
+* [Projects of Past ESU workshops]()
 
 #### Exercises
 * [Spatial Projects Review List](spatial-projects.md)
@@ -376,7 +374,8 @@ Friday 25 July 2025, 1630-1800
 * 
 
 #### Additional References for Week 1
-*  Awesome Digital Humanities https://github.com/dh-tech/awesome-digital-humanities 
+*  [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
+*  [Awesome Digital Humanities.](https://github.com/dh-tech/awesome-digital-humanities) 
 * A package to draw maps for the web https://github.com/riatelab/bertin 
 * Khartis : Create Thematic Maps in 3 steps https://www.sciencespo.fr/cartographie/khartis/en/ 
 * StorymapJS - Maps that tell stories.
