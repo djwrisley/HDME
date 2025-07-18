@@ -373,13 +373,6 @@ Friday 25 July 2025, 1630-1800
 * 
 * 
 
-#### Additional References for Week 1
-*  [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
-*  [Awesome Digital Humanities.](https://github.com/dh-tech/awesome-digital-humanities) 
-* A package to draw maps for the web https://github.com/riatelab/bertin 
-* Khartis : Create Thematic Maps in 3 steps https://www.sciencespo.fr/cartographie/khartis/en/ 
-* StorymapJS - Maps that tell stories.
-
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -701,6 +694,16 @@ Friday 1 August 2025, 1100-1230
 * 
 
 <a href="#top" class="back-to-top">Back to Top</a>
+
+
+#### Additional References for Week 1
+*  [Brooks, Mackenzie K. "Data". *Humanities Data Coursebook*.](https://mackenziekbrooks.github.io/humanities-data/data/) 
+*  [Awesome Digital Humanities.](https://github.com/dh-tech/awesome-digital-humanities) 
+*  A package to draw maps for the web https://github.com/riatelab/bertin 
+*  Khartis : Create Thematic Maps in 3 steps https://www.sciencespo.fr/cartographie/khartis/en/ 
+*  StorymapJS - Maps that tell stories.
+*  Reviews in the Digital Humanities 
+
 
 
 ### About this course :
