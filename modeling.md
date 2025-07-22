@@ -11,5 +11,5 @@ Let's gather some sample data & organize it in a manner that suits a spatial pro
 3.	Decide what information might be associated with the locations
 4.	Re(name) your columns in your table
 5.	Fill in the table with +/- 10 rows (don't worry about latitude / longitude pairs at first) 
-6.	You can try Geocode by Awesome Table (under Extensions) 
+6.	You can try Geocode by Awesome Table (under Extensions). For sheets we share with you, it is installed. You can get it from [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/geocode_by_awesome_table/904124517349).
 
