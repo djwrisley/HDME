@@ -175,7 +175,7 @@ Tuesday 22 July 2025, 1430-1600
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 4a. Critical Review of Projects
+### 3a. Critical Review of Projects
 
 Wednesday 23 July 2025, 1100-1230
 
@@ -202,7 +202,7 @@ Wednesday 23 July 2025, 1100-1230
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 5a. Semantic annotation with [Recogito](https://recogito.pelagios.org/) and Visualizing Spatial Data With [Kepler](https://kepler.gl/)
+### 4a. Semantic annotation with [Recogito](https://recogito.pelagios.org/) and Visualizing Spatial Data With [Kepler](https://kepler.gl/)
 
 Wednesday 23 July 2025, 1430-1600 
 
@@ -223,7 +223,7 @@ Wednesday 23 July 2025, 1430-1600
 <a href="#top" class="back-to-top">Back to Top</a>
 
 
-### 6a. GitHub, GitHub Desktop, Markdown and GitHub Pages
+### 5a. GitHub, GitHub Desktop, Markdown and GitHub Pages
 
 Wednesday 23 July 2025, 1630-1800 
 
@@ -247,11 +247,11 @@ Wednesday 23 July 2025, 1630-1800
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 7a. GitHub, GitHub Desktop, Markdown and GitHub Pages (continued)
+### 6a. GitHub, GitHub Desktop, Markdown and GitHub Pages (continued)
 
 Thursday 24 July 2025, 1100-1230
 
-### 8a. Map Visualization  
+### 7a. Map Visualization  
 
 Thursday 24 July 2025, 1430-1600
 
@@ -279,7 +279,7 @@ Thursday 24 July 2025, 1430-1600
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9a. Intro to QGIS
+### 8a. Intro to QGIS
 
 Friday 25 July 2025, 0900-1030
 
@@ -307,6 +307,10 @@ Friday 25 July 2025, 0900-1030
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
+### 9a. Intro to QGIS (continued)
+
+Friday 25 July 2025, 1100-1230
+
 ### 10a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
 
 Wednesday 23 July 2025, 0900-1030
@@ -320,11 +324,7 @@ Wednesday 23 July 2025, 0900-1030
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 11a. Intro to QGIS (continued)
-
-Friday 25 July 2025, 1100-1230
-
-### 12a. Agent-based (re)coding of maps and Wrap up.
+### 11a. Agent-based (re)coding of maps.
 
 Friday 25 July 2025, 1430-1600
 
@@ -352,7 +352,7 @@ Friday 25 July 2025, 1430-1600
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 12a. 
+### 12a. Wrap up.
 
 Friday 25 July 2025, 1630-1800
 
