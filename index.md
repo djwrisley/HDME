@@ -29,16 +29,15 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
     <h4>Week 1</h4>
     <a href="#1a-introduction-to-spatial-humanities" class="session-nav-button">1a</a>
     <a href="#2a-modeling-spatial-data-for-the-humanities" class="session-nav-button">2a</a>
-    <a href="#3a-visit-to-bibliothèque-détude-et-de-conservation" class="session-nav-button">3a</a>
-    <a href="#4a-critical-review-of-projects" class="session-nav-button">4a</a>
-    <a href="#5a-semantic-annotation-with-recogito-and-visualizing-spatial-data-with-kepler" class="session-nav-button">5a</a>
-    <a href="#6a-github-github-desktop-markdown-and-github-pages" class="session-nav-button">6a</a>
-    <a href="#7a-github-github-desktop-markdown-and-github-pages-continued" class="session-nav-button">7a</a>
-    <a href="#8a-map-visualization" class="session-nav-button">8a</a>
-    <a href="#9a-intro-to-qgis" class="session-nav-button">9a</a>
-    <a href="#10a-intro-to-qgis-continued" class="session-nav-button">10a</a>
+    <a href="#3a-critical-review-of-projects" class="session-nav-button">3a</a>
+    <a href="#4a-semantic-annotation-with-recogito-and-visualizing-spatial-data-with-kepler" class="session-nav-button">4a</a>
+    <a href="#5a-github-github-desktop-markdown-and-github-pages" class="session-nav-button">5a</a>
+    <a href="#6a-github-github-desktop-markdown-and-github-pages-continued" class="session-nav-button">6a</a>
+    <a href="#7a-map-visualization" class="session-nav-button">7a</a>
+    <a href="#8a-intro-to-qgis" class="session-nav-button">8a</a>
+    <a href="#9a-intro-to-qgis-continued" class="session-nav-button">9a</a>
+    <a href="#10a-visit-to-bibliothèque-détude-et-de-conservation" class="session-nav-button">10a</a>
     <a href="#11a-agent-based-recoding-of-maps" class="session-nav-button">11a</a>
-    <a href="#12a-wrap-up" class="session-nav-button">12a</a>
   </div>
   
   <div class="session-nav-week">
@@ -54,7 +53,6 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
     <a href="#9b-xxxx" class="session-nav-button">9b</a>
     <a href="#10b-xxxx" class="session-nav-button">10b</a>
     <a href="#11b-xxxx" class="session-nav-button">11b</a>
-    <a href="#12b-xxxx" class="session-nav-button">12b</a>
   </div>
 </div>
 
@@ -64,16 +62,15 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
     <div class="session-nav-mobile-buttons">
       <a href="#1a-introduction-to-spatial-humanities" class="session-nav-mobile-button">1a</a>
       <a href="#2a-modeling-spatial-data-for-the-humanities" class="session-nav-mobile-button">2a</a>
-      <a href="#3a-visit-to-bibliothèque-détude-et-de-conservation" class="session-nav-mobile-button">3a</a>
-      <a href="#4a-critical-review-of-projects" class="session-nav-mobile-button">4a</a>
-      <a href="#5a-semantic-annotation-with-recogito-and-visualizing-spatial-data-with-kepler" class="session-nav-mobile-button">5a</a>
-      <a href="#6a-github-github-desktop-markdown-and-github-pages" class="session-nav-mobile-button">6a</a>
-      <a href="#7a-github-github-desktop-markdown-and-github-pages-continued" class="session-nav-mobile-button">7a</a>
-      <a href="#8a-map-visualization" class="session-nav-mobile-button">8a</a>
-      <a href="#9a-intro-to-qgis" class="session-nav-mobile-button">9a</a>
-      <a href="#10a-intro-to-qgis-continued" class="session-nav-mobile-button">10a</a>
+      <a href="#3a-critical-review-of-projects" class="session-nav-mobile-button">3a</a>
+      <a href="#4a-semantic-annotation-with-recogito-and-visualizing-spatial-data-with-kepler" class="session-nav-mobile-button">4a</a>
+      <a href="#5a-github-github-desktop-markdown-and-github-pages" class="session-nav-mobile-button">5a</a>
+      <a href="#6a-github-github-desktop-markdown-and-github-pages-continued" class="session-nav-mobile-button">6a</a>
+      <a href="#7a-map-visualization" class="session-nav-mobile-button">7a</a>
+      <a href="#8a-intro-to-qgis" class="session-nav-mobile-button">8a</a>
+      <a href="#9a-intro-to-qgis-continued" class="session-nav-mobile-button">9a</a>
+      <a href="#10a-visit-to-bibliothèque-détude-et-de-conservation" class="session-nav-mobile-button">10a</a>
       <a href="#11a-agent-based-recoding-of-maps" class="session-nav-mobile-button">11a</a>
-      <a href="#12a-wrap-up" class="session-nav-mobile-button">12a</a>
     </div>
   </div>
   
@@ -91,7 +88,6 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
       <a href="#9b-xxxx" class="session-nav-mobile-button">9b</a>
       <a href="#10b-xxxx" class="session-nav-mobile-button">10b</a>
       <a href="#11b-xxxx" class="session-nav-mobile-button">11b</a>
-      <a href="#12b-xxxx" class="session-nav-mobile-button">12b</a>
     </div>
   </div>
 </div>
@@ -177,7 +173,7 @@ Tuesday 22 July 2025, 1430-1600
 
 ### 3a. Critical Review of Projects
 
-Wednesday 23 July 2025, 1100-1230
+Wednesday 23 July 2025, 0900-1030
 
 #### Overview
 * Exploring interdisciplinary project examples
@@ -204,7 +200,7 @@ Wednesday 23 July 2025, 1100-1230
 
 ### 4a. Semantic annotation with [Recogito](https://recogito.pelagios.org/) and Visualizing Spatial Data With [Kepler](https://kepler.gl/)
 
-Wednesday 23 July 2025, 1430-1600 
+Wednesday 23 July 2025, 1050-1220
 
 #### Pre-reading
 * [Simon, Rainer, Elton Barker, Leif Isaksen and Pau de Soto Cañamares. 2015. "Linking Early Geospatial Documents, One Place at a Time : Annotation of Geographic Documents with Recogito". *e-Perimetron* 10 (2): 49–59.](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
@@ -225,7 +221,7 @@ Wednesday 23 July 2025, 1430-1600
 
 ### 5a. GitHub, GitHub Desktop, Markdown and GitHub Pages
 
-Wednesday 23 July 2025, 1630-1800 
+Wednesday 23 July 2025, 1430-1600 
 
 #### Overview
 * Gentle Introduction to GitHub and Versioning
@@ -249,11 +245,11 @@ Wednesday 23 July 2025, 1630-1800
 
 ### 6a. GitHub, GitHub Desktop, Markdown and GitHub Pages (continued)
 
-Thursday 24 July 2025, 1100-1230
+Thursday 24 July 2025, 1630-1830
 
 ### 7a. Map Visualization  
 
-Thursday 24 July 2025, 1430-1600
+Thursday 24 July 2025, 1050-1220
 
 #### Overview
 * An introduction to two ways of visualizing data using web-based tools
@@ -281,7 +277,7 @@ Thursday 24 July 2025, 1430-1600
 
 ### 8a. Intro to QGIS
 
-Friday 25 July 2025, 0900-1030
+Thursday 24 July 2025, 1430-1600
 
 #### Overview
 * Using an free and open-source standalone GIS software 
@@ -309,11 +305,11 @@ Friday 25 July 2025, 0900-1030
 
 ### 9a. Intro to QGIS (continued)
 
-Friday 25 July 2025, 1100-1230
+Friday 25 July 2025, 0900-1030
 
 ### 10a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
 
-Wednesday 23 July 2025, 0900-1030
+Friday 25 July 2025, 1050-1220 
 
 #### Overview
 *  In this session we will meet at the Bibliothèque d'étude et de conservation, meet with some of the conservators and view some distinctive collections. 
@@ -352,30 +348,6 @@ Friday 25 July 2025, 1430-1600
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 12a. Wrap up.
-
-Friday 25 July 2025, 1630-1800
-
-#### Overview
-* General discussion
-* Wrap up of key concepts and review of learning objectives
-
-#### Pre-reading
-* Dariah Campus Sharing the Workflows
-* Mixed Methods
-* DH & AI 
-
-#### Slides
-* Workflows for data creation, visualization and enrichment
-* 
-
-#### Exercises
-* 
-* 
-
-
-<a href="#top" class="back-to-top">Back to Top</a>
-
 ---
 
 ### Week 2: Visualization and Advanced Techniques
@@ -385,7 +357,7 @@ In the second part of the course, we will learn some skills in static site devel
 
 ### 1b. XXXX
 
-Monday 28 July 2025, 0900-1030
+Monday 28 July 2025, 0830-1000
 
 #### Overview
 * 
@@ -411,7 +383,7 @@ Monday 28 July 2025, 0900-1030
 
 ### 2b. XXXX
 
-Monday 28 July 2025, 1100-1230
+Monday 28 July 2025, 1030-1200
 
 #### Overview
 * 
@@ -437,7 +409,7 @@ Monday 28 July 2025, 1100-1230
 
 ### 3b. XXXX
 
-Monday 28 July 2025, 1430-1600
+Monday 28 July 2025, 1400-1530
 
 #### Overview
 * 
@@ -463,7 +435,7 @@ Monday 28 July 2025, 1430-1600
 
 ### 4b. XXX
 
-Tuesday 29 July 2025, 0900-1030
+Tuesday 29 July 2025, 0830-1000
 
 #### Overview
 * 
@@ -489,7 +461,7 @@ Tuesday 29 July 2025, 0900-1030
 
 ### 5b. XXXX
 
-Tuesday 29 July 2025, 1100-1230
+Tuesday 29 July 2025, 1030-1200
 
 #### Overview
 * 
@@ -515,7 +487,7 @@ Tuesday 29 July 2025, 1100-1230
 
 ### 6b. XXXX
 
-Tuesday 29 July 2025, 1430-1600
+Tuesday 29 July 2025, 1400-1530
 
 #### Overview
 * 
@@ -541,7 +513,7 @@ Tuesday 29 July 2025, 1430-1600
 
 ### 7b. XXXX
 
-Wednesday 30 July 2025, 1100-1230
+Thursday 31 July 2025, 0830-1000
 
 #### Overview
 * 
@@ -567,7 +539,7 @@ Wednesday 30 July 2025, 1100-1230
 
 ### 8b.
 
-Thursday 31 July 2025, 0900-1030
+Thursday 31 July 2025, 1030-1200
 
 #### Overview
 * 
@@ -593,7 +565,7 @@ Thursday 31 July 2025, 0900-1030
 
 ### 9b. XXXX
 
-Thursday 31 July 2025, 1100-1230
+Thursday 31 July 2025, 1400-1530
 
 #### Overview
 * 
@@ -619,7 +591,7 @@ Thursday 31 July 2025, 1100-1230
 
 ### 10b. XXXX
 
-Thursday 31 July 2025, 1430-1600
+Friday 1 August 2025, 0830-1000
 
 #### Overview
 * 
@@ -645,33 +617,7 @@ Thursday 31 July 2025, 1430-1600
 
 ### 11b. XXXX
 
-Friday 1 August 2025, 0900-1030
-
-#### Overview
-* 
-* 
-
-#### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
-
-#### Exercises
-* 
-* 
-
-#### Additional References
-* 
-* 
-
-<a href="#top" class="back-to-top">Back to Top</a>
-
-### 12b. XXXX
-
-Friday 1 August 2025, 1100-1230
+Friday 1 August 2025, 1030-1200
 
 #### Overview
 * 
