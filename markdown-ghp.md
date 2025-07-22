@@ -15,11 +15,7 @@ Authoring in Markdown
 [A Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) 
 [Live Markdown Preview](https://markdownlivepreview.com/)
 
-
 Hosting In GitHub Pages
-
-
-
 
     Create a GitHub Repository: Open GitHub Desktop and click on “File > New Repository”. Fill in the necessary details like the repository name, description, and local path. Click “Create Repository”.
 

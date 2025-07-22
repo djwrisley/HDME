@@ -187,7 +187,9 @@ Wednesday 23 July 2025, 0900-1030
 
 #### Exercises
 * [Spatial Projects Review List](spatial-projects.md)
-* [EXIF data and collective data sheet](https://docs.google.com/spreadsheets/d/1iICLSK1SF5p4OqgFQW-Eo2r7xC8DzGxqqs0no5wJLB8/edit?usp=sharing) 
+* [Exploring EXIF data](https://exif.tools/)
+* 
+* [collective data sheet](https://docs.google.com/spreadsheets/d/1iICLSK1SF5p4OqgFQW-Eo2r7xC8DzGxqqs0no5wJLB8/edit?usp=sharing) 
 
 #### Additional References
 * ["ArcGIS Story Maps Tutorial". *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
@@ -211,7 +213,7 @@ Wednesday 23 July 2025, 1050-1220
 #### Additional References
 * ["Semantic Annotation without the Pointy Brackets – An Introduction to Recogito". *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts)
 *  Frontini, Francesca, Amaury Roth-Boll and Maria Susana Seguin. 2024. "Cartographie d'une aventure: approche numérique du _Journal d'un voyage fait aux Indes orientales de Robert Challe_". In Robert Challe et l'aventure. Paris: Classiques Garnier. 247-275.
-*  OpenGulf workflows 
+*  OpenGulf workflow
 
 
 <a href="#top" class="back-to-top">Back to Top</a>
