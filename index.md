@@ -163,7 +163,7 @@ Tuesday 22 July 2025, 1430-1600
 #### Exercises
 * [Modeling Spatial Data](modeling.md)
 * Brainstorming for Mappable Architectural Features (discussion)
-* Take at least 5 digital photos in Besançon. Upload to the specified folder in drive.  
+    
 
 #### Additional References
 * [Lincoln, Matthew. 2020. "Tidy Data for the Humanities".](https://matthewlincoln.net/2020/05/26/tidy-data-for-humanities.html)
@@ -179,17 +179,15 @@ Wednesday 23 July 2025, 0900-1030
 * Exploring interdisciplinary project examples
 * Analyzing scope and rhetorical strategies in existing spatial humanities projects
 * Understanding different approaches to spatial storytelling
+* Imagining a workflow for a collective project
 
 #### Pre-reading
 * [Joyeux-Prunel, Béatrice. 2013. "Introduction: Do Maps Lie?". *Artl@s Bulletin* 2 (2): Article 1.](https://docs.lib.purdue.edu/artlas/vol2/iss2/1/)
 * [Mullen, Lincoln, "Map Literacy"](https://lincolnmullen.com/projects/spatial-workshop/literacy.html)
 
-#### Slides
-* [Projects of Past ESU workshops]()
-
 #### Exercises
 * [Spatial Projects Review List](spatial-projects.md)
-* [EXIF data and collective data sheet]() 
+* [EXIF data and collective data sheet](https://docs.google.com/spreadsheets/d/1iICLSK1SF5p4OqgFQW-Eo2r7xC8DzGxqqs0no5wJLB8/edit?usp=sharing) 
 
 #### Additional References
 * ["ArcGIS Story Maps Tutorial". *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
