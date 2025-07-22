@@ -175,19 +175,6 @@ Tuesday 22 July 2025, 1430-1600
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
-
-Wednesday 23 July 2025, 0900-1030
-
-#### Overview
-*  In this session we will meet at the Bibliothèque d'étude et de conservation, meet with some of the conservators and view some distinctive collections. 
-
-#### Additional References
-* Bibliothèque municipale de Besançon [EN](https://en.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on) [FR](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on)
-*  [Mémoire vive : Patrimoine numérisé de Besançon](https://memoirevive.besancon.fr/page/archives-numerisees)
-
-<a href="#top" class="back-to-top">Back to Top</a>
-
 ### 4a. Critical Review of Projects
 
 Wednesday 23 July 2025, 1100-1230
@@ -320,11 +307,24 @@ Friday 25 July 2025, 0900-1030
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 10a. Intro to QGIS (continued)
+### 10a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
+
+Wednesday 23 July 2025, 0900-1030
+
+#### Overview
+*  In this session we will meet at the Bibliothèque d'étude et de conservation, meet with some of the conservators and view some distinctive collections. 
+
+#### Additional References
+* Bibliothèque municipale de Besançon [EN](https://en.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on) [FR](https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_municipale_de_Besan%C3%A7on)
+*  [Mémoire vive : Patrimoine numérisé de Besançon](https://memoirevive.besancon.fr/page/archives-numerisees)
+
+<a href="#top" class="back-to-top">Back to Top</a>
+
+### 11a. Intro to QGIS (continued)
 
 Friday 25 July 2025, 1100-1230
 
-### 11a. Agent-based (re)coding of maps  
+### 12a. Agent-based (re)coding of maps and Wrap up.
 
 Friday 25 July 2025, 1430-1600
 
@@ -352,7 +352,7 @@ Friday 25 July 2025, 1430-1600
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 12a. Wrap up.
+### 12a. 
 
 Friday 25 July 2025, 1630-1800
 
@@ -711,6 +711,9 @@ Friday 1 August 2025, 1100-1230
 *  Orange Data Mining 
 *  DHSI list
 *  Liste DH
+*  Dariah Campus Sharing the Workflows
+*  Mixed Methods
+*  DH & AI 
 
 
 ### About this course :
