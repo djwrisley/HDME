@@ -162,7 +162,7 @@ Tuesday 22 July 2025, 1430-1600
 
 #### Exercises
 * [Modeling Spatial Data](modeling.md)
-* Brainstorming for Mappable Architectural Features (discussion)
+* Brainstorming for Mappable details in Besançon
     
 
 #### Additional References
@@ -179,7 +179,6 @@ Wednesday 23 July 2025, 0900-1030
 * Exploring interdisciplinary project examples
 * Analyzing scope and rhetorical strategies in existing spatial humanities projects
 * Understanding different approaches to spatial storytelling
-* Imagining a workflow for a collective project
 
 #### Pre-reading
 * [Joyeux-Prunel, Béatrice. 2013. "Introduction: Do Maps Lie?". *Artl@s Bulletin* 2 (2): Article 1.](https://docs.lib.purdue.edu/artlas/vol2/iss2/1/)
@@ -188,13 +187,13 @@ Wednesday 23 July 2025, 0900-1030
 #### Exercises
 * [Spatial Projects Review List](spatial-projects.md)
 * [Exploring EXIF data](https://exif.tools/)
-* 
 * [collective data sheet](https://docs.google.com/spreadsheets/d/1iICLSK1SF5p4OqgFQW-Eo2r7xC8DzGxqqs0no5wJLB8/edit?usp=sharing) 
 
 #### Additional References
 * ["ArcGIS Story Maps Tutorial". *YouTube*.](https://www.youtube.com/watch?v=t_oFnIIJA-A)
 * ["How to Create a Story Map". *YouTube*.](https://www.youtube.com/watch?v=4P-NYyw2qzM)
 * ["Introduction to Knight Lab's StoryMap". *YouTube*](https://www.youtube.com/watch?v=X33ud7RYZFg)
+* [ExifTool: Read, Write and Edit Meta Information!](https://exiftool.org/)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -208,13 +207,11 @@ Wednesday 23 July 2025, 1050-1220
 
 #### Exercises
 * [Recogito Overview](recogito.md)
-* Collective Annotation and Mapping of Text
 
 #### Additional References
 * ["Semantic Annotation without the Pointy Brackets – An Introduction to Recogito". *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts)
 *  Frontini, Francesca, Amaury Roth-Boll and Maria Susana Seguin. 2024. "Cartographie d'une aventure: approche numérique du _Journal d'un voyage fait aux Indes orientales de Robert Challe_". In Robert Challe et l'aventure. Paris: Classiques Garnier. 247-275.
 *  OpenGulf workflow
-
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -253,7 +250,7 @@ Thursday 24 July 2025, 1050-1220
 
 #### Overview
 * An introduction to two ways of visualizing data using web-based tools
-* Exporting a webmap made with kepler to GitHub pages
+* Visualizing a webmap in GitHub pages
 
 #### Pre-reading
 * ["Palladio 3 - Data Visualization". *YouTube*.](https://www.youtube.com/watch?v=m-OVVAm0utE)
@@ -292,6 +289,7 @@ Thursday 24 July 2025, 1430-1600
 
 #### Exercises
 * Visualizing workshop datasets (Recogito, Besançon photos) or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
+* 
 * Exporting map with QGIS2Web
 
 #### Additional References
