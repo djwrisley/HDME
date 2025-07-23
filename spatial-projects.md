@@ -74,8 +74,6 @@ layout: default
     </div>
   </div>
 </div>
-  </div>
-</div>
 
 ## Spatial Projects Review List
 
@@ -87,6 +85,10 @@ Let's take a look at a few maps and explore what they do:
 
 
 Pick a couple projects from the list below (feel free to work in pairs!) and consider the following prompts (inspired by [Lincoln Mullen](https://lincolnmullen.com/projects/spatial-workshop/literacy.html)):
+
+- What data was used? 
+- How does the viewer perceive it? 
+- What you do take away? 
 
 <!-- Project review content will be added here -->
 **Interactive Maps**
