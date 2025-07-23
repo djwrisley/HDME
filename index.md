@@ -206,14 +206,14 @@ Wednesday 23 July 2025, 1050-1220
 * [10 Minute Tutorial: A Quick Introduction to Recogito. Pelagios Commons](https://recogito.pelagios.org/help/tutorial) Also in DE, ES, FA, IT, NL and TK.
 * Who was Charles Weiss? [EN](https://en.wikipedia.org/wiki/Charles_Weiss_(librarian)) [FR](https://fr.wikipedia.org/wiki/Charles_Weiss_(biblioth%C3%A9caire)) 
   
-  
+
 #### Exercises
 * [Recogito Overview](recogito.md)
 
 #### Additional References
 * ["Semantic Annotation without the Pointy Brackets – An Introduction to Recogito". *YouTube*.](https://www.youtube.com/watch?v=Qdb8Ds9ayts)
 *  Frontini, Francesca, Amaury Roth-Boll and Maria Susana Seguin. 2024. "Cartographie d'une aventure: approche numérique du _Journal d'un voyage fait aux Indes orientales de Robert Challe_". In Robert Challe et l'aventure. Paris: Classiques Garnier. 247-275.
-*  OpenGulf workflow
+
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
