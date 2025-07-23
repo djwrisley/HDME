@@ -75,6 +75,14 @@ layout: default
   </div>
 </div>
 
+## The Sources
+
+1. Charles Weiss, Journal 
+   - [partial digital edition](https://books.openedition.org/pufc/3478) 
+   - [full manuscript](https://memoirevive.besancon.fr/ark:/48565/wgmb04prsnj2) 
+2. digitized page in manuscript
+
+
 ## Recogito Overview
 
 Let’s create our first map starting from a text (or image!) using Recogito and Kepler.gl.
