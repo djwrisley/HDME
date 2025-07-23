@@ -80,7 +80,7 @@ layout: default
 1. Charles Weiss, Journal 
    - [partial digital edition - April-July 1834](https://books.openedition.org/pufc/3478) 
    - [full manuscript](https://memoirevive.besancon.fr/ark:/48565/wgmb04prsnj2) 
-2. digitized page in manuscript
+2. [digitized page in manuscript](https://drive.google.com/file/d/1cafBMW9QtT193V3WR-p1OIiTcdU4sBne/view?usp=drive_link)
 
 
 ## Recogito Overview
