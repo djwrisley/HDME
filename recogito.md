@@ -78,7 +78,7 @@ layout: default
 ## The Sources
 
 1. Charles Weiss, Journal 
-   - [partial digital edition](https://books.openedition.org/pufc/3478) 
+   - [partial digital edition - April-July 1834](https://books.openedition.org/pufc/3478) 
    - [full manuscript](https://memoirevive.besancon.fr/ark:/48565/wgmb04prsnj2) 
 2. digitized page in manuscript
 
