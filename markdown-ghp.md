@@ -92,12 +92,6 @@ We have decided to make this workshop using Markdown and a static site in GitHub
 
 - go to the raw content of this workshop page and cut any of the text, then paste it into [Live Markdown Preview](https://markdownlivepreview.com/).
 
-
-## Resources for later 
-
-- [A Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) 
-- [Live Markdown Preview](https://markdownlivepreview.com/)
-
 ## Hosting In GitHub Pages
 
     Create a GitHub Repository: Open GitHub Desktop and click on “File > New Repository”. Fill in the necessary details like the repository name, description, and local path. Click “Create Repository”.
@@ -111,5 +105,13 @@ We have decided to make this workshop using Markdown and a static site in GitHub
     Initialize GitHub Pages: Go to your repository on GitHub.com. Click on the “Settings” tab, scroll down to the “GitHub Pages” section, and select the branch you want to use (usually main or master). Then select the root folder for the source. Save the settings, and GitHub will provide a link to view your site live.
  
  (cited from DHSI 2025 Workshop with Anastasia Salter and John Murray)
+
+
+## Resources for later 
+
+- [A Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) 
+- [Live Markdown Preview](https://markdownlivepreview.com/)
+
+
 
 
