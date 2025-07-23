@@ -79,7 +79,7 @@ layout: default
 
 Let's take a look at a few maps and explore what they do: 
 
-- [Monumentum.fr (centered on Besançon[^1]](https://monumentum.fr/departement/25/doubs) 
+- [Monumentum.fr centered on Besançon](https://monumentum.fr/departement/25/doubs)[ˆ1] 
 - [Milan 1958-1962: Music Topography of a City](https://www.musictopography.com/maps/)
 - [Zero Waste France (centered on Besançon)](https://zerodechet.gogocarto.fr/annuaire#/carte/@47.237,6.027,14z?cat=all)
 
