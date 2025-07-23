@@ -204,7 +204,9 @@ Wednesday 23 July 2025, 1050-1220
 #### Pre-reading
 * [Simon, Rainer, Elton Barker, Leif Isaksen and Pau de Soto Cañamares. 2015. "Linking Early Geospatial Documents, One Place at a Time : Annotation of Geographic Documents with Recogito". *e-Perimetron* 10 (2): 49–59.](https://www.e-perimetron.org/Vol_10_2/Simon_et_al.pdf)
 * [10 Minute Tutorial: A Quick Introduction to Recogito. Pelagios Commons](https://recogito.pelagios.org/help/tutorial) Also in DE, ES, FA, IT, NL and TK.
-
+* Who was Charles Weiss? [EN](https://en.wikipedia.org/wiki/Charles_Weiss_(librarian)) [FR](https://fr.wikipedia.org/wiki/Charles_Weiss_(biblioth%C3%A9caire)) 
+  
+  
 #### Exercises
 * [Recogito Overview](recogito.md)
 
