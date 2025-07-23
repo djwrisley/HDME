@@ -79,7 +79,7 @@ layout: default
 
 Let's take a look at a few maps and explore what they do: 
 
-- [Monumentum.fr (centered on Besançon)](https://monumentum.fr/departement/25/doubs) 
+- [Monumentum.fr (centered on Besançon[^1]](https://monumentum.fr/departement/25/doubs) 
 - [Milan 1958-1962: Music Topography of a City](https://www.musictopography.com/maps/)
 - [Zero Waste France (centered on Besançon)](https://zerodechet.gogocarto.fr/annuaire#/carte/@47.237,6.027,14z?cat=all)
 
@@ -145,3 +145,5 @@ Pick a couple projects from the list below (feel free to work in pairs!) and con
 - [The Greening of Sir Bani Yas](https://storymaps.arcgis.com/stories/c501bebf16e742a5ad31e5d29c9ad4ea)
 
 <a href="#top" class="back-to-top">Back to Top</a>
+
+[^1]: This is the city where ESUDH 25 is taking place.
