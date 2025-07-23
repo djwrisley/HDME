@@ -91,3 +91,5 @@ Let’s create our first map starting from a text (or image!) using Recogito and
 2.	Annotate places making sure they are error-free. You can also collaborate on the same project / file.
 3.	Export to CSV file.
 4.	Upload the CSV file to [Kepler.gl](https://kepler.gl/) and play around with the map styles.
+
+![Historic Besançon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/15-9-11%2C_Besan%C3%A7on_-_btv1b53113279h.jpg/960px-15-9-11%2C_Besan%C3%A7on_-_btv1b53113279h.jpg)
