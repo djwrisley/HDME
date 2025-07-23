@@ -113,5 +113,12 @@ We have decided to make this workshop using Markdown and a static site in GitHub
 - [Live Markdown Preview](https://markdownlivepreview.com/)
 
 
+## Example of a web map from OpenGulf
+
+<iframe src="https://opengulf.github.io/webapps/Pearlprotection/index.html#6/28.516/52.077" width="100%" height="800"></iframe>
+
+## Example of a Voyant Tools wordcloud with *Frankenstein*
+
+<iframe style='width: 289px; height: 220px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=frank'></iframe>
 
 
