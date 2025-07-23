@@ -137,6 +137,7 @@ Pick a couple projects from the list below (feel free to work in pairs!) and con
 - [In and of the Syrian Community](https://storymaps.arcgis.com/stories/cbdde5c5081d4423ae0ce9fb5aae37a9)
 - [Listening to Iraqis in NYC](https://www.arcgis.com/apps/Cascade/index.html?appid=caace3a2d1624aecac2754b5802de3fc)
 - [Mapping Amazon](https://storymaps.arcgis.com/stories/adc5ff253a3643f88d39e7f3ef1a09ee)
+- [Mapping the Destruction of Tennessee's African American Neighborhoods](https://www.arcgis.com/apps/MapSeries/index.html?appid=8dba65584072450ca8928a5f3408373f)
 - [Midwest Time Machine](https://publications.newberry.org/time-machine/)
 - [Southern Literary Trail](https://www.georgiahumanities.org/southern-literary-trail-story-map/)
 - [The Garden of Earthly Delights](https://storymap.knightlab.com/examples/bosch-garden/)
