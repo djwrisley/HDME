@@ -1,4 +1,4 @@
-# HDME - Spatial Humanities Workshop
+# HDME - Spatial Humanities Workshop - que du blablabla de l'ia
 
 A responsive Jekyll GitHub Pages site using the minimal theme for the Spatial Humanities Workshop at ESU 2025, held in historic Besançon.
 
