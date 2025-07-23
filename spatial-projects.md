@@ -119,6 +119,7 @@ Pick a couple projects from the list below (feel free to work in pairs!) and con
 - [Mapping Polo](https://www.mappingpolo.com/)
 - [Mapping Shakespeare’s Plays](https://www.folger.edu/blogs/collation/mapping-shakespeares-plays/)
 - [Mapping the Gay Guides](https://mappingthegayguides.org/viz/map/)
+- [Melville in Rome](https://itinerary-maps.netlify.app/melville-in-rome/)
 - [Montréal, l’avenir du passé (Montreal, the Future of the Past)](https://www.mun.ca/mapm/fra/accueil_cadre.html)
 - [OpenGulf Maps](https://opengulf.github.io/maps/)
 - [ORBIS](https://orbis.stanford.edu/)
