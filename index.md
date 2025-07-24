@@ -186,7 +186,6 @@ Wednesday 23 July 2025, 0900-1030
 
 #### Exercises
 * [Spatial Projects Review List](spatial-projects.md)
-* [Exploring EXIF data](https://exif.tools/)
 * [collective data sheet](https://docs.google.com/spreadsheets/d/1iICLSK1SF5p4OqgFQW-Eo2r7xC8DzGxqqs0no5wJLB8/edit?usp=sharing) 
 
 #### Additional References
@@ -291,8 +290,6 @@ Thursday 24 July 2025, 1430-1600
 * [Exporting as Image for Publication](https://docs.google.com/presentation/d/1KofzjXDVZNBUg3T6vTlJ1mguhbayLFuUJuy7kE_u0rU/edit?usp=sharing)
 
 #### Exercises
-* Visualizing workshop datasets (Recogito, Besançon photos) or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
-* Open Data BFC [Immeubles protégés au titre des Monuments Historiques](https://trouver.ternum-bfc.fr/dataset/0c92d932-c722-4815-b733-85f1ba886dda)
 * Exporting map with QGIS2Web
 
 #### Additional References
@@ -307,6 +304,12 @@ Thursday 24 July 2025, 1430-1600
 ### 9a. Intro to QGIS (continued)
 
 Friday 25 July 2025, 0900-1030
+
+#### Exercises 
+* [Exploring EXIF data](https://exif.tools/)
+* [collective data sheet](https://docs.google.com/spreadsheets/d/1iICLSK1SF5p4OqgFQW-Eo2r7xC8DzGxqqs0no5wJLB8/edit?usp=sharing)
+* Visualizing workshop datasets (Recogito, Besançon photos) or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/) and SQL 
+* Open Data BFC [Immeubles protégés au titre des Monuments Historiques](https://trouver.ternum-bfc.fr/dataset/0c92d932-c722-4815-b733-85f1ba886dda)
 
 
 ### 10a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
