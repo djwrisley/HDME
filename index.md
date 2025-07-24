@@ -298,6 +298,10 @@ Thursday 24 July 2025, 1430-1600
 * [Harvard Center for Geographic Analysis, Creating Maps with QGIS. 2023](https://gis.harvard.edu/faq/how-do-i-create-maps-qgis)
 * [QGIS Tutorials and Tips. "QGIS Tutorials and Tips".](https://www.qgistutorials.com/en/)
 * [QGIS is the Mapping Software You Didn't Know You Needed](https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/)
+* [Russell, John E. and Merinda Kaye Hensley, Beyond Buttonology: Digital humanities, digital pedagogy, and the ACRL Framework, College and Research Library News](https://crln.acrl.org/index.php/crlnews/article/view/16833/18427)
+
+#### Homework
+* Take five photos for our Rorschach Chailluz mapping project. Make sure that your  
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
