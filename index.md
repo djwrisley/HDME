@@ -266,10 +266,11 @@ Thursday 24 July 2025, 1050-1220
 * Export html from Kepler & visualizing in GitHub
 
 #### Additional References
-* [Alves, Daniel. "Spatial Humanities in History and Literature". *YouTube*.](https://www.youtube.com/watch?v=7dfNAqsnoQs)
+* [Conroy, Melanie. "Networks, Maps and Time: Visualizing Historical Networks Using Palladio, DHQ](https://dhq.digitalhumanities.org/vol/15/1/000534/000534.html)
 * [Humanities + Design Lab. "Palladio". Stanford University.](https://hdlab.stanford.edu/palladio/)
 * [Kepler.gl Documentation Team. "User Guides".](https://docs.kepler.gl/docs/user-guides)
 * [Muggah, Robert. 2020. "Why Maps Are Important in Our Response to the Covid-19 Pandemic". *The Print*.](https://theprint.in/health/why-maps-are-important-in-our-response-to-the-covid-19-pandemic/486971/)
+* [Alves, Daniel. "Spatial Humanities in History and Literature". *YouTube*.](https://www.youtube.com/watch?v=7dfNAqsnoQs)
 * [Wrisley, David Joseph. 2017. "Locating Medieval French, or Why We Collect and Visualize the Geographic Information from Texts?". *Speculum* 92 (S1): S145–S169.](https://www.journals.uchicago.edu/doi/full/10.1086/694300)
 
 <a href="#top" class="back-to-top">Back to Top</a>
@@ -295,17 +296,19 @@ Thursday 24 July 2025, 1430-1600
 * Exporting map with QGIS2Web
 
 #### Additional References
-* [GIS Curriculum (with localizations)](https://school-of-data.github.io/GIS-curriculum/)
+* [QGIS Curriculum (with localizations)](https://school-of-data.github.io/GIS-curriculum/)
 * [Kretzschmar Jr., William A. 2013. "GIS for Language and Literary Study". *Digital Literary Studies Anthology*.](https://dlsanthology.mla.hcommons.org/gis-for-language-and-literary-study/)
 * [Harvard Center for Geographic Analysis, Creating Maps with QGIS. 2023](https://gis.harvard.edu/faq/how-do-i-create-maps-qgis)
 * [QGIS Tutorials and Tips. "QGIS Tutorials and Tips".](https://www.qgistutorials.com/en/)
 * [QGIS is the Mapping Software You Didn't Know You Needed](https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/)
+* []
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
 ### 9a. Intro to QGIS (continued)
 
 Friday 25 July 2025, 0900-1030
+
 
 ### 10a. Visit to [Bibliothèque d'étude et de conservation](https://www.openstreetmap.org/?#map=19/47.236218/6.027445) 
 
