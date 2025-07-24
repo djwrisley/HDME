@@ -291,7 +291,7 @@ Thursday 24 July 2025, 1430-1600
 
 #### Exercises
 * Visualizing workshop datasets (Recogito, Besançon photos) or open data from [Le portail de la donnée et de la connaissance en Bourgogne-Franche-Comté](https://ideo.ternum-bfc.fr/)
-* 
+* Open Data BFC [Immeubles protégés au titre des Monuments Historiques](https://trouver.ternum-bfc.fr/dataset/0c92d932-c722-4815-b733-85f1ba886dda)
 * Exporting map with QGIS2Web
 
 #### Additional References
