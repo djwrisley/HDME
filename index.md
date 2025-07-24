@@ -301,7 +301,6 @@ Thursday 24 July 2025, 1430-1600
 * [Harvard Center for Geographic Analysis, Creating Maps with QGIS. 2023](https://gis.harvard.edu/faq/how-do-i-create-maps-qgis)
 * [QGIS Tutorials and Tips. "QGIS Tutorials and Tips".](https://www.qgistutorials.com/en/)
 * [QGIS is the Mapping Software You Didn't Know You Needed](https://chollinger.com/blog/2023/01/qgis-is-the-mapping-software-you-didnt-know-you-needed/)
-* []
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
