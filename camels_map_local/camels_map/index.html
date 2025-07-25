@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Camel Routes Map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="camel-icons.css" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Georgia', serif;
+            background-color: #f9e9d0;
+        }
+        #map {
+            width: 100%;
+            height: 700px;
+        }
+        .map-title {
+            position: absolute;
+            top: 10px;
+            left: 50px;
+            z-index: 999;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            font-family: 'Georgia', serif;
+            border: 2px solid #8B4513;
+        }
+        .legend {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+            border: 2px solid #8B4513;
+        }
+        .legend img {
+            width: 20px;
+            height: 20px;
+            margin-right: 5px;
+            vertical-align: middle;
+        }
+        .route-type {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="map-title">
+        <h2>Historical Camel Trade Routes</h2>
+    </div>
+    <div id="map"></div>
+    
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        const map = L.map('map').setView([24.5, 54], 6);
+        
+        // Add a historical-looking base map
+        L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles &copy; Esri',
+            maxZoom: 18
+        }).addTo(map);
+
+        // Custom camel icons
+        const dromedaryIcon = L.divIcon({
+            className: 'camel-icon camel-icon-dromedary',
+            iconSize: [30, 30],
+            iconAnchor: [15, 15],
+            popupAnchor: [0, -15]
+        });
+        
+        const bactrianIcon = L.divIcon({
+            className: 'camel-icon camel-icon-bactrian',
+            iconSize: [30, 30],
+            iconAnchor: [15, 15],
+            popupAnchor: [0, -15]
+        });
+        
+        const camelMarkerIcon = L.divIcon({
+            className: 'camel-icon',
+            iconSize: [30, 30],
+            iconAnchor: [15, 15],
+            popupAnchor: [0, -15]
+        });
+
+        // Sample data for camel routes
+        const routes = [
+            {
+                name: "Abu Dhabi to Al Ain",
+                description: "Major trade route connecting the coast to inland oasis",
+                type: "Dromedary",
+                coords: [
+                    [24.453884, 54.377344],
+                    [24.300673, 55.133368],
+                    [24.130543, 55.803112]
+                ],
+                style: {
+                    color: '#8B4513',
+                    weight: 3,
+                    opacity: 0.7,
+                    dashArray: '5, 5'
+                }
+            },
+            {
+                name: "Dubai to Hatta",
+                description: "Mountain passage used by traders",
+                type: "Dromedary",
+                coords: [
+                    [25.276987, 55.296249],
+                    [25.127394, 55.533144],
+                    [24.910461, 55.917778],
+                    [24.791534, 56.159525]
+                ],
+                style: {
+                    color: '#A0522D',
+                    weight: 3,
+                    opacity: 0.7,
+                    dashArray: '5, 5'
+                }
+            },
+            {
+                name: "Silk Road Segment",
+                description: "Part of the historical Silk Road",
+                type: "Bactrian",
+                coords: [
+                    [25.602997, 55.655638],
+                    [25.786324, 56.243180],
+                    [26.046036, 56.369116]
+                ],
+                style: {
+                    color: '#800000',
+                    weight: 3,
+                    opacity: 0.7,
+                    dashArray: '10, 5'
+                }
+            }
+        ];
+
+        // Sample data for camel trading posts
+        const tradingPosts = [
+            {
+                name: "Abu Dhabi Camel Market",
+                description: "Historical trading post for camels arriving from the desert interior",
+                established: "c. 1850",
+                type: "Dromedary",
+                coords: [24.453884, 54.377344]
+            },
+            {
+                name: "Al Ain Oasis",
+                description: "Major stop along east-west trade routes with abundant water",
+                established: "Ancient",
+                type: "Dromedary",
+                coords: [24.130543, 55.803112]
+            },
+            {
+                name: "Dubai Creek",
+                description: "Coastal loading point for camels being transported by dhow",
+                established: "c. 1870",
+                type: "Dromedary",
+                coords: [25.276987, 55.296249]
+            },
+            {
+                name: "Ras Al Khaimah Caravan Stop",
+                description: "Northern transit point where Bactrian and Dromedary camel routes met",
+                established: "c. 1700s",
+                type: "Bactrian",
+                coords: [25.786324, 56.243180]
+            }
+        ];
+
+        // Add routes to the map
+        routes.forEach(route => {
+            const routeLine = L.polyline(route.coords, route.style)
+                .bindPopup(`<strong>${route.name}</strong><br>${route.description}<br>Camel type: ${route.type}`);
+            
+            routeLine.on('mouseover', function() {
+                this.setStyle({
+                    weight: 5,
+                    opacity: 1
+                });
+            });
+            
+            routeLine.on('mouseout', function() {
+                this.setStyle(route.style);
+            });
+            
+            routeLine.addTo(map);
+        });
+
+        // Add trading posts to the map
+        tradingPosts.forEach(post => {
+            const icon = post.type === 'Dromedary' ? dromedaryIcon : bactrianIcon;
+            
+            L.marker(post.coords, { icon: icon })
+                .bindPopup(`
+                    <strong>${post.name}</strong><br>
+                    ${post.description}<br>
+                    Established: ${post.established}<br>
+                    Camel type: ${post.type}
+                `)
+                .addTo(map);
+        });
+
+        // Add a legend
+        const legend = L.control({ position: 'bottomright' });
+        legend.onAdd = function(map) {
+            const div = L.DomUtil.create('div', 'legend');
+            div.innerHTML = `
+                <h4>Camel Routes Legend</h4>
+                <div class="route-type"><img src="icons/camel-silhouette.svg"> Dromedary Routes</div>
+                <div class="route-type"><img src="icons/bactrian-camel.svg"> Bactrian Routes</div>
+                <div style="margin-top: 10px; border-top: 1px solid #8B4513; padding-top: 5px;">
+                    <i style="background: #8B4513; height: 2px; width: 30px; display: inline-block;"></i> Historical Route
+                </div>
+            `;
+            return div;
+        };
+        legend.addTo(map);
+    </script>
+</body>
+</html>

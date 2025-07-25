@@ -79,7 +79,11 @@ layout: default
 
 Explore how Large Language Models (LLMs) can assist in transforming and enhancing web maps through intelligent code generation and modification.
 
-<iframe src="https://djwrisley.github.io/HDME/camels_map/#6/27.186/52.262" width="100%" height="700"></iframe> 
+<iframe src="camels_map/index.html" width="100%" height="500" style="border: 1px solid #8B4513; border-radius: 5px;"></iframe>
+
+<div style="text-align: center; margin-top: 10px; font-style: italic;">
+  Interactive map with custom camel silhouette icons for different camel species and historical trade routes
+</div>
 
 ### Key Topics:
 
