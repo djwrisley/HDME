@@ -76,3 +76,72 @@ layout: default
 </div>
 
 ## Agent-based (re)coding of maps
+
+Explore how Large Language Models (LLMs) can assist in transforming and enhancing web maps through intelligent code generation and modification.
+
+### Key Topics:
+
+- **Understanding webmap components**: HTML structure, CSS styling, JavaScript functionality, and data layers
+- **LLM-assisted code analysis**: Using AI to deconstruct existing map implementations (Leaflet.js, Kepler.gl exports)
+- **Prompt engineering for maps**: Crafting effective prompts to generate specific map modifications and enhancements
+- **Iterative development**: Using AI feedback loops to refine map styling, interactivity, and user experience
+- **Code transformation**: Converting between different mapping libraries and frameworks with LLM assistance
+- **Accessibility improvements**: Leveraging AI to enhance map accessibility features and ARIA labels
+- **Performance optimization**: Using LLMs to identify and implement performance improvements in map rendering
+- **Custom styling generation**: Creating unique map themes and visual styles through AI-generated CSS
+- **Data integration**: Automating the process of connecting new datasets to existing map frameworks
+- **Documentation and comments**: Generating comprehensive code documentation for map projects
+
+### Practical Applications:
+
+- Transform a basic Kepler.gl export into a custom-styled interactive map
+- Generate responsive design improvements for mobile map viewing
+- Create automated workflows for updating map data and styling
+- Develop custom map controls and interaction patterns
+- Build map galleries with consistent styling across multiple visualizations
+
+### Tools and Techniques:
+
+- **GitHub Copilot**: Code completion and suggestion for map development
+- **Claude/ChatGPT**: Code analysis, debugging, and architectural guidance
+- **VS Code extensions**: AI-powered development environment setup
+- **Version control**: Managing AI-generated code changes and iterations
+
+### Recoding Webmaps with LLMs
+
+LLMs can significantly transform how developers approach webmap creation and modification through intelligent code generation and refactoring capabilities.
+
+#### Transformation Workflows
+
+- **Code extraction and analysis**: Using LLMs to understand and deconstruct existing webmaps
+- **Library migration**: Converting maps between frameworks (e.g., Google Maps → Leaflet, Mapbox → OpenLayers)
+- **Feature enhancement**: Adding advanced interactions, animations, and UI components to basic maps
+- **API integration**: Connecting maps to new data sources, geocoding services, and routing APIs
+- **Styling overhauls**: Transforming default map styles into custom-branded visualizations
+
+#### Common Challenges and LLM Solutions
+
+| Challenge | LLM-Assisted Solution |
+|-----------|------------------------|
+| Complex GeoJSON manipulation | Code generation for filtering and transforming geographic data |
+| Cross-browser compatibility | Identifying and fixing browser-specific map rendering issues |
+| Performance with large datasets | Implementing clustering, data decimation, and lazy loading |
+| Responsive design for maps | Generating adaptive layouts and controls for different screen sizes |
+| Accessibility compliance | Adding screen reader support and keyboard navigation |
+
+#### Case Study: Recoding Process
+
+1. **Input analysis**: Provide the LLM with existing map code for comprehension
+2. **Goal specification**: Define the desired output and constraints clearly
+3. **Iterative refinement**: Generate initial code, test, provide feedback, and refine
+4. **Component extraction**: Break down complex maps into reusable components
+5. **Documentation generation**: Create comprehensive comments and usage guides
+
+#### Best Practices for LLM Map Recoding
+
+- Provide context about the data structure and geographic scope
+- Specify target browsers and devices for compatibility
+- Include examples of desired interaction patterns
+- Set clear performance expectations
+- Request explanations alongside generated code
+- Validate geographic accuracy of generated solutions
