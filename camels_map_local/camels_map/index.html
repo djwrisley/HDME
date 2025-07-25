@@ -5,7 +5,6 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="camel-icons.css" />
     <style>
         body {
             margin: 0;
@@ -15,7 +14,7 @@
         }
         #map {
             width: 100%;
-            height: 700px;
+            height: 500px;
         }
         .map-title {
             position: absolute;
@@ -44,6 +43,19 @@
         .route-type {
             margin-bottom: 5px;
         }
+        /* Custom popup styling */
+        .leaflet-popup-content-wrapper {
+            background-color: #f9e9d0;
+            border: 2px solid #8B4513;
+            border-radius: 8px;
+        }
+        .leaflet-popup-tip {
+            background-color: #8B4513;
+        }
+        .leaflet-popup-content {
+            color: #5a3921;
+            font-family: 'Georgia', serif;
+        }
     </style>
 </head>
 <body>
@@ -63,26 +75,26 @@
             maxZoom: 18
         }).addTo(map);
 
-        // Custom camel icons
-        const dromedaryIcon = L.divIcon({
-            className: 'camel-icon camel-icon-dromedary',
-            iconSize: [30, 30],
-            iconAnchor: [15, 15],
-            popupAnchor: [0, -15]
+        // Custom camel icons using L.icon instead of L.divIcon
+        const dromedaryIcon = L.icon({
+            iconUrl: 'icons/camel-silhouette.svg',
+            iconSize: [40, 40],
+            iconAnchor: [20, 20],
+            popupAnchor: [0, -20]
         });
         
-        const bactrianIcon = L.divIcon({
-            className: 'camel-icon camel-icon-bactrian',
-            iconSize: [30, 30],
-            iconAnchor: [15, 15],
-            popupAnchor: [0, -15]
+        const bactrianIcon = L.icon({
+            iconUrl: 'icons/bactrian-camel.svg',
+            iconSize: [40, 40],
+            iconAnchor: [20, 20],
+            popupAnchor: [0, -20]
         });
         
-        const camelMarkerIcon = L.divIcon({
-            className: 'camel-icon',
-            iconSize: [30, 30],
-            iconAnchor: [15, 15],
-            popupAnchor: [0, -15]
+        const camelMarkerIcon = L.icon({
+            iconUrl: 'icons/camel-marker.svg',
+            iconSize: [40, 40],
+            iconAnchor: [20, 20],
+            popupAnchor: [0, -20]
         });
 
         // Sample data for camel routes
