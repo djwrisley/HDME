@@ -124,6 +124,16 @@ Different camel species were utilized in different geographical regions:
 
 The [OpenGulf project](https://opengulf.github.io/) has developed an excellent interactive map of historical camel trade and transport in the Gulf region. Their [Camels Map webapp](https://opengulf.github.io/webapps/camels_map/) provides a valuable model for visualizing historical camel data.
 
+#### Interactive Camel Map Visualization
+
+<div class="iframe-container" style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+  <iframe src="https://opengulf.github.io/webapps/camels_map/" style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 500px; border: none;" title="OpenGulf Historical Camels Map"></iframe>
+</div>
+
+<small>*Interactive map courtesy of the OpenGulf Project. If the map doesn't load, [view it directly](https://opengulf.github.io/webapps/camels_map/).*</small>
+
+#### Using the OpenGulf Camel Map as a Reference
+
 To use this project as a reference:
 
 1. **Fork the repository**: Visit https://github.com/opengulf/opengulf.github.io and click the "Fork" button in the top right corner

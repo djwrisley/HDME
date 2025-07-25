@@ -79,6 +79,8 @@ layout: default
 
 Explore how Large Language Models (LLMs) can assist in transforming and enhancing web maps through intelligent code generation and modification.
 
+<iframe src="https://djwrisley.github.io/HDME/camels_map/#6/27.186/52.262" width="100%" height="700"></iframe> 
+
 ### Key Topics:
 
 - **Understanding webmap components**: HTML structure, CSS styling, JavaScript functionality, and data layers
