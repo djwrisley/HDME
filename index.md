@@ -24,6 +24,7 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
 <div class="session-nav-sidebar">
   <a href="#top" class="session-nav-home">Home</a>
   <a href="./workshop-prep.html" class="session-nav-prep">Preparation</a>
+  <a href="./projects25.html" class="session-nav-proj">Projects</a>
   
   <div class="session-nav-week">
     <h4>Week 1</h4>
@@ -57,6 +58,7 @@ Drawing inspiration from the location of the ESU in the historical center of Bes
 </div>
 
 <div class="session-nav-mobile">
+  <a href="./projects25.html" class="session-nav-mobile-proj">Projects</a>
   <div class="session-nav-mobile-week">
     <h4>Week 1 Sessions</h4>
     <div class="session-nav-mobile-buttons">

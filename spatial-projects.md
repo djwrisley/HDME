@@ -7,6 +7,7 @@ layout: default
 <div class="session-nav-sidebar">
   <a href="./index.html" class="session-nav-home">Home</a>
   <a href="./workshop-prep.html" class="session-nav-prep">Preparation</a>
+  <a href="./projects25.html" class="session-nav-proj">Projects</a>
   
   <div class="session-nav-week">
     <h4>Week 1</h4>
@@ -40,6 +41,7 @@ layout: default
 </div>
 
 <div class="session-nav-mobile">
+  <a href="./projects25.html" class="session-nav-mobile-proj">Projects</a>
   <div class="session-nav-mobile-week">
     <h4>Week 1 Sessions</h4>
     <div class="session-nav-mobile-buttons">
