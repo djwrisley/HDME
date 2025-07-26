@@ -72,7 +72,7 @@ body {
 /* Content margin adjustment for sidebar */
 @media (min-width: 1025px) {
   #main_content {
-    margin-right: 220px !important;
+    margin-right: 130px !important;
   }
 }
 
@@ -172,7 +172,7 @@ th {
   position: fixed !important;
   top: 120px !important;
   right: 20px !important;
-  width: 180px !important;
+  width: 90px !important;
   background: rgba(156, 39, 176, 0.05) !important;
   border-radius: 12px !important;
   padding: 15px !important;
@@ -326,6 +326,35 @@ th {
 
 .session-nav-proj::before {
   content: "🚀 " !important;
+  font-size: 0.8em !important;
+}
+
+.back-to-top {
+  display: inline-block !important;
+  padding: 8px 16px !important;
+  background: linear-gradient(135deg, #FF6F00 0%, #FFB74D 100%) !important;
+  color: white !important;
+  text-decoration: none !important;
+  border-radius: 10px !important;
+  font-size: 0.8em !important;
+  font-weight: 700 !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 2px 6px rgba(255, 111, 0, 0.2) !important;
+  border: none !important;
+  text-align: center !important;
+  margin: 10px 0 !important;
+}
+
+.back-to-top:hover {
+  background: linear-gradient(135deg, #FFB74D 0%, #FFCC80 100%) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 3px 8px rgba(255, 111, 0, 0.3) !important;
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.back-to-top::before {
+  content: "⬆️ " !important;
   font-size: 0.8em !important;
 }
 
