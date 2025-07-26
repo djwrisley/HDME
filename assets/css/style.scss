@@ -69,6 +69,13 @@ body {
   background: #FFF8E8 !important;
 }
 
+/* Content margin adjustment for sidebar */
+@media (min-width: 1025px) {
+  #main_content {
+    margin-right: 220px !important;
+  }
+}
+
 h1, h2, h3, h4 {
   color: #2E2E2E !important;
   border-bottom: 2px solid #9C27B0 !important;
@@ -164,7 +171,7 @@ th {
 .session-nav-sidebar {
   position: fixed !important;
   top: 120px !important;
-  left: 20px !important;
+  right: 20px !important;
   width: 180px !important;
   background: rgba(156, 39, 176, 0.05) !important;
   border-radius: 12px !important;
