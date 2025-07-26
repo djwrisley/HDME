@@ -53,14 +53,12 @@ body {
 #project_title {
   color: #FFFFFF !important;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.3) !important;
-  font-family: 'Merriweather', Georgia, serif !important;
   font-weight: 900 !important;
 }
 
 #project_tagline {
   color: #F5F5DC !important;
   text-shadow: 1px 1px 2px rgba(0,0,0,0.3) !important;
-  font-family: 'Lato', 'Helvetica Neue', sans-serif !important;
   font-weight: 300 !important;
 }
 
@@ -69,16 +67,10 @@ body {
 }
 
 #main_content {
-  max-width: 800px !important;
-  margin: 0 auto !important;
-  padding: 20px !important;
   background: #FFF8E8 !important;
-  font-family: 'Lato', 'Helvetica Neue', sans-serif !important;
-  line-height: 1.6 !important;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Merriweather', Georgia, serif !important;
   color: #2E2E2E !important;
   border-bottom: 2px solid #9C27B0 !important;
   padding-bottom: 8px !important;
@@ -132,7 +124,6 @@ code {
   background: #F0F0F0 !important;
   padding: 2px 4px !important;
   border-radius: 3px !important;
-  font-family: 'Monaco', 'Courier New', monospace !important;
   font-size: 0.9em !important;
   color: #B71C1C !important;
 }
