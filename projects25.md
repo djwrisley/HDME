@@ -82,3 +82,6 @@ layout: default
 In the ESUDH 2025, we worked on a number of Besançon specific projects. First, we took an interest in the distinctive stone that adorns many of the façades of the buildings in the historical center of Besançon (known as "la Boucle").
 
 The more we looked at the stones the more we realized that some of them contain figures, the way that one might find a subjective perceptions in inkblots in a Rorschach test. Everyone sees slightly different things, but we decided to record these and tag them to make a map. 
+
+Here is a visual of what it looks like so far: 
+
