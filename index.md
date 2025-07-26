@@ -123,6 +123,10 @@ We will learn about the creation of data in formats relevant to spatial humaniti
 * Fundamentals of spatial data creation and visualization. 
 * Introduction to spatial thinking in humanities research
 
+### Projects
+
+* [Projects from ESUDH 2025](projects25.md) - Besançon-specific projects including stone figure mapping
+
 ### 1a. Introduction to Spatial Humanities 
 
 Tuesday 22 July 2025, 1100-1230 
