@@ -125,7 +125,9 @@ We will learn about the creation of data in formats relevant to spatial humaniti
 
 ### Projects
 
-* [Projects from ESUDH 2025](projects25.md) - Besançon-specific projects including stone figure mapping
+<a href="projects25.html" class="session-nav-proj" style="display: inline-block; width: auto; margin: 10px 0; padding: 8px 16px; background: linear-gradient(135deg, #FF6F00 0%, #FFB74D 100%); color: white; text-decoration: none; border-radius: 10px; font-size: 1em; font-weight: 700; transition: all 0.3s ease; box-shadow: 0 2px 6px rgba(255, 111, 0, 0.2); border: none; text-align: center;">🚀 Projects from ESUDH 2025</a>
+
+Besançon-specific projects including stone figure mapping
 
 ### 1a. Introduction to Spatial Humanities 
 
