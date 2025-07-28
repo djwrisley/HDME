@@ -366,51 +366,42 @@ Friday 25 July 2025, 1430-1600
 In the second part of the course, we will learn some skills in static site development so that we can host our own basic web maps. We will experiment with other automated workflows and will turn to more complex forms of visualization and storytelling. Open-source GIS software will be used to learn about georeferencing / warping and the creation of historical vector / polygon data from digitized historical maps. Depending on the time available and participant interest, we may explore other topics of interest: discipline-specific gazetteers, mapping packages in R, OpenStreetMap, Wikidata, maps & IIIF, machine classification of features in historical or series maps, etc.
 
 
-### 1b. XXXX
+### 1b. Recap and OSM 
 
 Monday 28 July 2025, 0830-1000
 
 #### Overview
-* 
-* 
+*  Review from Week 1
+*  Discovering and Using OpenStreetMap 
+*  Assessing Coverage in OSM
+*  open hosted mapping in UMap
 
 #### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
+*  [Map Features](https://wiki.openstreetmap.org/wiki/Map_features) (OSM Wiki)
+*  [Why would you use OpenStreetMap if there is Google Maps?](https://geoawesome.com/why-would-you-use-openstreetmap-if-there-is-google-maps/) 
 
 #### Exercises
-* 
-* 
+*  Pick a place in the world you know and test the coverage of OSM
+*  Who uses OSM map bases? MapLibre? 
 
 #### Additional References
-* 
-* 
+*  Anderson et al, Corporate Editors in the Evolving Landscape of OpenStreetMap 
+*  Inside the ‘Wikipedia of Maps,’ Tensions Grow Over Corporate Influence (Bloomberg) 
+*  OSMAnd, Organic Maps 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 2b. XXXX
+### 2b. Querying OSM 
 
 Monday 28 July 2025, 1030-1200
 
 #### Overview
-* 
-* 
-
-#### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
+*  Querying OSM with Overpass turbo 
+*  Learning about Basics of R in Posit Cloud
 
 #### Exercises
-* 
-* 
+*  Testing Overpass Turbo queries with genAI 
+*  Overpass turbo in R 
 
 #### Additional References
 * 
@@ -418,13 +409,14 @@ Monday 28 July 2025, 1030-1200
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3b. XXXX
+### 3b. Workflows
 
 Monday 28 July 2025, 1400-1530
 
 #### Overview
-* 
-* 
+*  Discussing the workflow for individual and group research
+*  Workflow for our stone mapping project 
+*  Research Data Management and the spatial humanities
 
 #### Pre-reading
 * 
@@ -439,8 +431,8 @@ Monday 28 July 2025, 1400-1530
 * 
 
 #### Additional References
-* 
-* 
+*  [Sharing the Workflow Experience](https://campus.dariah.eu/resources/events/sharing-the-experience-workflows-for-the-digital-humanities) (Dariah Campus)
+*  [Research Data Management Best Practices](https://campus.dariah.eu/resources/pathfinders/dariah-pathfinder-to-data-management-best-practices-in-the-humanities)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -449,7 +441,7 @@ Monday 28 July 2025, 1400-1530
 Tuesday 29 July 2025, 0830-1000
 
 #### Overview
-* 
+*  Tropy 
 * 
 
 #### Pre-reading
@@ -475,8 +467,8 @@ Tuesday 29 July 2025, 0830-1000
 Tuesday 29 July 2025, 1030-1200
 
 #### Overview
-* 
-* 
+*  Leaflet in R 
+*  A Workflow for Leaflet in R
 
 #### Pre-reading
 * 
@@ -501,7 +493,7 @@ Tuesday 29 July 2025, 1030-1200
 Tuesday 29 July 2025, 1400-1530
 
 #### Overview
-* 
+*  
 * 
 
 #### Pre-reading
@@ -550,7 +542,7 @@ Thursday 31 July 2025, 0830-1000
 
 ### 8b.
 
-Thursday 31 July 2025, 1030-1200
+Tuesday 29 July 2025, 1030-1200
 
 #### Overview
 * 
@@ -605,7 +597,7 @@ Thursday 31 July 2025, 1400-1530
 Friday 1 August 2025, 0830-1000
 
 #### Overview
-* 
+*  Project Work
 * 
 
 #### Pre-reading
@@ -631,23 +623,18 @@ Friday 1 August 2025, 0830-1000
 Friday 1 August 2025, 1030-1200
 
 #### Overview
-* 
-* 
+*  Project Work 
 
 #### Pre-reading
-* 
 * 
 
 #### Slides
 * 
-* 
 
 #### Exercises
 * 
-* 
 
 #### Additional References
-* 
 * 
 
 <a href="#top" class="back-to-top">Back to Top</a>
