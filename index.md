@@ -405,30 +405,29 @@ Monday 28 July 2025, 1030-1200
 *  Building Maps Based on Extracted OSM data 
 
 #### Additional References
-* 
-* 
+*  [Downloading and Using OSM Data](https://welcome.openstreetmap.org/working-with-osm-data/downloading-and-using/)
+*  [Using OpenStreetMap Data in your own maps](https://sharpmaps.com/posts/using-openstreetmap-data/)
+*  [OpenHistoricalMap](https://www.openhistoricalmap.org)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3b. Working with Historical Collections
+### 3b. Working with Printed Historical Collections
 
 Monday 28 July 2025, 1400-1530
 
 #### Overview
 *  Understanding OCR with printed sources
-*  Assessing OCR quality (Tesseract vs Abbyy Finereader) 
-*  
-
-#### Pre-reading
-* 
-* 
+*  Assessing OCR quality (Tesseract, Abbyy Finereader, Google Drive) 
 
 #### Exercises
-* Cleaning and Parsing OCR'd text 
-* 
+* Cleaning and Parsing OCR'd text with Tesseract, Abbyy Finereader (demo)
+* Cleaning and Parsing OCR'd text with Google Drive (hands on)
+* Geocoding (review)
 
 #### Additional References
-*  
+*  [Mähr, Working with Batches of pdfs](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files)
+*  [OpenRefine User Manual](https://openrefine.org/docs)
+*  [How to Use Google Drive to OCR Arabic Text](https://christophersrose.com/2020/05/05/how-to-use-google-docs-to-ocr-arabic-text/) 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
