@@ -384,11 +384,11 @@ Monday 28 July 2025, 0830-1000
 *  Pick a place in the world you know well and test the coverage of OSM
 
 #### Additional References
-*  Anderson et al, Corporate Editors in the Evolving Landscape of OpenStreetMap 
-*  Inside the ‘Wikipedia of Maps,’ Tensions Grow Over Corporate Influence (Bloomberg) 
-*  open hosted mapping in UMap
-*  Humanitarian OSM (HOTOSM)
-*  OSMAnd, Organic Maps 
+*  [Anderson et al, Corporate Editors in the Evolving Landscape of OpenStreetMap, International Journal of Geo-Information](https://www.mdpi.com/2220-9964/8/5/232) 
+*  [Inside the ‘Wikipedia of Maps,’ Tensions Grow Over Corporate Influence (Bloomberg)](https://www.bloomberg.com/news/articles/2021-02-19/openstreetmap-charts-a-controversial-new-direction) 
+*  [UMap: a resource for hosting open maps](https://umap.openstreetmap.fr/en/)
+*  [Humanitarian OSM (HOTOSM)](https://www.hotosm.org/)
+
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -422,7 +422,7 @@ Monday 28 July 2025, 1400-1530
 #### Exercises
 * Cleaning and Parsing OCR'd text with Tesseract, Abbyy Finereader (demo)
 * Cleaning and Parsing OCR'd text with Google Drive (hands on)
-* Geocoding (review)
+* Geocoding (review) & modeling a dataset of historical watchmakers in Besançon
 
 #### Additional References
 *  [Mähr, Working with Batches of pdfs](https://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files)
@@ -431,29 +431,26 @@ Monday 28 July 2025, 1400-1530
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 4b. XXX
+### 4b. Georeferencing/georectification
 
 Tuesday 29 July 2025, 0830-1000
 
 #### Overview
-*  Georeferencing/georectification of Digitized Maps
-*  
+*  Georeferencing Digitized Maps in QGIS
+*  Vectorization in QGIS
 
 #### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
+*  [Clifford et al, Georeferencing in QGIS 2.0](https://programminghistorian.org/en/lessons/georeferencing-qgis) 
+*  [Snow, Georeferencing: Moving Analog Maps into Modern-Day GIS](https://blogs.loc.gov/maps/2021/01/georeferencing-moving-analog-maps-into-modern-day-gis/)
 
 #### Exercises
 * 
 * 
 
 #### Additional References
-* 
-* 
+*  [Bunting Labs, How to Use the QGIS AI Vectorizer for Digitizing Maps](https://www.youtube.com/watch?v=1wHTalQeCec) 
+*  Camille Lyans Cole, Nora Elizabeth Barakat, Nada Ammagui, David Joseph Wrisley. (2022). “Mapping Tribes: Ottoman Spatial Thinking in Iraq and Arabia, c. 1910” Journal of Ottoman Turkish Studies Association 9.2: 205-242.
+*  
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
