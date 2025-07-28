@@ -380,8 +380,8 @@ Monday 28 July 2025, 0830-1000
 *  [Why would you use OpenStreetMap if there is Google Maps?](https://geoawesome.com/why-would-you-use-openstreetmap-if-there-is-google-maps/) 
 
 #### Exercises
-*  Pick a place in the world you know and test the coverage of OSM
-*  Who uses OSM map bases? MapLibre? 
+*  Editing OpenStreetMap using the web-based editor
+*  Pick a place in the world you know well and test the coverage of OSM
 
 #### Additional References
 *  Anderson et al, Corporate Editors in the Evolving Landscape of OpenStreetMap 
