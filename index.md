@@ -374,7 +374,6 @@ Monday 28 July 2025, 0830-1000
 *  Review from Week 1
 *  Discovering and Using OpenStreetMap 
 *  Assessing Coverage in OSM
-*  open hosted mapping in UMap
 
 #### Pre-reading
 *  [Map Features](https://wiki.openstreetmap.org/wiki/Map_features) (OSM Wiki)
@@ -387,6 +386,8 @@ Monday 28 July 2025, 0830-1000
 #### Additional References
 *  Anderson et al, Corporate Editors in the Evolving Landscape of OpenStreetMap 
 *  Inside the ‘Wikipedia of Maps,’ Tensions Grow Over Corporate Influence (Bloomberg) 
+*  open hosted mapping in UMap
+*  Humanitarian OSM (HOTOSM)
 *  OSMAnd, Organic Maps 
 
 <a href="#top" class="back-to-top">Back to Top</a>
@@ -397,11 +398,11 @@ Monday 28 July 2025, 1030-1200
 
 #### Overview
 *  Querying OSM with Overpass turbo 
-*  Learning about Basics of R in Posit Cloud
+*  Basics of R in Posit Cloud
 
 #### Exercises
 *  Testing Overpass Turbo queries with genAI 
-*  Overpass turbo in R 
+*  Building Maps Based on Extracted OSM data 
 
 #### Additional References
 * 
@@ -409,30 +410,25 @@ Monday 28 July 2025, 1030-1200
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 3b. Workflows
+### 3b. Working with Historical Collections
 
 Monday 28 July 2025, 1400-1530
 
 #### Overview
-*  Discussing the workflow for individual and group research
-*  Workflow for our stone mapping project 
-*  Research Data Management and the spatial humanities
+*  Understanding OCR with printed sources
+*  Assessing OCR quality (Tesseract vs Abbyy Finereader) 
+*  
 
 #### Pre-reading
 * 
 * 
 
-#### Slides
-* 
-* 
-
 #### Exercises
-* 
+* Cleaning and Parsing OCR'd text 
 * 
 
 #### Additional References
-*  [Sharing the Workflow Experience](https://campus.dariah.eu/resources/events/sharing-the-experience-workflows-for-the-digital-humanities) (Dariah Campus)
-*  [Research Data Management Best Practices](https://campus.dariah.eu/resources/pathfinders/dariah-pathfinder-to-data-management-best-practices-in-the-humanities)
+*  
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -441,8 +437,8 @@ Monday 28 July 2025, 1400-1530
 Tuesday 29 July 2025, 0830-1000
 
 #### Overview
-*  Tropy 
-* 
+*  Georeferencing/georectification of Digitized Maps
+*  
 
 #### Pre-reading
 * 
@@ -493,7 +489,7 @@ Tuesday 29 July 2025, 1030-1200
 Tuesday 29 July 2025, 1400-1530
 
 #### Overview
-*  
+*  Workflows 
 * 
 
 #### Pre-reading
@@ -509,7 +505,8 @@ Tuesday 29 July 2025, 1400-1530
 * 
 
 #### Additional References
-* 
+* [Sharing the Workflow Experience](https://campus.dariah.eu/resources/events/sharing-the-experience-workflows-for-the-digital-humanities) (Dariah Campus)
+*  [Research Data Management Best Practices](https://campus.dariah.eu/resources/pathfinders/dariah-pathfinder-to-data-management-best-practices-in-the-humanities)
 * 
 
 <a href="#top" class="back-to-top">Back to Top</a>
