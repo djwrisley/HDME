@@ -85,3 +85,4 @@ The more we looked at the stones the more we realized that some of them contain 
 
 Here is a visual of what it looks like so far: 
 
+<img src = "/assets/Besancon-directory-map-1900.jpg" alt = "A visualization of people names in a circa 1900 city directory from Besançon, France" width = "500"> 
