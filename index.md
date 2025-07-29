@@ -452,6 +452,7 @@ Tuesday 29 July 2025, 0830-1000
 *  [Bunting Labs, How to Use the QGIS AI Vectorizer for Digitizing Maps](https://www.youtube.com/watch?v=1wHTalQeCec) 
 *  Camille Lyans Cole, Nora Elizabeth Barakat, Nada Ammagui, David Joseph Wrisley. (2022). “Mapping Tribes: Ottoman Spatial Thinking in Iraq and Arabia, c. 1910” Journal of Ottoman Turkish Studies Association 9.2: 205-242.
 *   [Martin Reckziegel et al, Visual Exploration of Historical Maps, DSH](https://doi.org/10.1093/llc/fqaa059)
+*   [Gent Gemapt (in Dutch)](https://kaart.gentgemapt.be/)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 

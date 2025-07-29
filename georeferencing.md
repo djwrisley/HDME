@@ -77,7 +77,7 @@ layout: default
   </div>
 </div>
 
-<img src="/assets/Besancon-tfm.jpg" style="zoom:100%;" />
+<img src="assets/Besancon-tfm.jpg" style="zoom:100%;">
 
 ## Georeferencing Overview
 
