@@ -79,17 +79,15 @@ layout: default
 
 <img src="/assets/Besancon-tfm.jpg" style="zoom:100%;" />
 
-## The Sources
-
-1. Historical Maps of Besançon
-   - [BM Besançon 19th century maps](https://memoirevive.besancon.fr/page/xixe-siecle) 
-   - [Les formes d'une ville - Besançon cartographiée](https://memoirevive.besancon.fr/page/les-formes-d-une-ville-besancon-cartographiee)
-2. [IIIF Map Collections](https://iiif.io/get-started/how-iiif-works/)
-
-
 ## Georeferencing Overview
 
 The process of georeferencing (sometimes called georectification) is when we take a raster image (a continuous image such as a map or a photo) and we fit it into a geographic grid. The end result is a geotiff file.
+
+## Vectorization Overview
+
+The process of vectorization is extracting elements (points, lines, polygons) from georeferenced maps that can be used as data layers in other contexts.
+
+## The Sources
 
 Here are some maps featured at the `Bibliothèque d'étude et de conservation`, some of which we saw during our visit: [Les Formes d'une ville: Besançon cartographiée](https://memoirevive.besancon.fr/page/les-formes-d-une-ville-besancon-cartographiee). I would suggest those from the [19th century](https://memoirevive.besancon.fr/page/xixe-siecle) 
 
