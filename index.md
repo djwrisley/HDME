@@ -445,7 +445,7 @@ Tuesday 29 July 2025, 0830-1000
 *  [What is IIIF and how does it work?](https://iiif.io/get-started/how-iiif-works/) 
 
 #### Exercises
-*  Georeferencing selected maps from BM Besançon 
+*  [Georeferencing selected maps from BM Besançon](georeferencing.md)
 *  Georeferencing IIIF maps in [Allmaps](https://allmaps.org/)
 
 #### Additional References
