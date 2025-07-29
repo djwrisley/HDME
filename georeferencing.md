@@ -103,16 +103,16 @@ Here are some maps featured at the `Bibliothèque d'étude et de conservation`, 
 6. Load the resulting georeferenced map into your main QGIS project (it will autoload if checked).
 
 
-
 ### In Allmaps (IIIF):
 
-1. Visit [Allmaps](https://allmaps.org/) and paste the [IIIF manifest](https://ronallo.com/iiif-workshop/presentation/example-manifests.html) URL of your historical map.
-2. Use the annotation interface to place control points on recognizable features.
-3. Match these points with their corresponding locations on the contemporary map.
-4. Export the georeferenced map or use the generated tiles in your projects.
+1. Pick a digital map collection with IIIF manifests, such as the [David Rumsey Map Collection](https://www.davidrumsey.com). Find the manifest under the Share tab. 
+2. Visit [Allmaps](https://allmaps.org/) and paste the [IIIF manifest](https://ronallo.com/iiif-workshop/presentation/example-manifests.html) URL of your historical map.
+3. Use the annotation interface to place control points on recognizable features.
+4. Match these points with their corresponding locations on the contemporary map.
+5. Export the georeferenced map or use the generated tiles in your projects.
 
 
-### Considerations:
+### Things to Keep in Mind:
 
 - **Accuracy vs. Coverage**: More control points generally improve accuracy but may not always be necessary. Sometimes too much distorts a "well-fitted" map.
 - **Transformation Methods**: Different algorithms work better for different types of maps and distortions. Try Thin Plate Spline.
