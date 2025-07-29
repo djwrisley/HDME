@@ -437,30 +437,31 @@ Tuesday 29 July 2025, 0830-1000
 
 #### Overview
 *  Georeferencing Digitized Maps in QGIS
-*  Vectorization in QGIS
+*  Warping vs revealing uneven premodern scale
 
 #### Pre-reading
 *  [Clifford et al, Georeferencing in QGIS 2.0](https://programminghistorian.org/en/lessons/georeferencing-qgis) 
 *  [Snow, Georeferencing: Moving Analog Maps into Modern-Day GIS](https://blogs.loc.gov/maps/2021/01/georeferencing-moving-analog-maps-into-modern-day-gis/)
+*  [What is IIIF and how does it work?](https://iiif.io/get-started/how-iiif-works/) 
 
 #### Exercises
-* 
-* 
+*  Georeferencing selected maps from BM Besançon [19th century](https://memoirevive.besancon.fr/page/xixe-siecle) https://memoirevive.besancon.fr/page/les-formes-d-une-ville-besancon-cartographiee
+*  Georeferencing IIIF maps in [Allmaps](https://allmaps.org/)
 
 #### Additional References
 *  [Bunting Labs, How to Use the QGIS AI Vectorizer for Digitizing Maps](https://www.youtube.com/watch?v=1wHTalQeCec) 
 *  Camille Lyans Cole, Nora Elizabeth Barakat, Nada Ammagui, David Joseph Wrisley. (2022). “Mapping Tribes: Ottoman Spatial Thinking in Iraq and Arabia, c. 1910” Journal of Ottoman Turkish Studies Association 9.2: 205-242.
-*  
+*   [Martin Reckziegel et al, Visual Exploration of Historical Maps, DSH](https://doi.org/10.1093/llc/fqaa059)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 5b. XXXX
+### 5b. Vectorization of geotiffs
 
 Tuesday 29 July 2025, 1030-1200
 
 #### Overview
-*  Leaflet in R 
-*  A Workflow for Leaflet in R
+*  
+* 
 
 #### Pre-reading
 * 
@@ -480,13 +481,13 @@ Tuesday 29 July 2025, 1030-1200
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 6b. XXXX
+### 6b. Mapping in an IDE
 
 Tuesday 29 July 2025, 1400-1530
 
 #### Overview
-*  Workflows 
-* 
+*  Leaflet in R 
+*  A Workflow for Leaflet in R
 
 #### Pre-reading
 * 
