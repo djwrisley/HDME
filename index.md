@@ -455,7 +455,7 @@ Tuesday 29 July 2025, 0830-1000
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 5b. Vectorization of geotiffs
+### 5b. Vectorization of geotiffs (cont)
 
 Tuesday 29 July 2025, 1030-1200
 
@@ -464,10 +464,6 @@ Tuesday 29 July 2025, 1030-1200
 * 
 
 #### Pre-reading
-* 
-* 
-
-#### Slides
 * 
 * 
 
