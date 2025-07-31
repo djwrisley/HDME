@@ -504,7 +504,6 @@ Thursday 31 July 2025, 0830-1000
 
 #### Exercises
 *  [Working with QGIS and 19th century map of Besançon](https://memoirevive.besancon.fr/page/xixe-siecle)
-*  Notebook: EXIF data extraction
 
 #### Additional References
 * 
@@ -518,6 +517,7 @@ Tuesday 29 July 2025, 1030-1200
 
 #### Overview
 *  Wikidata and spatial data
+*  EXIF data extraction
 
 #### Pre-reading
 *  [What is SPARQL?](https://en.wikipedia.org/wiki/SPARQL)
@@ -542,6 +542,9 @@ Thursday 31 July 2025, 1400-1530
 
 #### Overview
 *  Final Project Lab 
+
+#### Exercises
+*   Notebook: EXIF data extraction
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
