@@ -79,7 +79,11 @@ layout: default
 
 ## Projects 25
 
-In the ESUDH 2025, we worked on a number of Besançon specific projects. First, we took an interest in the distinctive stone that adorns many of the façades of the buildings in the historical center of Besançon (known as "la Boucle").
+In the ESUDH 2025, we worked on a number of Besançon specific projects. First, we took an example from the Annuaire du Doubs (a local regional directory) and from the subsection known as "Liste des habitants de Besançon" and created a map color coded by profession. 
+
+<img src = "/HDME/assets/Besancon-directory-map-1900.jpg" alt = "A visualization of people names in a circa 1900 city directory from Besançon, France" width = "500"> 
+
+First, we took an interest in the distinctive stone that adorns many of the façades of the buildings in the historical center of Besançon (known as "la Boucle").
 
 The more we looked at the stones the more we realized that some of them contain figures, the way that one might find a subjective perceptions in inkblots in a Rorschach test. Everyone sees slightly different things, but we decided to record these and tag them to make a map. 
 
