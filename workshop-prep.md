@@ -28,17 +28,17 @@
   
   <div class="session-nav-week">
     <h4>Week 2</h4>
-    <a href="./index.html#1b-xxxx" class="session-nav-button">1b</a>
-    <a href="./index.html#2b-xxxx" class="session-nav-button">2b</a>
-    <a href="./index.html#3b-xxxx" class="session-nav-button">3b</a>
-    <a href="./index.html#4b-xxx" class="session-nav-button">4b</a>
-    <a href="./index.html#5b-xxxx" class="session-nav-button">5b</a>
-    <a href="./index.html#6b-xxxx" class="session-nav-button">6b</a>
-    <a href="./index.html#7b-xxxx" class="session-nav-button">7b</a>
-    <a href="./index.html#8b" class="session-nav-button">8b</a>
-    <a href="./index.html#9b-xxxx" class="session-nav-button">9b</a>
+    <a href="./index.html#1b-recap-and-osm" class="session-nav-button">1b</a>
+    <a href="./index.html#2b-querying-osm" class="session-nav-button">2b</a>
+    <a href="./index.html#3b-working-with-printed-historical-collections" class="session-nav-button">3b</a>
+    <a href="./index.html#4b-georeferencing-historical-maps" class="session-nav-button">4b</a>
+    <a href="./index.html#5b-georeferencing-digitized-maps-in-qgis-cont" class="session-nav-button">5b</a>
+    <a href="./index.html#6b-mapping-in-an-ide" class="session-nav-button">6b</a>
+    <a href="./index.html#7b-creating-points-vectors-and-polygons-from-georeferenced-maps" class="session-nav-button">7b</a>
+    <a href="./index.html#8b-wikidata-and-spatial-data" class="session-nav-button">8b</a>
+    <a href="./index.html#9b-final-project-lab" class="session-nav-button">9b</a>
     <a href="./index.html#10b-xxxx" class="session-nav-button">10b</a>
-    <a href="./index.html#11b-xxxx" class="session-nav-button">11b</a>
+    <a href="./index.html#11b-final-project-assembly" class="session-nav-button">11b</a>
   </div>
 </div>
 
@@ -64,17 +64,17 @@
   <div class="session-nav-mobile-week">
     <h4>Week 2 Sessions</h4>
     <div class="session-nav-mobile-buttons">
-      <a href="./index.html#1b-xxxx" class="session-nav-mobile-button">1b</a>
-      <a href="./index.html#2b-xxxx" class="session-nav-mobile-button">2b</a>
-      <a href="./index.html#3b-xxxx" class="session-nav-mobile-button">3b</a>
-      <a href="./index.html#4b-xxx" class="session-nav-mobile-button">4b</a>
-      <a href="./index.html#5b-xxxx" class="session-nav-mobile-button">5b</a>
-      <a href="./index.html#6b-xxxx" class="session-nav-mobile-button">6b</a>
-      <a href="./index.html#7b-xxxx" class="session-nav-mobile-button">7b</a>
-      <a href="./index.html#8b" class="session-nav-mobile-button">8b</a>
-      <a href="./index.html#9b-xxxx" class="session-nav-mobile-button">9b</a>
+      <a href="./index.html#1b-recap-and-osm" class="session-nav-mobile-button">1b</a>
+      <a href="./index.html#2b-querying-osm" class="session-nav-mobile-button">2b</a>
+      <a href="./index.html#3b-working-with-printed-historical-collections" class="session-nav-mobile-button">3b</a>
+      <a href="./index.html#4b-georeferencing-historical-maps" class="session-nav-mobile-button">4b</a>
+      <a href="./index.html#5b-georeferencing-digitized-maps-in-qgis-cont" class="session-nav-mobile-button">5b</a>
+      <a href="./index.html#6b-mapping-in-an-ide" class="session-nav-mobile-button">6b</a>
+      <a href="./index.html#7b-creating-points-vectors-and-polygons-from-georeferenced-maps" class="session-nav-mobile-button">7b</a>
+      <a href="./index.html#8b-wikidata-and-spatial-data" class="session-nav-mobile-button">8b</a>
+      <a href="./index.html#9b-final-project-lab" class="session-nav-mobile-button">9b</a>
       <a href="./index.html#10b-xxxx" class="session-nav-mobile-button">10b</a>
-      <a href="./index.html#11b-xxxx" class="session-nav-mobile-button">11b</a>
+      <a href="./index.html#11b-final-project-assembly" class="session-nav-mobile-button">11b</a>
     </div>
   </div>
 </div>
