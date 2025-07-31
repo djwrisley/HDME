@@ -456,17 +456,13 @@ Tuesday 29 July 2025, 0830-1000
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 5b. Vectorization of geotiffs (cont)
+### 5b. Georeferencing Digitized Maps in QGIS (cont)
 
 Tuesday 29 July 2025, 1030-1200
 
 #### Overview
-*  
-* 
-
-#### Pre-reading
-* 
-* 
+*  Georeferencing Digitized Maps in QGIS
+*  Allmaps
 
 #### Exercises
 * 
@@ -490,18 +486,11 @@ Tuesday 29 July 2025, 1400-1530
 * 
 * 
 
-#### Slides
-* 
-* 
-
 #### Exercises
-* 
-* 
+*  Notebook: Leaflet with R
 
 #### Additional References
-* [Sharing the Workflow Experience](https://campus.dariah.eu/resources/events/sharing-the-experience-workflows-for-the-digital-humanities) (Dariah Campus)
-*  [Research Data Management Best Practices](https://campus.dariah.eu/resources/pathfinders/dariah-pathfinder-to-data-management-best-practices-in-the-humanities)
-* 
+
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -510,20 +499,12 @@ Tuesday 29 July 2025, 1400-1530
 Thursday 31 July 2025, 0830-1000
 
 #### Overview
-* 
-* 
-
-#### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
+*  Vectorization: Tracing polygons or lines in georeferenced maps (sometimes called "digitization" of maps)
+*  Extracting EXIF data from photographs
 
 #### Exercises
-* 
-* 
+*  Working with QGIS
+*  Notebook: EXIF data extraction
 
 #### Additional References
 * 
@@ -536,20 +517,16 @@ Thursday 31 July 2025, 0830-1000
 Tuesday 29 July 2025, 1030-1200
 
 #### Overview
-* 
-* 
+*  Wikidata and spatial data 
+*  
 
 #### Pre-reading
 * 
 * 
 
-#### Slides
-* 
-* 
-
 #### Exercises
-* 
-* 
+*  Notebook: Querying Wikidata for Geolocated Objects
+*  Building SPARQL queries with an LLM
 
 #### Additional References
 * 
@@ -562,24 +539,7 @@ Tuesday 29 July 2025, 1030-1200
 Thursday 31 July 2025, 1400-1530
 
 #### Overview
-* 
-* 
-
-#### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
-
-#### Exercises
-* 
-* 
-
-#### Additional References
-* 
-* 
+*  Final Project Lab 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -588,19 +548,15 @@ Thursday 31 July 2025, 1400-1530
 Friday 1 August 2025, 0830-1000
 
 #### Overview
-*  Project Work
+*  Tropy for Research Data Management 
 * 
 
 #### Pre-reading
-* 
-* 
-
-#### Slides
-* 
-* 
+*  [Research Data Management Best Practices](https://campus.dariah.eu/resources/pathfinders/dariah-pathfinder-to-data-management-best-practices-in-the-humanities)
+*  On Tropy 
 
 #### Exercises
-* 
+*  Importing Images and Setting up EXIF data extraction
 * 
 
 #### Additional References
@@ -614,19 +570,8 @@ Friday 1 August 2025, 0830-1000
 Friday 1 August 2025, 1030-1200
 
 #### Overview
-*  Project Work 
+*  Final Project Work 
 
-#### Pre-reading
-* 
-
-#### Slides
-* 
-
-#### Exercises
-* 
-
-#### Additional References
-* 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -640,15 +585,17 @@ Friday 1 August 2025, 1030-1200
 *  Reviews in the Digital * CLS Infra (Survey of Methods)
 *  Dariah Campus
 *  Humanities Data Fundamentals
+*  [Sharing the Workflow Experience](https://campus.dariah.eu/resources/events/sharing-the-experience-workflows-for-the-digital-humanities) (Dariah Campus)
 *  Mattingly, Introduction to Python for Humanists
 *  Arnold & Tilton, Humanities Data in R, Distant Viewing
 *  Walsh, Introduction to Cultural Analytics and Python
 *  Orange Data Mining 
 *  DHSI list
 *  Liste DH
-*  Dariah Campus Sharing the Workflows
 *  Mixed Methods
 *  DH & AI 
+*  Dariah Teach
+*  Dariah Campus 
 
 
 ### About this course :
