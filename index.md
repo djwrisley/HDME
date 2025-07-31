@@ -158,6 +158,7 @@ Tuesday 22 July 2025, 1430-1600
 * Creating spatial data for humanities projects
 
 #### Pre-reading
+* [What is Spatial Data?](https://datawithmarco.com/blog/what-is-spatial-data)
 * [Broman, Karl W. and Kara H. Woo. 2018. Data Organization in Spreadsheets. In _The American Statistician_, 72(1), 2–10.](https://doi.org/10.1080/00031305.2017.1375989)
 * [Guldi, Jo. "What is the Spatial Turn?". *Scholars’ Lab*.](https://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/)
 * [White, Richard. "What is Spatial History?". *Stanford Spatial History Project*.](https://web.stanford.edu/group/spatialhistory/static/publications/pub29.html)
