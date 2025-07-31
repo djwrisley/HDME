@@ -537,7 +537,7 @@ Tuesday 29 July 2025, 1030-1200
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 9b. XXXX
+### 9b. Final Project Lab 
 
 Thursday 31 July 2025, 1400-1530
 
@@ -546,6 +546,7 @@ Thursday 31 July 2025, 1400-1530
 
 #### Exercises
 *   Notebook: EXIF data extraction
+*   Resolving and Categorizing Annotations  
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
