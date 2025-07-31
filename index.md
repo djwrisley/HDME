@@ -494,7 +494,7 @@ Tuesday 29 July 2025, 1400-1530
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
-### 7b. XXXX
+### 7b. Creating Points, Vectors and Polygons from Georeferenced Maps
 
 Thursday 31 July 2025, 0830-1000
 
@@ -517,20 +517,20 @@ Thursday 31 July 2025, 0830-1000
 Tuesday 29 July 2025, 1030-1200
 
 #### Overview
-*  Wikidata and spatial data 
-*  
+*  Wikidata and spatial data
 
 #### Pre-reading
-* 
-* 
+*  [What is Wikidata?](https://www.wikidata.org/wiki/Wikidata:Main_Page) 
+*  [Zhao, A systematic review of Wikidata in Digital Humanities projects, DSH](https://doi.org/10.1093/llc/fqac083)
+*  [Baker & Mahal, “I have always found the whole area a minefield”: Wikidata, historical lives, and knowledge infrastructure, IJDH](https://link.springer.com/article/10.1007/s42803-024-00090-5)
 
 #### Exercises
 *  Notebook: Querying Wikidata for Geolocated Objects
 *  Building SPARQL queries with an LLM
 
 #### Additional References
-* 
-* 
+*  [Reconciling Data with OpenRefine in Wikidata](https://openrefine.org/docs/manual/wikibase/reconciling) 
+*  [CFP: Wikidata across the humanities: datasets, methodologies, reuse, JODH](https://openhumanitiesdata.metajnl.com/collections/wikidata_across_the_humanities) 
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
@@ -548,19 +548,19 @@ Thursday 31 July 2025, 1400-1530
 Friday 1 August 2025, 0830-1000
 
 #### Overview
-*  Tropy for Research Data Management 
-* 
+*  Tropy for Image Data Management 
 
 #### Pre-reading
 *  [Research Data Management Best Practices](https://campus.dariah.eu/resources/pathfinders/dariah-pathfinder-to-data-management-best-practices-in-the-humanities)
-*  On Tropy 
+*  [Tropy for Graduate Students](https://youtu.be/yppPfY9Vb48?)
+*  [Tutorial: Tropy Basics](https://hh2023w.amason.sites.carleton.edu/week-9-project-preparation/tutorial-tropy-basics/)
 
 #### Exercises
+*  Exploring Tropy's supported Ontologies
 *  Importing Images and Setting up EXIF data extraction
-* 
 
 #### Additional References
-* 
+*  [Tropy documentation](https://docs.tropy.org/)
 * 
 
 <a href="#top" class="back-to-top">Back to Top</a>
