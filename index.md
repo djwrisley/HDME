@@ -528,7 +528,7 @@ Tuesday 29 July 2025, 1030-1200
 
 #### Exercises
 *  Notebook: Querying Wikidata for Geolocated Objects
-*  Building SPARQL queries with an LLM
+*  Building SPARQL queries with an LLM and [Wikidata Query Service](https://query.wikidata.org/)
 
 #### Additional References
 *  [Reconciling Data with OpenRefine in Wikidata](https://openrefine.org/docs/manual/wikibase/reconciling) 
