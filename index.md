@@ -520,6 +520,7 @@ Tuesday 29 July 2025, 1030-1200
 *  Wikidata and spatial data
 
 #### Pre-reading
+*  [What is SPARQL?](https://en.wikipedia.org/wiki/SPARQL)
 *  [What is Wikidata?](https://www.wikidata.org/wiki/Wikidata:Main_Page) 
 *  [Zhao, A systematic review of Wikidata in Digital Humanities projects, DSH](https://doi.org/10.1093/llc/fqac083)
 *  [Baker & Mahal, “I have always found the whole area a minefield”: Wikidata, historical lives, and knowledge infrastructure, IJDH](https://link.springer.com/article/10.1007/s42803-024-00090-5)
@@ -531,6 +532,7 @@ Tuesday 29 July 2025, 1030-1200
 #### Additional References
 *  [Reconciling Data with OpenRefine in Wikidata](https://openrefine.org/docs/manual/wikibase/reconciling) 
 *  [CFP: Wikidata across the humanities: datasets, methodologies, reuse, JODH](https://openhumanitiesdata.metajnl.com/collections/wikidata_across_the_humanities) 
+*  [del Pino & Hogan, Wikidata Atlas: Putting Wikidata on the Map](https://dl.acm.org/doi/abs/10.1145/3543873.3587356)
 
 <a href="#top" class="back-to-top">Back to Top</a>
 
