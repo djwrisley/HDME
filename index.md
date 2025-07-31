@@ -503,7 +503,7 @@ Thursday 31 July 2025, 0830-1000
 *  Extracting EXIF data from photographs
 
 #### Exercises
-*  Working with QGIS
+*  [Working with QGIS and 19th century map of Besançon](https://memoirevive.besancon.fr/page/xixe-siecle)
 *  Notebook: EXIF data extraction
 
 #### Additional References
