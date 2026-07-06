@@ -45,7 +45,16 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 2a |  |  |  |  |  |
+| 2a | 6.7, 1430-1600 | Kepler / Palladio / UMap | - using simple web-based platforms to make a first map with data provided | 
+- Pascoe, [What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) 2025 
+- Wilson, Mapping, in Digital Geographies, 2019. 
+- Turner, [Introduction to Neogeography,](https://www.oreilly.com/library/view/introduction-to-neogeography/0596529953/ar01s07.html) 2007 
+- Noucher, [Les petites cartes du web,](https://books.openedition.org/editionsulm/4840) 2017
+- Conroy, [Networks, Maps, and Time: Visualizing Historical Networks Using Palladio,](https://dhq-static.digitalhumanities.org/pdf/000534.pdf) DHQ 2021, 15.1 | 
+ - [kepler.gl](kepler.gl)
+ - [Palladio](https://hdlab.stanford.edu/palladio-app/)
+ - [UMAP](https://umap.openstreetmap.fr/en/)
+ |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -53,7 +62,8 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 3a |  |  |  |  |  |
+| 3a | 7.7 0900-1030 | Github for hosting / Github Desktop / self hosted Interactive maps for the web / alternatives to Github | - explore how geospatial technologies can support humanities argument and storytelling
+ |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -61,7 +71,8 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 4a |  |  |  |  |  |
+| 4a | 7.7 1050-1230 | Spatial Humanities Project Exploration | -explore how geospatial technologies can support humanities argument and storytelling
+ |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -69,7 +80,8 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 5a |  |  |  |  |  |
+| 5a | 7.7 1430-1600 | Setting up Group data collection - understanding location services / EXIF data - “Portes de Besançon” (Doors of Besançon) | -establishing community standards for project -defining project infrastructure and workflow
+ |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -77,7 +89,8 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 6a |  |  |  |  |  |
+| 6a | 8.7 0900-1030 | Visit to Besançon Bibliothèque d’études et de conservation (Bibliothèque municipale) | - encountering primary source material (printed books and maps) - brainstorming about uses in spatial humanities scholarship
+ |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -85,7 +98,7 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 7a |  |  |  |  |  |
+| 7a | 8.7 1050-1230 | QGIS / QGIS to static image |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -93,7 +106,7 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 8a |  |  |  |  |  |
+| 8a | 8.7 1430-1600 | Doors of Besançon 1: Organizing Group data collection / Normalizing / Creating Tagging / spatial data  |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -101,7 +114,7 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 9a |  |  |  |  |  |
+| 9a | 9.7 0900-1030 | Editing OpenStreetMap, community efforts in OSM |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -109,7 +122,9 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 10a |  |  |  |  |  |
+| 10a | 9.7 1050-1230 | OSM overpass turbo 
+- workflow design & LLM created script
+ |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -117,7 +132,7 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 11a |  |  |  |  |  |
+| 11a | 9.7 1430-1600 | RCityViews for Understanding OSM data |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
