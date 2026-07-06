@@ -25,3 +25,5 @@ Participants will work on a hands-on mapping project throughout the workshop. Pr
 - Be accompanied by brief documentation
 
 More details will be shared during the workshop.
+
+Last year's final project can be found [here](https://mapping-aficionados.github.io/GroupPresentation/Project_Week2.html)
