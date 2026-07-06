@@ -10,8 +10,8 @@ permalink: /
 
 ## Workshop Information
 
-- **Workshop**: [European Summer University in Digital Humanities](esudh.github.io) – Besançon July 2026
-- **Instructor**: [David Joseph Wrisley](https://esudh.github.io/instructors/#david-wrisley), [Voica Pușcașiu](https://esudh.github.io/instructors/#voica-pu%C8%99ca%C8%99iu)
+- **Workshop**: [European Summer University in Digital Humanities](https://esudh.github.io/) – Besançon July 2026
+- **Instructors**: [David Joseph Wrisley](https://esudh.github.io/instructors/#david-wrisley), [Voica Pușcașiu](https://esudh.github.io/instructors/#voica-pu%C8%99ca%C8%99iu)
 - **Location**: [Université Marie et Pierre Pasteur, Besançon, France](https://www.openstreetmap.org/query?lat=47.234132&lon=6.025455)
 
 ## About This Workshop
