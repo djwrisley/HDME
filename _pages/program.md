@@ -31,7 +31,9 @@ More details will be added as the program is finalized.
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 1a |  |  |  |  |  |
+| 1a | 6.7 1050-1230 | introduction to the course, stack, instructors & participants | - learning about course and fellow participants, where to find information
+ | - course site
+ | / |
 
 [top of page](#top) [bottom of page](#bottom)
 
