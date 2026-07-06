@@ -1,0 +1,12 @@
+main:
+  - title: "About"
+    url: /about/
+
+  - title: "Preparation"
+    url: /preparation/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Program"
+    url: /program/
