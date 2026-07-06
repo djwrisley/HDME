@@ -21,7 +21,7 @@ As we will be doing some data collection in the city, it will also be beneficial
 | Google | for access to drive for some file sharing | perhaps can forego, with reduced functionality | 
 | [Posit.cloud](https://posit.cloud/plans) | sharing of R Markdown files and running code | Choose the free account |
 | [OSM](https://www.openstreetmap.org/user/new) | edit access to OSM editing and login for UMap | |  
-| [GitHub](https://github.com/signup) | for Github pages, hosting web maps | If you already have a GitHub account, there is no need to make another one. If you have your own web hosting, you can use that. If you want to be able to try the agent-coding (see 9a), use your university .edu email and apply for [Github Education](https://github.com/education) from a campus location using Settings > Billing and licensing > Education benefits. | 
+| [GitHub](https://github.com/signup) | for Github pages, hosting web maps | If you already have a GitHub account, there is no need to make another one. If you have your own web hosting, you can use that. If you want to be able to try the agent-coding exercise, you need to use your university .edu email and to apply for [Github Education](https://github.com/education) from a campus location using Settings > Billing and licensing > Education benefits. | 
 | [Recogito](https://recogito.pelagios.org/) | for group annotation | |
 | [Zotero](https://www.zotero.org/user/register) | for HDME bibliography | optional, unless you want to join the group | 
 | LLM of your choice (chatGPT, Gemini, Mistral) | for debugging and some code generation | optional, other genAI interfaces are possible | 
