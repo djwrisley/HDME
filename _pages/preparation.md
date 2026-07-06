@@ -30,13 +30,14 @@ As we will be doing some data collection in the city, it will also be beneficial
 | [Zotero](https://www.zotero.org/user/register) | for HDME bibliography | optional, unless you want to join the group | 
 | LLM of your choice (chatGPT, Gemini, Mistral) | for debugging and some code generation | optional, other genAI interfaces are possible | 
 
+
 ### 3. Downloads
 
 | software | usage | notes |
 |----------|-------|-------|
 | [Github Desktop](https://desktop.github.com/) | for management of files on GitHub | if fluent in git in terminal, not necessary | 
 | [Visual Studio Code](https://code.visualstudio.com/download) | an easy to use text editor for editing files locally | if you already use another text editor such as Sublime, that should also work. The examples we will use in the workshop will be done in VSC. |
-| [QGIS](https://qgis.org/download/) | Open source GIS standalone software | Don't download the regular version, but instead the Long Term Version 3.40.8 'Bratislava.' Mac users will need to heed the "tips for first launch." | 
+| [QGIS](https://qgis.org/download/) | Open source GIS standalone software | Don't download the regular version, but instead the Long Term Version 3.44.1 'Solothurn.' Mac users will need to heed the "tips for first launch." | 
 | [Tropy](https://tropy.org/) | a CMS for photos | optional | 
 
  
