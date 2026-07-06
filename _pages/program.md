@@ -22,9 +22,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 1a | 6.7 1050-1230 | introduction to the course, stack, instructors & participants | <br> -learning about course and fellow participants, their projects <br> -where to find information
- | - [course site](djwrisley.github.io/HDME)
- | / |
+| 1a | 6.7 1050-1230 | Introduction to the course, stack, instructors & participants | <br> -learning about course and fellow participants, their projects <br> -where to find information | <br> -[course site](djwrisley.github.io/HDME) | / |
 
 [top of page](#top) [bottom of page](#bottom)
 
