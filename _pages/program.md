@@ -4,6 +4,10 @@ title: "Program"
 permalink: /program/
 ---
 
+<div style="background-color: #57068C; padding: 40px 20px; margin: 0 0 30px 0; text-align: center; border-radius: 0;">
+  <h1 style="color: white; margin: 0; font-size: 2.5em; font-weight: 300; letter-spacing: 2px;">Humanities Data and Mapping Environments</h1>
+</div>
+
 ## Workshop Program
 
 This page contains the schedule and program for the Humanities Data and Mapping Environments workshop at ESU DH – Besançon 2026.
