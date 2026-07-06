@@ -32,15 +32,14 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 2a | 6.7, 1430-1600 | Kepler / Palladio / UMap | - using simple web-based platforms to make a first map with data provided | 
-- Pascoe, [What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) 2025 
-- Wilson, Mapping, in Digital Geographies, 2019. 
-- Turner, [Introduction to Neogeography,](https://www.oreilly.com/library/view/introduction-to-neogeography/0596529953/ar01s07.html) 2007 
-- Noucher, [Les petites cartes du web,](https://books.openedition.org/editionsulm/4840) 2017
-- Conroy, [Networks, Maps, and Time: Visualizing Historical Networks Using Palladio,](https://dhq-static.digitalhumanities.org/pdf/000534.pdf) DHQ 2021, 15.1 | 
- - [kepler.gl](kepler.gl)
- - [Palladio](https://hdlab.stanford.edu/palladio-app/)
- - [UMAP](https://umap.openstreetmap.fr/en/)
+| 2a | 6.7, 1430-1600 | Kepler / Palladio / UMap | - using simple web-based platforms to make a first map with data provided | <br> - Pascoe, [What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) 2025 
+<br> -Wilson, Mapping, in Digital Geographies, 2019. 
+<br> -Turner, [Introduction to Neogeography,](https://www.oreilly.com/library/view/introduction-to-neogeography/0596529953/ar01s07.html) 2007 
+<br> -Noucher, [Les petites cartes du web,](https://books.openedition.org/editionsulm/4840) 2017
+<br> -Conroy, [Networks, Maps, and Time: Visualizing Historical Networks Using Palladio,](https://dhq-static.digitalhumanities.org/pdf/000534.pdf) DHQ 2021, 15.1 | 
+ <br> -[kepler.gl](kepler.gl)
+ <br> -[Palladio](https://hdlab.stanford.edu/palladio-app/)
+<br> -[UMAP](https://umap.openstreetmap.fr/en/)
  |
 
 [top of page](#top) [bottom of page](#bottom)
