@@ -40,8 +40,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 3a | 7.7 0900-1030 | Github for hosting / Github Desktop / self hosted Interactive maps for the web / alternatives to Github | - explore how geospatial technologies can support humanities argument and storytelling
- |  |  |
+| 3a | 7.7 0900-1030 | <br> -Github for hosting / Github Desktop <br> -self hosted Interactive maps for the web <br> -alternatives to Github | <br> -explore how geospatial technologies can support humanities argument and storytelling
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -49,8 +48,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 4a | 7.7 1050-1230 | Spatial Humanities Project Exploration | -explore how geospatial technologies can support humanities argument and storytelling
- |  |  |
+| 4a | 7.7 1050-1230 | Spatial Humanities Project Exploration | <br> -explore how geospatial technologies can support humanities argument and storytelling
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -58,8 +56,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 5a | 7.7 1430-1600 | Setting up Group data collection - understanding location services / EXIF data - “Portes de Besançon” (Doors of Besançon) | -establishing community standards for project -defining project infrastructure and workflow
- |  |  |
+| 5a | 7.7 1430-1600 | <br> -Setting up Group data collection <br> -understanding location services <br> -EXIF data <br> -“Portes de Besançon” (Doors of Besançon) | <br> -establishing community standards for project <br> -defining project infrastructure and workflow
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -67,8 +64,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 6a | 8.7 0900-1030 | Visit to Besançon Bibliothèque d’études et de conservation (Bibliothèque municipale) | - encountering primary source material (printed books and maps) - brainstorming about uses in spatial humanities scholarship
- |  |  |
+| 6a | 8.7 0900-1030 | Visit to Besançon Bibliothèque d’études et de conservation (Bibliothèque municipale) | <br> -encountering primary source material (printed books and maps) <br> -brainstorming about uses in spatial humanities scholarship
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -76,7 +72,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 7a | 8.7 1050-1230 | QGIS / QGIS to static image |  |  |  |
+| 7a | 8.7 1050-1230 | <br> -Introduction to QGIS <br> -QGIS to static image |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -84,7 +80,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 8a | 8.7 1430-1600 | Doors of Besançon 1: Organizing Group data collection / Normalizing / Creating Tagging / spatial data  |  |  |  |
+| 8a | 8.7 1430-1600 | <br> -Doors of Besançon 1 <br> -Organizing Group data collection <br> -Normalizing / Creating Tagging spatial data  |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -92,7 +88,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 9a | 9.7 0900-1030 | Editing OpenStreetMap, community efforts in OSM |  |  |  |
+| 9a | 9.7 0900-1030 | <br> -Editing OpenStreetMap <br> -community efforts in OSM |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -100,8 +96,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 10a | 9.7 1050-1230 | OSM overpass turbo 
-- workflow design & LLM created script
+| 10a | 9.7 1050-1230 | <br> -OSM overpass turbo <br> -workflow design & LLM created script
  |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
