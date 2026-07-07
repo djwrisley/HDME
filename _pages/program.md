@@ -46,7 +46,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 4a | 7.7 1050-1230 | [Spatial Humanities Project Exploration]() | <br> -explore how geospatial technologies can support humanities argument and storytelling <br> -discuss what spatial research does well | 
+| 4a | 7.7 1050-1230 | [Spatial Humanities Project Exploration](https://djwrisley.github.io/HDME/hosting/spatial-projects26) | <br> -explore how geospatial technologies can support humanities argument and storytelling <br> -discuss what spatial research does well | <br> -[Another courses's list of projects](https://hh2025w.amason.sites.carleton.edu/labs/spatial-humanities-gis-mapping-101/)
 
 [top of page](#top) [bottom of page](#bottom)
 
