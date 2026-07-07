@@ -53,6 +53,8 @@ Before we begin, here are some new terms you'll encounter when working with GitH
 
    These instructions will guide you through the third option.
 
+   ![Image](/HDME/assets/images/creatingacct.png)
+
 2. Make sure you have downloaded a text editor of your choice for your system. This guide will explain how to use [Visual Studio Code](https://code.visualstudio.com/). Others are possible, such as [Sublime Text](https://www.sublimetext.com/) or [RStudio Desktop](https://posit.co/download/rstudio-desktop/), but they are not explained here.
 
 3. Make sure you have downloaded [Github Desktop](https://desktop.github.com/) for your system. If you are familiar with versioning systems, you do not have to use Github Desktop and its graphic user interface, but this tutorial assumes that you do. Some folks like to use [Visual Studio Code](https://code.visualstudio.com/) because they can push their code directly to GitHub, but we have kept the intermediate step to foreground the versioning process. Feel free to work in the way that is most intuitive and efficient for you.
@@ -83,7 +85,11 @@ We will use the starter website (and customize it) for our work, including the c
 
 2. In Github Desktop, go to File > Clone Repository or with the above-mentioned repository, click on the `add` button and pull down for `clone repository`.
 
+   ![Image](/HDME/assets/images/clonerepo1.png)
+
 3. There are several ways of finding the repository you want to clone. When you install Github Desktop for the first time it may ask you if you want to clone. It may also suggest that repo once you have selected `clone repository`. Another sure way of selecting the right place is to copy the URL of your repository where you forked the `minimal-mistakes` template. You can paste that URL in the URL tab and click clone.
+
+   ![Image](/HDME/assets/images/clonerepo.png)
 
 4. If successful, you should be able to see the repository in the current repository tab at top left in Github Desktop.
 
@@ -92,6 +98,8 @@ We will use the starter website (and customize it) for our work, including the c
 Now that you have a copy of the repository on your laptop you can edit it there (even offline and with no internet connection) and then later "push" the changes to the web.
 
 When you edit, save in your text editor (and sometime enter a commit message in Github Desktop), you then click `commit to master` and you will see a blue button at right `push origin`. Click it to transfer these changes to the web. That is three clicks to push something to the web!
+
+![Image](/HDME/assets/images/pushing.png)
 
 > **Remember:** Every time you push to the web, the compiler works to make your page's updates. Be patient and look for the green arrow which indicates that your site has been rebuilt with the changes you made. If you see a brown dot next to the last commit message in the repository holding the site, the compiler has not finished. Go have some tea or a quick walk–it will be done soon.
 
