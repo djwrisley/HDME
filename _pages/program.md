@@ -30,7 +30,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 2a | 6.7, 1430-1600 | Kepler / Palladio / UMap | <br> -using simple web-based platforms to make a first map with data provided | <br> -Pascoe, [What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) 2025 <br> -Wilson, Mapping, in Digital Geographies, 2019. <br> -Turner, [Introduction to Neogeography,](https://www.oreilly.com/library/view/introduction-to-neogeography/0596529953/ar01s07.html) 2007 <br> -Noucher, [Les petites cartes du web,](https://books.openedition.org/editionsulm/4840) 2017 <br> -Conroy, [Networks, Maps, and Time: Visualizing Historical Networks Using Palladio,](https://dhq-static.digitalhumanities.org/pdf/000534.pdf) DHQ 2021, 15.1 | <br> -[kepler.gl](kepler.gl) <br> -[Palladio](https://hdlab.stanford.edu/palladio-app/) <br> -[UMAP](https://umap.openstreetmap.fr/en/) |
+| 2a | 6.7, 1430-1600 | [Kepler](https://kepler.gl/) / [Palladio](https://hdlab.stanford.edu/palladio-app/#/upload) / [UMap](https://umap.openstreetmap.fr/en/) | <br> -using simple web-based platforms to make a first map with data provided | <br> -Pascoe, [What is Humanities Mapping?](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003327677-15/humanities-mapping-bill-pascoe) 2025 <br> -Wilson, Mapping, in _Digital Geographies_, 2019. <br> -Turner, [Introduction to Neogeography,](https://www.oreilly.com/library/view/introduction-to-neogeography/0596529953/ar01s07.html) 2007 <br> -Noucher, [Les petites cartes du web,](https://books.openedition.org/editionsulm/4840) 2017 <br> -Conroy, [Networks, Maps, and Time: Visualizing Historical Networks Using Palladio,](https://dhq-static.digitalhumanities.org/pdf/000534.pdf) DHQ 2021, 15.1 | <br> -[kepler.gl](kepler.gl) <br> -[Palladio](https://hdlab.stanford.edu/palladio-app/) <br> -[UMAP](https://umap.openstreetmap.fr/en/) |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -38,7 +38,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 3a | 7.7 0900-1030 | <br> -Github for hosting / Github Desktop <br> -self hosted Interactive maps for the web <br> -alternatives to Github | <br> -explore how geospatial technologies can support humanities argument and storytelling
+| 3a | 7.7 0900-1030 | <br> -Github for hosting <br> -Github Desktop <br> -self hosted Interactive maps for the web <br> -[alternatives to Github](https://itsfoss.com/github-alternatives/) | <br> -[on static sites and other minimal forms of DH infrastructure](https://lib-static.github.io/)
 
 [top of page](#top) [bottom of page](#bottom)
 
