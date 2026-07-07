@@ -10,6 +10,7 @@
 
 # Site settings
 title: HDME
+baseurl: /HDME
 
 email: djw12@nyu.edu
 description: >-
