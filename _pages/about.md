@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About"
-permalink: /
+permalink: /about/
 ---
 
 <div style="background-color: #57068C; padding: 40px 20px; margin: 0 0 30px 0; text-align: center; border-radius: 0;">
