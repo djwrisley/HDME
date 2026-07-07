@@ -54,7 +54,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 5a | 7.7 1430-1600 | <br> -Setting up Group data collection <br> -understanding location services <br> -EXIF data <br> -“Portes de Besançon” (Doors of Besançon) | <br> -establishing community standards for project <br> -defining project infrastructure and workflow
+| 5a | 7.7 1430-1600 | <br> -Setting up Group data collection <br> -understanding location services <br> -EXIF data <br> -“Portes de Besançon” (Doors of Besançon) | <br> -establishing community standards for project <br> -defining project infrastructure and workflow | <br> -the [Spatial Humanities Kit](https://spatialhumanitieskit.org/) <br> -Wrisley, [Digital Spatial Practices nd Linguistic Landscaping in Beirut](https://archive.nyu.edu/handle/2451/61046) 
 
 [top of page](#top) [bottom of page](#bottom)
 
