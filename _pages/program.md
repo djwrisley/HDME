@@ -38,7 +38,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 3a | 7.7 0900-1030 | <br> -[Github](https://github.com/) essentials & for hosting <br> -[Github Desktop](https://desktop.github.com/download/) <br> -self hosted Interactive maps for the web <br> -[alternatives to Github](https://itsfoss.com/github-alternatives/) | <br> -to explore minimal hosting in static sites as DH literacy <br> -to understand what static sites are and are not | <br> -[what is a static site?](https://kinsta.com/blog/what-is-a-static-website/) <br> -[on static sites and other minimal forms of DH infrastructure](https://lib-static.github.io/) <br> -[Creating a Static Site in Github Pages](https://djwrisley.github.io/HDME/hosting/) <br> -https://opengulf.github.io/maps/ | 
+| 3a | 7.7 0900-1030 | <br> -[Github](https://github.com/) essentials & for hosting <br> -[Github Desktop](https://desktop.github.com/download/) <br> -self hosted Interactive maps for the web <br> -[alternatives to Github](https://itsfoss.com/github-alternatives/) | <br> -to explore minimal hosting in static sites as DH literacy <br> -to understand what static sites are and are not | <br> -[what is a static site?](https://kinsta.com/blog/what-is-a-static-website/) <br> -[on static sites and other minimal forms of DH infrastructure](https://lib-static.github.io/) <br> -[Creating a Static Site in Github Pages](https://djwrisley.github.io/HDME/hosting/) <br> -[OpenGulf research group maps](https://opengulf.github.io/maps/) | 
 
 [top of page](#top) [bottom of page](#bottom)
 
