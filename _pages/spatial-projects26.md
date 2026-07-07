@@ -42,6 +42,7 @@ Pick a couple projects from the list below (feel free to work in pairs!) and con
 - [Headless Women in Public Art](https://headlesswomeninpublic.art/)
 - [Hospital Corridor Smellscape](https://sensorymaps.com/?projects=hospital-corridor-smellscape)
 - [Icelandic Saga Map](https://sagamap.hi.is/is/)
+- [Images et édifices de Montréal](https://imtl.org/montreal_historique.php)
 - [Las calles de la mujeres (The Streets of Women)](https://geochicasosm.github.io/lascallesdelasmujeres/)
 - [Local Environmental Observer (LEO) Network](https://www.leonetwork.org/en/#lat=62.874798248437855&lng=65.62501788139345&zoom=3&showing=38A28CF0-0188-449D-A63A-B8A4F7A9C240)
 - [Letters 1916-2023](https://letters1916.ie/wp-post/visual-exploration)
