@@ -46,7 +46,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 4a | 7.7 1050-1230 | [Spatial Humanities Project Exploration]() | <br> -explore how geospatial technologies can support humanities argument and storytelling <br> -discuss what spatial research does well 
+| 4a | 7.7 1050-1230 | [Spatial Humanities Project Exploration]() | <br> -explore how geospatial technologies can support humanities argument and storytelling <br> -discuss what spatial research does well | 
 
 [top of page](#top) [bottom of page](#bottom)
 
