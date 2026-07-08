@@ -70,7 +70,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 7a | 8.7 1050-1230 | <br> -Doors of Besançon 1 <br> -Organizing Group data collection <br> -Normalizing / Creating Tagging spatial data |  <br> -critical discussion of "distant coding" | <br> -Slides <br> -Fan and Salter, [Distant Coding for the Digital Humanities](https://anastasiasalter.net/DistantCoding/transcript.html) | <br> -Besançon door map (in Drive) |
+| 7a | 8.7 1050-1230 | <br> -Doors of Besançon 1 <br> -Organizing Group data collection <br> -Normalizing / Creating Tagging spatial data |  <br> -critical discussion of "distant coding" | <br> -Slides "Distant Coding (and Gazetteers)" <br> -Fan and Salter, [Distant Coding for the Digital Humanities](https://anastasiasalter.net/DistantCoding/transcript.html) | <br> -Besançon door map (in Drive) |
 
 [top of page](#top) [bottom of page](#bottom)
 
