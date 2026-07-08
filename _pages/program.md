@@ -62,7 +62,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 6a | 8.7 0900-1030 | <br> -Troubleshooting our photos with browser-based EXIF tools <br> -Introduction to QGIS <br> -QGIS to static image | <br> -an introduction to an open source standalone geographic information system (GIS) <br> -learning how to export an image for a publication | | <br> -[Exiftool in the browser](https://exif.tools/exiftool) <br> -[Exifeditor](https://exifeditor.io/) <br> -[UFO sighting map/dataset](https://nuforc.org/map/) |
+| 6a | 8.7 0900-1030 | <br> -Troubleshooting our photos with browser-based EXIF tools <br> -Hosting our first map from Kepler.gl on Github Pages <br> -Introduction to QGIS <br> -QGIS to static image | <br> -an introduction to an open source standalone geographic information system (GIS) <br> -learning how to export an image for a publication | | <br> -[Exiftool in the browser](https://exif.tools/exiftool) <br> -[Exifeditor](https://exifeditor.io/) <br> -[UFO sighting map/dataset](https://nuforc.org/map/) |
 
 [top of page](#top) [bottom of page](#bottom)
 
