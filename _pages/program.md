@@ -78,14 +78,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 8a | 8.7 1430-1600 | <br> -Editing OpenStreetMap <br> -community efforts in OSM |  | - Budhathoki and Haythornthwaite, Motivation for Open Collaboration, 2012
-
-- Buczkowski, Why Would You Use OpenStreetMap if there is Google Maps? 2017
-
-- Corporate Incursions into OpenStreetMap
-
-Schröder-Bergen, Crowd-Based Geodata Production and Platform Capitalism: The Case of OpenStreetMap, 2025. 
- |  |
+| 8a | 8.7 1430-1600 | <br> -Editing OpenStreetMap <br> -community efforts in OSM |  | <br> -Budhathoki and Haythornthwaite, [Motivation for Open Collaboration](https://journals.sagepub.com/doi/10.1177/0002764212469364), 2012 <br> -Buczkowski, [Why Would You Use OpenStreetMap if there is Google Maps?](https://geoawesome.com/why-would-you-use-openstreetmap-if-there-is-google-maps/), 2017 <br> -Corporate Incursions into OpenStreetMap <br> -Schröder-Bergen, [Crowd-Based Geodata Production and Platform Capitalism: The Case of OpenStreetMap](https://doi.org/10.1007/978-3-031-53594-9_4), 2025. |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
