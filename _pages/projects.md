@@ -40,8 +40,10 @@ Here are some tips from the various 2026 participants:
 
 | make | model | suggestion | 
 | --------- |--------- | --------- | 
-| Xiaomi | Redmi Note 13 Pro+ 5G | share the images to Google photos and share |
-| | | |
+| Xiaomi | Redmi Note 13 Pro+ 5G | put the image in an Album (Google Photos) and share the album |
+| Apple | iPhone | Airdrop (selecting include location) |
+| Apple | iPhone | photos app, export to iCloud, select image and export (include title and location issues) |
+| | | | 
 
 
 
