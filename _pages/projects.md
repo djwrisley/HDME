@@ -10,7 +10,7 @@ permalink: /projects/
 
 ## Workshop Project
 
-We will carry out a collective project in the  Humanities Data and Mapping Environments workshop. The theme of the 2026 project is "Portes de Besançon" (Doors of Besançon). Participants can also work on their own projects. 
+We will carry out a collective project in the  Humanities Data and Mapping Environments workshop. The theme of the 2026 project is "Portes de Besançon" (Doors of Besançon). Participants can also simultaneously work on their own projects. 
 
 _Details will be added here as the workshop progresses._
 

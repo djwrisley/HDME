@@ -54,7 +54,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 5a | 7.7 1430-1600 | <br> -Setting up Group data collection <br> -understanding location services <br> -EXIF data <br> -“Portes de Besançon” (Doors of Besançon) | <br> -establishing community standards for project <br> -defining project infrastructure and workflow | <br> -the [Spatial Humanities Kit](https://spatialhumanitieskit.org/) <br> -Wrisley, [Digital Spatial Practices nd Linguistic Landscaping in Beirut](https://archive.nyu.edu/handle/2451/61046) <br> -[what is a computational notebook?] <br> -workflows : Transformations (DARIAH) double special issue, [Introduction part 1](https://doi.org/10.46298/transformations.15780), [Introduction part 2](https://doi.org/10.46298/transformations.16806). <br> -Dariah Campus, [Sharing the experience: workflows for the digital humanities](https://campus.dariah.eu/resources/events/sharing-the-experience-workflows-for-the-digital-humanities) 
+| 5a | 7.7 1430-1600 | <br> -Setting up Group data collection <br> -understanding location services <br> -EXIF data <br> -“Portes de Besançon” (Doors of Besançon) | <br> -establishing community standards for project <br> -defining project infrastructure and workflow | <br> -the [Spatial Humanities Kit](https://spatialhumanitieskit.org/) <br> -Wrisley, [Digital Spatial Practices nd Linguistic Landscaping in Beirut](https://archive.nyu.edu/handle/2451/61046) <br> -[what is a computational notebook?](https://martinfowler.com/bliki/ComputationalNotebook.html) <br> -workflows : Transformations (DARIAH) double special issue, [Introduction part 1](https://doi.org/10.46298/transformations.15780), [Introduction part 2](https://doi.org/10.46298/transformations.16806). <br> -Dariah Campus, [Sharing the experience: workflows for the digital humanities](https://campus.dariah.eu/resources/events/sharing-the-experience-workflows-for-the-digital-humanities) 
  | posit.cloud | 
 
 [top of page](#top) [bottom of page](#bottom)
@@ -104,7 +104,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 11a | 9.7 1430-1600 | <br> -RCityViews for Understanding OSM data <br> -Storymaps.js demo | <br> -using a computational notebook to understand the features of urban geography in OSM <br> -creative coding with OSM Data | <br> -[RCityViews documentation](https://koenderks.github.io/rcityviews/index.html0) | <br> -posit.cloud notebook |
+| 11a | 9.7 1430-1600 | <br> -RCityViews for Understanding OSM data <br> -Storymaps.js demo | <br> -using a computational notebook to understand the features of urban geography in OSM <br> -create a stylized map of any place in the world | <br> -[RCityViews documentation](https://koenderks.github.io/rcityviews/index.html0) | <br> -posit.cloud notebook |
 
 [top of page](#top) [bottom of page](#bottom)
 
