@@ -79,7 +79,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 8a | 8.7 1430-1600 | <br> -Editing OpenStreetMap <br> -community efforts in OSM |  | <br> -Budhathoki and Haythornthwaite, [Motivation for Open Collaboration](https://journals.sagepub.com/doi/10.1177/0002764212469364), 2012 <br> -Buczkowski, [Why Would You Use OpenStreetMap if there is Google Maps?](https://geoawesome.com/why-would-you-use-openstreetmap-if-there-is-google-maps/), 2017 <br> -[Inside the Wikipedia of Maps, Tensions Grow over Corporate Influence](https://www.bloomberg.com/news/articles/2021-02-19/openstreetmap-charts-a-controversial-new-direction)  <br> -Schröder-Bergen, [Crowd-Based Geodata Production and Platform Capitalism: The Case of OpenStreetMap](https://doi.org/10.1007/978-3-031-53594-9_4), 2025. |  |
+| 8a | 8.7 1430-1600 | <br> -Editing OpenStreetMap <br> -[humanitarian efforts in OSM](https://www.hotosm.org/en/) |  | <br> -Budhathoki and Haythornthwaite, [Motivation for Open Collaboration](https://journals.sagepub.com/doi/10.1177/0002764212469364), 2012 <br> -Buczkowski, [Why Would You Use OpenStreetMap if there is Google Maps?](https://geoawesome.com/why-would-you-use-openstreetmap-if-there-is-google-maps/), 2017 <br> -[Inside the Wikipedia of Maps, Tensions Grow over Corporate Influence](https://www.bloomberg.com/news/articles/2021-02-19/openstreetmap-charts-a-controversial-new-direction)  <br> -Schröder-Bergen, [Crowd-Based Geodata Production and Platform Capitalism: The Case of OpenStreetMap](https://doi.org/10.1007/978-3-031-53594-9_4), 2025. |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -95,8 +95,8 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 10a | 9.7 1050-1230 | <br> -OSM overpass turbo <br> -workflow design & LLM created script
- |  |  |  |
+| 10a | 9.7 1050-1230 | <br> -OSM overpass turbo web-based interface <br> -workflow design & agent-assisted project brainstorming
+ | <br> -to practice obtaining OSM data for download <br> -to learn about, and critically assess, OSM feature types <br> -to assess coverage of feature types  | <br> -[Who are the GeoChicas?](https://geochicas.github.io/) <br> -[Las Calles de las Mujeres](https://geochicasosm.github.io/lascallesdelasmujeres/) | <br> - |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -104,7 +104,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 11a | 9.7 1430-1600 | RCityViews for Understanding OSM data |  |  |  |
+| 11a | 9.7 1430-1600 | <br> -RCityViews for Understanding OSM data <br> -Storymaps.js demo | <br> -using a computational notebook to understand the features of urban geography in OSM <br> -creative coding with OSM Data | <br> -[RCityViews documentation](https://koenderks.github.io/rcityviews/index.html0) | <br> -posit.cloud notebook |
 
 [top of page](#top) [bottom of page](#bottom)
 
