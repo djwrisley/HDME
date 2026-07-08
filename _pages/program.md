@@ -62,7 +62,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 6a | 8.7 0900-1030 | Visit to Besançon Bibliothèque d’études et de conservation (Bibliothèque municipale) | <br> -encountering primary source material (printed books and maps) <br> -brainstorming about uses in spatial humanities scholarship
+| 6a | 8.7 0900-1030 | <br> -Troubleshooting our photos with browser-based EXIF tools <br> -Introduction to QGIS <br> -QGIS to static image | <br> -an introduction to an open source standalone geographic information system (GIS) <br> -learning how to export an image for a publication | | <br> -[Exiftool in the browser](https://exif.tools/exiftool) <br> -[Exifeditor](https://exifeditor.io/) <br> -[UFO sighting map/dataset](https://nuforc.org/map/) |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -70,7 +70,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 7a | 8.7 1050-1230 | <br> -Introduction to QGIS <br> -QGIS to static image |  |  |  |
+| 7a | 8.7 1050-1230 | <br> -Doors of Besançon 1 <br> -Organizing Group data collection <br> -Normalizing / Creating Tagging spatial data |  <br> -critical discussion of "distant coding" | <br> -Slides <br> -Fan and Salter, [Distant Coding for the Digital Humanities](https://anastasiasalter.net/DistantCoding/transcript.html) | <br> -Besançon door map (in Drive) |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -78,7 +78,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 8a | 8.7 1430-1600 | <br> -Doors of Besançon 1 <br> -Organizing Group data collection <br> -Normalizing / Creating Tagging spatial data  |  |  |  |
+| 8a | 8.7 1430-1600 | <br> -Editing OpenStreetMap <br> -community efforts in OSM |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -86,7 +86,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 9a | 9.7 0900-1030 | <br> -Editing OpenStreetMap <br> -community efforts in OSM |  |  |  |
+| 9a | 9.7 0900-1030 |  |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
