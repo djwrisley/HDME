@@ -87,7 +87,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 9a | 9.7 0900-1030 | <br> -data collection in the streets of Besançon  <br> -meeting in the classroom and norming | <br> -to practice using _in situ_ data collection methods | <br> -Wenz and Keusch, "[Increasing the Acceptance of Smartphone-Based Data Collection](https://doi.org/10.1093/poq/nfad019)" (2023) <br> -Hedges and Dunn, [Academic Crowdsourcing in the Humanities](https://www.sciencedirect.com/book/monograph/9780081009413/)academic-crowdsourcing-in-the-humanities| <br> -smartphone cameras, Google Drive |
+| 9a | 9.7 0900-1030 | <br> -data collection in the streets of Besançon  <br> -meeting in the classroom and norming | <br> -to practice using _in situ_ data collection methods | <br> -Wenz and Keusch, "[Increasing the Acceptance of Smartphone-Based Data Collection](https://doi.org/10.1093/poq/nfad019)" (2023) <br> -Hedges and Dunn, [Academic Crowdsourcing in the Humanities](https://www.sciencedirect.com/book/monograph/9780081009413/)academic-crowdsourcing-in-the-humanities) | <br> -smartphone cameras, Google Drive |
 
 [top of page](#top) [bottom of page](#bottom)
 
