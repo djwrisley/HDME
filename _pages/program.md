@@ -95,7 +95,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 10a | 9.7 1050-1230 | <br> -OSM overpass turbo web-based interface <br> -workflow design & agent-assisted project brainstorming | <br> -to practice obtaining OSM data for download <br> -to learn about, and critically assess, OSM feature types <br> -to assess coverage of feature types  | <br> -[Who are the GeoChicas?](https://geochicas.github.io/) <br> -[Las Calles de las Mujeres](https://geochicasosm.github.io/lascallesdelasmujeres/) | |
+| 10a | 9.7 1050-1230 | <br> -OSM overpass turbo web-based interface <br> -workflow design & agent-assisted project brainstorming | <br> -to practice obtaining OSM data for download <br> -to learn about, and critically assess, OSM feature types <br> -to assess coverage of feature types  | <br> -[Who are the GeoChicas?](https://geochicas.github.io/) <br> -[Las Calles de las Mujeres](https://geochicasosm.github.io/lascallesdelasmujeres/) <br> -López et al, [Collaborative Feminist Cartography in Geographical Education](https://www.mdpi.com/2220-9964/14/11/440) <br> -EDJN, [How We Used OpenStreetMap and Wikidata to Map StreetNames Across Europe](https://www.europeandatajournalism.eu/cp_data_news/finding-gendered-street-names-a-step-by-step-walkthrough-with-r/) | <br> -Overpass Turbo <br> -WikiDataR, OSMdata packages |
 
 [top of page](#top) [bottom of page](#bottom)
 
