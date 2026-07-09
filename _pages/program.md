@@ -95,7 +95,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 10a | 9.7 1050-1230 | <br> -OSM overpass turbo web-based interface <br> -workflow design & agent-assisted project brainstorming | <br> -to practice obtaining OSM data for download <br> -to learn about, and critically assess, OSM feature types <br> -to assess coverage of feature types  | <br> -[Who are the GeoChicas?](https://geochicas.github.io/) <br> -[Las Calles de las Mujeres](https://geochicasosm.github.io/lascallesdelasmujeres/) | <br> - |
+| 10a | 9.7 1050-1230 | <br> -OSM overpass turbo web-based interface <br> -workflow design & agent-assisted project brainstorming | <br> -to practice obtaining OSM data for download <br> -to learn about, and critically assess, OSM feature types <br> -to assess coverage of feature types  | <br> -[Who are the GeoChicas?](https://geochicas.github.io/) <br> -[Las Calles de las Mujeres](https://geochicasosm.github.io/lascallesdelasmujeres/) | |
 
 [top of page](#top) [bottom of page](#bottom)
 
