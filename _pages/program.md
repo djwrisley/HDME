@@ -103,9 +103,11 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 11a | 9.7 1430-1600 | <br> -RCityViews for Understanding OSM data <br> -Storymaps.js demo | <br> -using a computational notebook to understand the features of urban geography in OSM <br> -create a stylized map of any place in the world | <br> -[RCityViews documentation](https://koenderks.github.io/rcityviews/index.html0) | <br> -posit.cloud notebook |
+| 11a | 1430-1600 | <br> -Construct initial dataset <br> -Storymaps.js demo | <br> -practice data modeling  |  | <br> -Notebook |
 
 [top of page](#top) [bottom of page](#bottom)
+
+| optional |  | <br> -RCityViews for Understanding OSM data <br> -Storymaps.js demo | <br> -using a computational notebook to understand the features of urban geography in OSM <br> -create a stylized map of any place in the world | <br> -[RCityViews documentation](https://koenderks.github.io/rcityviews/index.html0) | <br> -posit.cloud notebook |
 
 ## Week 2
 
