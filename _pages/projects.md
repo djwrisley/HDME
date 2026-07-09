@@ -45,6 +45,14 @@ Here are some tips from the various 2026 participants:
 | Apple | iPhone | photos app, export to iCloud, select image and export (include title and location issues) |
 | | | | 
 
+### Things to consider when collecting data in HDME
 
+- Avoid photographing people (standing next to doors, sitting behind a glass door, reflecting in the glass)
+- Avoid PII (personally identifiable information).
+- Avoid military and police locations. 
+- Consider the context. 
+- Remember that the photo has to be easily visible in a thumbnail form. 
+- Consider lighting, shadow when taking a picture. 
+- Be careful for your own safety. Vehicules are present.   
 
 The final project of 2025 can be found [here](https://mapping-aficionados.github.io/GroupPresentation/Project_Week2.html)
