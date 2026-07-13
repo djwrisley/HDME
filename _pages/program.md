@@ -16,6 +16,8 @@ The detailed program will be published here as the workshop unfolds.
 
 ## Week 1
 
+<a href="#week-2" style="display: inline-block; margin: 15px 0; padding: 10px 20px; background-color: #57068C; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">↓ Jump to Week 2</a>
+
 In the first week of the course we conduct a critical review of a range of spatial humanities projects: their scope and the rhetorical strategies they employ for spatial storytelling and argument. We will begin by reflecting on how location-based research might be incorporated into research projects in different disciplines (cinema, art history, anthropology, history, literature, etc.) as well as the challenges of incorporating a spatial dimension into research. We will learn about the creation of data in formats relevant to spatial humanities projects (using gazetteers, mobile data collection, off-the-shelf software) as well as some basic querying in order to perform repetitive tasks for building a spatial dataset. Students will be introduced to normalization and data wrangling techniques and will contrast the manual, slow creation of data with more automated forms of analysis. We will set up a collective project using _in situ_ data collection in Besançon using a static site in Github pages. 
 
 ### Session 1a
@@ -110,6 +112,8 @@ In the first week of the course we conduct a critical review of a range of spati
 | optional |  | <br> -RCityViews for Understanding OSM data <br> -Storymaps.js demo | <br> -using a computational notebook to understand the features of urban geography in OSM <br> -create a stylized map of any place in the world | <br> -[RCityViews documentation](https://koenderks.github.io/rcityviews/index.html0) | <br> -posit.cloud notebook |
 
 ## Week 2
+
+<a href="#week-1" style="display: inline-block; margin: 15px 0; padding: 10px 20px; background-color: #57068C; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">↑ Jump back to Week 1</a>
 
 ### Session 1b
 
