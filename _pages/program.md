@@ -119,7 +119,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 1b | 13.7 0900-1030 |   <br> -Manual annotation of "1, The Road” with Recogito <br> -Export and making map in kepler <br> -Status update with doors project <br> -Creating metadata categories | <br> -learning manual annotation of a complex literary document using selected gazetteers <br> -designing metadata from data sample | <br> -[AI Artists, Ross Goodwin](https://aiartists.org/ross-goodwin) <br> -"[Gazetteer](https://en.wikipedia.org/wiki/Gazetteer) <br> -Goodchild and Hill, "[An Introduction to Digital Gazetteer Research](https://www.tandfonline.com/doi/pdf/10.1080/13658810701850497)" | <br> -[Recogito](https://recogito.pelagios.org/) |
+| 1b | 13.7 0900-1030 |   <br> -Manual annotation of "1, The Road” with Recogito <br> -Export and making map in kepler <br> -Status update with doors project <br> -Creating metadata categories | <br> -learning manual annotation of a complex literary document using selected gazetteers <br> -designing metadata from data sample | <br> -[AI Artists, Ross Goodwin](https://aiartists.org/ross-goodwin) <br> -"[Gazetteer](https://en.wikipedia.org/wiki/Gazetteer) <br> -Goodchild and Hill, "[An Introduction to Digital Gazetteer Research](https://www.tandfonline.com/doi/pdf/10.1080/13658810701850497)" | <br> -[Recogito](https://recogito.pelagios.org/) <br> -[Give us your username here](https://docs.google.com/spreadsheets/d/1valPd8WCnl5OSldEPvI-f-AO9zoUvQyQg3MsTI6eM_U/edit?gid=0#gid=0)|
 
 
 [top of page](#top) [bottom of page](#bottom)
