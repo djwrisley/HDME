@@ -2,6 +2,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "FR"
+    url: /France/
+
   - title: "Preparation"
     url: /preparation/
 
