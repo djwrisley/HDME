@@ -128,7 +128,8 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 2b |  |  |  |  |  |
+| 2b | 13.7 0900-1030 | <br> -distant coding using GeoNames data dump & UFO dataset | <br> - practicing agentic coding in VSC <br> -generating a Markdown document <br> -publishing Markdown to our Github Pages | <br> -Slides: Distant Coding (and Gazetteers) | <br> -France geonames data <br> -Romania geonames data <br> -[GeoNames downloads](https://www.geonames.org/export/)
+ |
 
 [top of page](#top) [bottom of page](#bottom)
 
