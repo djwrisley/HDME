@@ -128,7 +128,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 2b | 13.7 0900-1030 | <br> -distant coding using GeoNames data dump | <br> - practicing agentic coding in VSC <br> -generating a Markdown document <br> -publishing Markdown to our Github Pages | <br> -Slides: Distant Coding (and Gazetteers) | <br> -[Transkribus](https://www.transkribus.org/) <br> -France geonames data <br> -Romania geonames data <br> -[_GeoNames_ downloads](https://www.geonames.org/export/) |
+| 2b | 13.7 0900-1030 | <br> -distant coding using GeoNames data dump | <br> - practicing agentic coding in VSC <br> -generating a Markdown document <br> -publishing Markdown to our Github Pages | <br> -Slides: Distant Coding (and Gazetteers) | <br> -France geonames data <br> -Romania geonames data <br> -[_GeoNames_ downloads](https://www.geonames.org/export/) |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -138,7 +138,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 3b |  |  |  | Strickland, [LLM prompt templates](https://github.com/buzzcauldron/transcription-protocol/blob/main/prompt-templates.md) |  |
+| 3b | 13.7  | 1050-1230 | Extracting Information from Art History Ledgers (Cluj-Napoca) | Strickland, [LLM prompt templates](https://github.com/buzzcauldron/transcription-protocol/blob/main/prompt-templates.md) | <br> -[Transkribus](https://www.transkribus.org/) |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -154,7 +154,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 5b |  |  |  |  |  |
+| 5b | 1050-1230 | Extracting Information from Tunis Phonebook (1961) | <br> -critical examination of source structure <br> -modeling spatial datasets using prompt design |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
