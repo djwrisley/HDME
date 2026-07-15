@@ -138,7 +138,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 3b |  |  |  |  |  |
+| 3b |  |  |  | Strickland, [LLM prompt templates](https://github.com/buzzcauldron/transcription-protocol/blob/main/prompt-templates.md) |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
