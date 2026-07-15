@@ -2,6 +2,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Doors"
+    url: /map/  
+
   - title: "Preparation"
     url: /preparation/
 

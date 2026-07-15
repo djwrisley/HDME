@@ -128,11 +128,12 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 2b | 13.7 0900-1030 | <br> -distant coding using GeoNames data dump & UFO dataset | <br> - practicing agentic coding in VSC <br> -generating a Markdown document <br> -publishing Markdown to our Github Pages | <br> -Slides: Distant Coding (and Gazetteers) | <br> -France geonames data <br> -Romania geonames data <br> -[GeoNames downloads](https://www.geonames.org/export/)
- |
+| 2b | 13.7 0900-1030 | <br> -distant coding using GeoNames data dump | <br> - practicing agentic coding in VSC <br> -generating a Markdown document <br> -publishing Markdown to our Github Pages | <br> -Slides: Distant Coding (and Gazetteers) | <br> -[Transkribus](https://www.transkribus.org/) <br> -France geonames data <br> -Romania geonames data <br> -[_GeoNames_ downloads](https://www.geonames.org/export/) |
 
 [top of page](#top) [bottom of page](#bottom)
 
+> The 14th of July is a holiday in France
+ 
 ### Session 3b
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
@@ -145,7 +146,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 4b |  |  |  |  |  |
+| 4b | 15.7 0900-1030 | ”1, The Road” automated geocoding | <br> -review the manual semantic annotation process <br> -become acquainted with automatic geocoding <br> -compare human- and machine-based annotation process |  | <br> -NER <br> -Recogito |
 
 [top of page](#top) [bottom of page](#bottom)
 
