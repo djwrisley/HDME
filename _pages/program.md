@@ -162,7 +162,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 6b | 1430-1600 | Work on Doors of Besançon dataset |  |  |  |
+| 6b | 15.7 | 1430-1600 | Work on Doors of Besançon dataset |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -170,7 +170,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 7b |  |  |  |  |  |
+| 7b | 16.7 | 0900-1030 |  QGIS georeferencing - Pearling Path | - [The Pearling Path](https://pearlingpath.bh/en/) (Muharraq, Bahrain) | -brochure |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -178,7 +178,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 8b |  |  |  |  |  |
+| 8b | 16.7 | 1050-1230 | <br> -QGIS georeferencing <br> -QGIS Vectorization demo  |  |  | <br> -QGIS <br> -All Maps |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -186,7 +186,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 9b |  |  |  |  |  |
+| 9b | 16.7 | 1430-1600 | Doors of Besançon dataset preparation |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
