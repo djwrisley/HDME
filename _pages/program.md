@@ -154,7 +154,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 5b | 1050-1230 | Extracting Information from Tunis Phonebook (1961) | <br> -critical examination of source structure <br> -modeling spatial datasets using prompt design |  |  |
+| 5b | 1050-1230 | Extracting Information from Tunis Phonebook (1961) | <br> -critical examination of source structure <br> -modeling spatial datasets using prompt design <br> -benchmarking of LLM for complex pages <br> -critical assessment of outputs |  | -LLM of your choice |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -162,7 +162,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 6b |  |  |  |  |  |
+| 6b | 1430-1600 | Work on Doors of Besançon dataset |  |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
