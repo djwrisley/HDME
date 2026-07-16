@@ -170,7 +170,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 7b | 16.7 | 0900-1030 |  QGIS georeferencing - Pearling Path | - [The Pearling Path](https://pearlingpath.bh/en/) (Muharraq, Bahrain) | -brochure |
+| 7b | 16.7 | 0900-1030 |  QGIS georeferencing - Pearling Path | <br> -[Old Maps Online](https://www.oldmapsonline.org/en#position=5/47.25/6.02) <br> -[Gent gemapt (in Dutch)](https://kaart.gentgemapt.be/) - [The Pearling Path](https://pearlingpath.bh/en/) (Muharraq, Bahrain) | -Pearling Path brochure |
 
 [top of page](#top) [bottom of page](#bottom)
 
