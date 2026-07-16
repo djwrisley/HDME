@@ -170,7 +170,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 7b | 16.7 | 0900-1030 |  QGIS georeferencing - Pearling Path | <br> -[Old Maps Online](https://www.oldmapsonline.org/en#position=5/47.25/6.02) <br> -[Gent gemapt (in Dutch)](https://kaart.gentgemapt.be/) - [The Pearling Path](https://pearlingpath.bh/en/) (Muharraq, Bahrain) | -Pearling Path brochure |
+| 7b | 16.7 | 0900-1030 |  QGIS georeferencing - Pearling Path | <br> -[Old Maps Online](https://www.oldmapsonline.org/en#position=5/47.25/6.02) <br> -[Gent gemapt (in Dutch)](https://kaart.gentgemapt.be/) - [The Pearling Path](https://pearlingpath.bh/en/) (Muharraq, Bahrain) | |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -178,7 +178,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 8b | 16.7 | 1050-1230 | <br> -QGIS georeferencing <br> -QGIS Vectorization demo  |  |  | <br> -QGIS <br> -All Maps |
+| 8b | 16.7 | 1050-1230 | <br> -QGIS georeferencing <br> -QGIS Vectorization demo  |  | <br> -Cole et al, ["Mapping Tribes: Ottoman Spatial Thinking in Iraq and Arabia, c. 1910"](https://archive.nyu.edu/handle/2451/74329) | <br> -QGIS <br> -Pearling Path brochure <br> -[U Texas Perry-Castañeda Library Map Collection](https://maps.lib.utexas.edu/maps/index.html) <br> -[All Maps] <br> -[Georeferencer]() |
 
 [top of page](#top) [bottom of page](#bottom)
 
