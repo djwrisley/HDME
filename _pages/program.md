@@ -194,7 +194,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 10b |  |  |  |  |  |
+| 10b | 17.7 | 0900-1030 | Doors of Besançon dataset preparation |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
@@ -202,7 +202,7 @@ In the first week of the course we conduct a critical review of a range of spati
 
 | session | date & time | topic | pedagogical objective | reading | platform / data |
 |---------|-------------|-------|----------------------|---------|------------------|
-| 11b |  |  |  |  |  |
+| 11b | 17.7 | 1050-1230 | Doors of Besançon dataset preparation |  |  |
 
 [top of page](#top) [bottom of page](#bottom)
 
